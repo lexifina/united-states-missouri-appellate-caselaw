@@ -1,0 +1,39 @@
+---
+court: "Missouri Court of Appeals"
+decided: "1885-03-23"
+citations: ["17 Mo. App. 92"]
+reporter: "mo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["All concur."]
+parties: ["James S. Cannon, Plaintiff in Error, v. Milton Moore, Adm’r, Knox, deceased, Defendant in Error."]
+source_url: "https://static.case.law/mo-app/17/cases/0092-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 535817
+cites_cases: ["11 Wall. 139", "13 Pick. 443", "20 Mo. 18", "25 Mo. 391", "51 Mo. 51", "60 Mo. 305", "66 Mo. 468", "71 Mo. 401", "73 Mo. 49", "78 Mo. 298"]
+---
+
+# Cannon v. Moore
+
+## Majority (Philips, P. J.)
+
+Opinion by
+Philips, P. J.
+1. The first objection lodged- against the action of the trial court is the admission of the evidence of the widow of Knox. It is claimed that this evidence comes within tlie rule of incompetency declared in Holman v. Bacchus (73 Mo. 49.) In that case section 4014 of Devised Statutes, 1879, was construed by the court to disqualify the surviving wife as a witness to prove what was said by another in conversation with.her husband, even though she did not detail what the husband said; and, further, that said section renders her incompetent to prove any act done by the other party as part of the res gestee, explainable by such conversation.
+It is to be observed that in that case the wife testified to what 'the other party said to her husband in connection with the thing done. It was held that her statemenkwas inadmissible.
+But that is not this case. They differ in essentials. The first fact testified to by the wife or widow of Knox pertained solely to the incidents of the two men coming to her husband’s house and remaining over night, and to what they said to her next morning, and what they did in her presence, apart from her husband. This did not touch upon any conversation to which her husband was a party, nor any act explainable by any conversation between him and the other party.
+"We understand the common-law rale to be, that, after the death of the husband, the widow is competent to establish facts coming to her knowledge from other sources, and not by virtue of her marital relation or situation as wife, “notwithstanding they related to the transactions of her husband; as to such facts, so coming to her, she is a competent witness in behalf of the estate of her deceased husband.” — Greenl. Ev., sect. 338; Coffin v. Jones, 13 Pick. 443; Stein v. Weidman's Adm'r, 20 Mo. 18; Sherwood v. Hill, 25 Mo. 391.
+This rule is not abrogated by any statute.
+So in respect of the second statement to which the widow was permitted to testify, she spoke not of any conversation had, to which her husband was a party. She testified merely to physical facts, or obvious acts, passing before her eyes, with which her marital relation had no legal connection.
+Nor do we think the other objection to this evidence well taken, that her husband not being a party to the conversation between her and the patent fork vendors, and Landis not being present at either of the times mentioned, the same is hearsay, or res inter alios acta.
+Two of the basal issues involved in this controversy were: - Was the first transaction, by which Hardy and Martin obtained the first two notes, fraudulent, and was there deception and fraud employed by Wright in procuring the last note? The evidence, however slight, reasonably tending to aid the jury in discovering the real facts of the matter, was clearly admissible. Fraud, as Judge Cooley puts it, being “peculiarly a wrong of secrecy and circumvention — to be traced not in the open: proclamation of the wrong-doer’s purpose, but by the indications of covered tracks and studious concealments,” the proof of it is often and necessarily made up of small particles of facts and incidents, the sum of which may make a fortress of strength.
+2. The chief insistance of the able counsel for the plaintiff in error is, that the note in suit being negotiable, and endorsed to the plaintiff, Landis, for value before maturity, it was not subject to the defence, in his hands, interposed herein. In other words, his contention is, that there was not sufficient evidence of guilty participation on his part in the fraudulent transaction, to warrant the trial court in submitting the issue to the jury.
+We may concede the law to be, that if the plaintiff purchased the note before maturity, for value and in good faith, it would not be affected in his hands with any fraud in its procurement, provided the. maker voluntarily signed it, having the unrestricted means of knowing at the time- what he was doing, but neglected to avail himself of the ready means of information.- — Shirts v. Overjohn, 60 Mo. 305.
+- Involved, however, in this postulate are two fundamental propositions: first, the purchaser should have taken the note in good faith without notice of the extraneous facts affecting its integrity, and second, he must have paid a valuable consideration therefor.
+That the two notes first obtained from Knox were tainted with fraud and Avere without consideration, admits of little' debate. I am also persuaded from a careful reading of the record, that there was quite enough evidence before the court to warrant' it in sending the case to the jury on the inquiry as to Wright’s fraud and deception in procuring from Knox the note in suit. On that question, in vielv of the instructions of the court, we must, on well-settled principles, presume that the jury passed in reaching their verdict. -Their finding as to-such issue should bind this court.
+. The only remaining question, therefore, for our consideration is, was Landis an innocent purchaser for value ? Having determined that the verdict of the jury in effect found, the participation of Wright in the imputed fraudulent procurement of the note, by which we feel bound as to that issue, I do not see how the trial court could have properly taken the remaining issue from the 'jury, for the law is, that “if there be fraud or illegality in the inception of a bill (or note) or in the circumstances under which it was taken by the person who endorsed it to plaintiff, he must prove consideration.” ■
+This must also be a-valuable consideration. In default-of such proof by the plaintiff, the trial court should direct a -verdict for defendant. — Smith v. Sac County, 11 Wall. 139, and authorities cited. Now as to whether Landis paid one cent for this note, or when and how he paid for it, depend wholly upon his unsupported testimony at the trial. Whether or not he was to be credited or disbelieved belonged exclusively to the jury. The judge on the bench had no right to interfere with their province and discretion. The jury are the sole judges of the credibility of the -witnesses and the weight of the evidence, and the court has no power to coerce their judgment and opinion. — Gregory v. Chambers, 78 Mo. 298-9.
+If we felt called upon to trace out in this record the evidence of Landis’ guilty knowledge in this discreditable adventure, we think we might discover “the indications of covered tracks and studious concealments.” We are disposed to adhere to the rule, announced in State v. Musick (71 Mo. 401) and State v. Zone (Ib. 415), that the appellate court should not reverse a judgment on the ground that the verdict is unsupported by the evidence, unless there be a total absence of any material evidence, or where it so fails to support the verdict, as to necessarily lead to the inference that the jury acted from prejudice or passion:
+Taken as a whole, we think the instructions clearly enough presented the issues in the case; and we fail to discover in them anything calculated to mislead or confuse the jury. The jury found against the plaintiff on the facts, and he must submit to their opinion.
+The judgment of the circuit court is affirmed.
+All concur.
