@@ -1,0 +1,25 @@
+---
+court: "Missouri Court of Appeals"
+decided: "1876-03-07"
+citations: ["1 Mo. App. 378"]
+reporter: "mo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: [".Judge Lewis concurs; Judge Bakewell, having been of. counsel, takes no part in this decision."]
+parties: ["Caleb T. Worley, Respondent, v. William H. Heath et al., Appellants."]
+source_url: "https://static.case.law/mo-app/1/cases/0378-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 546335
+---
+
+# Worley v. Heath
+
+## Majority (Gantt, P. J.,)
+
+Gantt, P. J.,
+delivered the opinion of the court.
+Worley sued O’Connell in replevin to the June term,, 1872, of the St. Louis Circuit Court, to recover possession of a span of horses, wagon, and harness, valued at $750, and $150 damages for their detention. Defendant answered that he was a constable, and rightfully entitled to the possession of the property described, having seized it by virtue of two executions against one Hance; that plaintiff in this action claimed the property as his, whereupon Heath, MudcT & Schoenthaler gave bond, as required by law (Session Acts, 1855, p. 464), indemnifying defendant, which bond! was returned with the execution; and prayed judgment.. Plaintiff denied that such bond had been given and ■ returned. There was a trial by the court, on March 6,. 1873, and judgment for defendant for return of the propertv, or $168, at his option. On the same-day the plaintiff appears to have given notice to Heath, Mudd & Schoenthaler that, on April 1, 1873, he would move for judgment against them on a bond by them executed, and approved by constable P. O’Connell, April 24, 1872, for all damages sustained by plaintiff by reason of the levy of certain executions on the span of horses, wagon, and harness. This motion was heard on October 20, 1873, and thereupon the* court gave judgment against Heath, Mudd & Schoenthaler for the penalty of the bond, to be released on payment of $120, actual damages. A bill of exceptions was tendered by Heath, Mudd & Schoenthaler, and signed by the court,, by which it appears that, “ at the hearing of the motion, plaintiff offered, and the court admitted, against the objection of appellants, a bond.” What the tenor of this bond-was we are not told. The record does not contain it, though it professes to do so. The appellants excepted to its admission. The plaintiff then gave evidence, apparently without' objection, of the damage occasioned to him by the levy, and then read in evidence the claim on which the bond was given. This claim, also, is represented in the bill of exceptions by a blank space. Appellants excepted to the admission of this last piece of evidence. The defendants (we understand this to mean the obligors in the bond) put in' evidence the record of the case of Worley v. O’Connell, and rested. The court having given judgment against theobligors, they filed a motion for a new trial, alleging the-finding and judgment to be against law, against the evidence, to be excessive, and because the whole matter is res adjudicata. The court overruled the -motion-; obligors excepted; and the judgment, being affirmed by the general term, is brought here for review by-appeal.'
+., In consequence of the imperfection of the bill-of exceptions (which almost-justifies the , suspicion that counsel •sometimes prepare their arguments without examining the. record), we can only see that this was a case in which the person making a claim for personal property, levied on under execution, instead of resorting to the bond which the. ■constable holding the execution had taken and returned, saw fit to sue the constable in replevin, and was defeated,according to the provisions of the special act, already quoted, applicable to St. Louis county. Session Acts, 1855, p. 464.- Thereupon he immediately moved for judgment against the obligors in that bond, under the provisions of section 4 of the act referred to, and the Circuit Court gave judgment accordingly against them.
+The proceedings against O’Connell were entirely distinct from those against the obligors. It was a matter of course that plaintiff should fail in the first, his remedy'being misconceived. He appears to have succeeded in the second,- and we can find no error in the action of the Circuit Court. Certainly the matter was not res adjudicata. We cannot tell- what the production before us of the bond and claim referred to, but not shown by the-bill of exceptions, would have demonstrated. We can hardly see any room for think-ihg.tbat they would have materially changed the aspect of the case.
+The point on which the appellants dwell with much urgency is that the same matter which was before the ■court on October 20th had been already determined by that; tribunal on March 6th previous, which we think is an unten-, able position. The judgment of the Circuit Court is affirmed.
+.Judge Lewis concurs; Judge Bakewell, having been of. counsel, takes no part in this decision.
