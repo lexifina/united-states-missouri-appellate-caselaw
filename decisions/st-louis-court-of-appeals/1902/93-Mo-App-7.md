@@ -1,0 +1,38 @@
+---
+court: "St. Louis Court of Appeals"
+decided: "1902-03-01"
+citations: ["93 Mo. App. 7"]
+reporter: "mo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Barclay, and Goode, JJ., concur."]
+parties: ["GUSSIE WALTER, Respondent, v. J. J. DENNEHY, Appellant."]
+source_url: "https://static.case.law/mo-app/93/cases/0007-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1480289
+cites_cases: ["108 Mo. 387", "11 Mo. 299", "111 Mo. 424", "148 Mo. 16", "152 Mo. 426", "23 Ohio St. 532", "3 Neb. 54", "4 Hun 318", "43 Mo. 425", "48 Mo. App. 367", "48 Mo. App. 440", "54 Mich. 66", "54 Mo. -App. 371", "57 N. Y. 567", "68 Mo. 468", "70 Mo. 252", "89 Mo. 106", "94 Mo. 334"]
+---
+
+# Walter v. Dennehy
+
+## Majority (BLAND, P. J.)
+
+BLAND, P. J.
+This is a personal injury case taken from a justice’s court of the city of St. Louis by appeal to the circuit court where, upon a retrial, plaintiff recovered judgment for five hundred dollars, which was reduced to two hundred and fifty dollars by a remittitur entered by plaintiff to avoid a new trial.
+In respect to the injury, plaintiff testified as follows:
+“On the twenty-third of August, about five o’clock in the evening, I was going home from my work; I walked up Washington avenue to Nineteenth street; I was going along Nineteenth street, on the west side of the street; I seen a storm coming up and I hurried; when I got as far as where Mr. Dennehy’s shed is I felt soráething very heavy fall on my head; I was knocked down unconscious and stunned; when I came to I looked around and I saw that an old rocking chair had struck me; my head was cut and bleeding; my nose was cut, my eyes were swollen and blackened, my chest was swollen and discolored from the weight of the chair; I went into one of the neighboring houses and had the folks attend to my bruises.”
+Other witnesses, who saw the accident, testified that plaintiff was not knocked down by the chair but that it fell upon her head; that she threw it off, adjusted her bonnet and walked into a near-by house. In regard to the extent of the injury the evidence tends to prove that plaintiff’s forehead and chest were bruised and that she was treated by a physician from August 23, 1900 (the day of the accident), until the twenty-ninth day of October following, continuously, and at intervals after that date down to the day of the trial; that as a result of-the injury she had obstinate headaches; that prior-to the injury she was able to earn at her occupation (sewing) nine dollars a week; that since the injury, on account of her headaches, she was not able to earn more than from five to five and a half dollars per week.
+Plaintiff’s evidence tends to prove that defendant rented No. 1901, on O’Fallon street; that a barber rented No. 1903 adjoining. There was a shed about forty-two feet long and twenty-two feet wide in this rear of these houses and on the same lot built flush with Nineteenth street. The shed was rented in connection with the buildings in front. It was a one-story shed and had a flat gravel roof. From the second floor of No. 1901 there was a bridge or passway from a porch to the shed. The occupants of the second story of No. 1901 had a clothesline on the roof of the shed and were in the habit of drying their clothes on this line. The defendant occupied the first story of No. 1901 with a stock of groceries, and used a part of the shed in the rear of this building for the storage of coal, etc. The barber who occupied No. 1903 used that portion of the shed in his rear for the same purpose, but did not use any -portion of the roof. The rocking chair, which blew off of the shed and injured plaintiff, had been, on the roof for several months. All the premises of No. 1901 were rented by the defendant, of the owner, to whom he paid all the rent. Defendant was unmarried. The second story of the building was occupied by his unmarried sister and his mother. His sister kept a few boarders and defendant claimed to be one of them. The sister testified that she placed the rocking chair on the roof of the shed and that it was her chair and that she owned all the furniture in the house and conducted the boarding business on her own account. One of her boarders, an employee of the defendant, testified that about a week or ten days before the accident he tied the chair with a wire to a post near the center of the roof.
+Defendant’s evidence was that on the day of the accident there was a very high wind; that it was so strong that it broke two rungs out of the chair where it was tied and carried it into the street.
+In rebuttal to this evidence the plaintiff produced two witnesses who testified that the chair had been sitting near the edge of the roof unsecured for two or tinee days before the accident.
+In respect to the velocity of the wind, Dr. Hyatt, the official weather forecaster for St. Louis, testified that the velocity of the wind at about five or five-thirty p. m. on the day of the accident was fifty-nine miles for a minute or two and that the maximum for five minutes or more was forty-seven miles an hour; that the normal velocity of the wind in the locality of St. Louis for the month of August is from seven to eight miles an hour; that any wind over forty miles an hour is considered a high wind, a gale, but that there was nothing extraordinary in the velocity of the wind on that day; that such gales are frequent in St. Louis'in the summer season.
+During the examination of defendant the following occurred:
+“Q. I will ask you to state who occupied the premises upstairs? A. My sister, sir.
+“Q. Eor what purpose?
+"Mr. Haberman: We object to that; the fact that the defendant - may allow other persons to nse a portion of his building doesnjt excuse him in a suit of this kind at all. He rents the whole place and he is responsible for its condition, and can not escape liability by letting out a portion of the building to one person and a portion to another.
+“Mr. Mulvihill: In this instance we desire to show that the upper portion of this building, 1901, was not occupied at the time Mr. Denehy moved in downstairs. On the contrary he put up signs fFor Rent’ and that two or three months later the premises were sublet, and with the knowledge of the landlord, the defendant in this case would have a perfect right to sublet the upper floor, and if he did he divested himself of control over it.
+“The Court: Is it your purpose to show that the control of the shed was sublet to somebody else?
+- “Mr. Mulvihill: No; that is not the theory of our defense, but we contend that up to the present time there is no evidence to show where the chair came from except that it was on the top of the shed, and we contend that this shed was not under the exclusive control of the defendant.
+“The court sustains the objection; to which ruling of the court, defendant, by counsel, then and there duly excepted.”
+The exclusion of this, evidence was error, for if the defendant had sublet the upper story of the premises to his sister and she was occupying it as his tenant and used the roof of the shed by consent of the owner for the purpose of drying her clothes and put the chair on the roof of the shed for her own private use, as she as a witness for defendant testified she did, she alone was liable for the injury, as the condition of the premises from which the injury resulted was brought about by her agency alone and while she was occupying the premises as a subtenant. Eyre v. Jordan, 111 Mo. 424; Stoetzle v. Swearingen, No. 8252, decided at this term. Eor this error the judgment is reversed and the cause remanded.
+Barclay, and Goode, JJ., concur.
