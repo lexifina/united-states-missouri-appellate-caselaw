@@ -1,0 +1,34 @@
+---
+court: "St. Louis Court of Appeals"
+decided: "1888-10-16"
+citations: ["32 Mo. App. 77"]
+reporter: "mo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Peers, J., concurs; Thompson, J., absent."]
+parties: ["Robert Colvin, Respondent, v. William Sutherland et al., Appellants."]
+source_url: "https://static.case.law/mo-app/32/cases/0077-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 497919
+cites_cases: ["15 Me. 503", "19 Mo. 529", "20 Ohio, 150", "21 Wend. 615", "22 Mo- 402", "24 Yt. 487", "31 Mo. 411", "34 Mo. 55", "39 Me. 119", "40 Mo. 131", "40 Mo. 506", "54 Am. Dec. 273", "55 Am. Dec. 59", "56 Mo. 173", "58 Am. Dec. 191", "64 Mo. 480", "64 Mo. 484", "66 Mo. 325", "67 Mo. 303", "69 Mo. 336", "7 Ind. 106", "71 Mo. 596", "77 Mo. 455", "81 Mo. 227", "90 Mo. 446", "95 Pa. St. 398"]
+---
+
+# Colvin v. Sutherland
+
+## Majority (Rombauer, P. J.,)
+
+Rombauer, P. J.,
+delivered the opinion of the court.
+The defendants were railroad contractors, and as such engaged in excavating the roadbed for (a railroad at right angles across a public highway. The proposed excavation at that point was sixteen feet deep. The defendants, to guard the public, erected a post and wire fence, commonly known as a barb-wire fence, across the public highway on each side of the railroad excavation, and at some little distance therefrom, and deflected the public road at that point so that it crossed the roadbed by a detour on a level, returning into the old roadbed on the other side.
+The evidence tended to show that the plaintiff’s mare, while running at large, ran against the barb-wire fence thus constructed and was seriously injured. Upon a trial of the cause the plaintiff had judgment for the value of the mare. No complaint is made as to the extent of the recovery, provided any recovery is warranted by the law and evidence.
+The substantial complaints made by the defendants are that the court erred in not dismissing the suit for want of jurisdiction; that it misdirected the jury as to the law, and that the verdict is not supported by the evidence.
+I. The cause originated before a justice of the peace. Plaintiff’s statement contained two counts, each stating the same cause of action in somewhat different phraseology, and each concluding with a prayer for judgment for one hundred dollars damages. Defendants moved in the circuit court to dismiss the suit because it was an action of tort, and the damages sought to be recovered were two hundred dollars, and thus the suit was one beyond the justice’s jurisdiction. This motion was properly overruled. It is obvious, from the statement, even without the explanatory disclaimer of plaintiff ’ s counsel, that the entire recovery sought is only one hundred dollars.
+II. The evidence tended to show that the fence erected by defendants was a post and wire fence, the posts set from twelve to fourteen feet apart, with the wires fastened to them in the usual way by staples, and the higher wire four feet above the ground. The fence, under the evidence, was a lawful fence against horses within the requirements of the act of 1887. Laws 1887, p. 194. There was no evidence whatever that defendants’ entry upon the road for the purpose of making the excavation was unlawful, nor that the erection of the fence was unlawful, nor was there any evidence that the erection of post and wire fences at such crossings is unusual, or that the character of the fence is extra dangerous. The plaintiff’s own evidence disclosed the fact that fields along the public road where the accident happened are fenced with similar fences, and that his OAvn fence is of the same character. There was no evidence from which it could be legally inferred that the mare received her injuries by falling into the excavation ; on the contrary, the evidence concedes that the injuries received were caused by her running against some barb-wire fence ; presumably the fence erected by the defendants.
+This being the character of the evidence, the court, upon plaintiff’s request, instructed the jury as follows :
+“The jury are instructed that it was the duty of the defendants, while engaged in the excavation of the roadbed across the public highway, to place reasonable safeguards across said highway at such excavation, to prevent animals from going over said, embankment, and that, if the jury believe, from the evidence, that defendants erected across said road, at such place, a barbed-wire fence, less than four and one-half feet high, and that said fence, on account of its nature, height, and manner of construction, was such, as to endanger animals traveling thereon, and that plaintiff’s mare ran into said fence, and was injured thereby, then in such case the verdict should be for plaintiff.”
+This instruction was clearly erroneous and prejudicial. The first part of it is correct enough, but since the fence was a lawful fence against horses, under the statute of 1887, and since there was no evidence of negligence in its construction either in regard to “its nature, height, or manner,” the second part of the instruction was unsupported by the evidence and thus unwarranted.
+As long as farmers fence their own fields along public roads with barb-wire fences, and contend that they are lawful fences, they cannot justly contend that such fences are unlawful when erected by others ; and we certainly cannot assume this as a matter of law. Eliminating from the case the fact that the fence complained of is a barb-wire fence, there is nothing in the testimony from which the inference can be drawn that its nature, height, or manner of construction was such as to endanger animals traveling on the public highway any more'than any other similar obstruction placed by defendants in the highway. That the defendants could not guard against the dangers of the excavation without placing some obstruction in the road is self-evident.
+III. What has been said herein equally applies to the defendant’s last complaint, that the evidence fails to support the verdict.
+As we shall remand the case for new trial, we may add that defendants are mistaken in trying to apply to the facts of this case the maxim, that he who suffers his cattle to run at large takes upon himself the risk incident to it. The cases of Hughes v. Railroad, 66 Mo. 325, and Turner v. Thomas, 71 Mo. 596, apply this to trespassing cattle, and when thus applied it is generally recognized as correct. In this case the plaintiff ’ s mare was lawfully upon the highway, and if it received injuries there, owing to the negligent construction of an obstruction placed therein, even though the obstruction be lawful, the plaintiff is not debarred from recovering by the fact that his mare was running at large.
+Reversed and remanded.
+Peers, J., concurs; Thompson, J., absent.
