@@ -1,0 +1,29 @@
+---
+court: "St. Louis Court of Appeals"
+decided: "1880-10-26"
+citations: ["9 Mo. App. 309"]
+reporter: "mo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["All the judges concur."]
+parties: ["Dora Ploen et ux., Appellants, v. G. A. Staff, Respondent."]
+source_url: "https://static.case.law/mo-app/9/cases/0309-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 555551
+cites_cases: ["126 Mass. 545", "2 Mo. App. 596", "4 Cush. 277", "43 Barb. 408", "9 Allen, 17"]
+---
+
+# Ploen v. Staff
+
+## Majority (Bakewell, J.,)
+
+Bakewell, J.,
+delivered the opinion of the court.
+The petition in this case sets forth that plaintiffs are husband and wife, and defendant the owner of certain premises in St. Louis, which he had rented to various tenants, each occupying a part thereof; that Jacob Stremmel was one of these tenants, occupying the room up-stairs ; that defendant, as a part of his contracts with said tenants, “ agreed to keep the said premises in repair and in a safe and serviceable condition ; that on November 25, 1878, plaintiff Dora was lawfully upon said premises, at the invitation of said Stremmel, tenant and occupier thereof, and was using the same in a lawful manner ; that while so upon said premises, a wooden step or stair, which the defendant was bound to keep in repair as aforesaid, belonging to and connected with said dwelling-house, was so negligently and imperfectly fastened that it broke and gave way beneath plaintiff, precipitating her to the ground, thereby injuring her arm and hand, and otherwise lacerating and bruising her person, and causing her great pain and anguish ; that plaintiffs had no knowledge of the deficient repair of said stair or step prior to the time said injury occurred, and defendant was well aware of the loose and unsafe condition of said step or stair prior to said injury, and negligently permitted the same to remain in such unsafe condition.” The petition further states that the injury was caused by the negligence and carelessness of defendant in failing to keep said step in good repair, and allowing the same to fall into a ruinous and dangerous condition, and was not caused by any negligence of plaintiff. Damages are asked in the sum of $3,500. The answer is a general denial.
+When the cause was called for trial and a jury empanelled, defendant objected to the introduction of any evidence, on the ground that no cause of action was set forth in the petition. The court sustained the objection, and plaintiff took a nonsuit, which the court afterwards refused to set aside.
+We are of the opinion that the petition does not set forth facts sufficient to constitute a cause of action. Though the landlord covenanted to keep the premises in tenantable condition during the term, it was the duty of a tenant to give him notice of the fact if the premises became ruinous and untenantable. The landlord, in the absence of notification from the tenant, appears to have been under no obligation to keep the inside of the house — to which the tenant only, and those whom he invited to enter, had lawful access — in a safe condition. The landlord cannot be deemed to have broken his engagement, or to be in default, unless it appears that he neglected to do the thing promised, after notice, and the lapse of a time sufficient to enable him to repair Wolcott v. Sullivan, 6 Paige, 117 ; Walker v. Gilbert, 2 Robt. 221.
+The occupier of a building who negligently permits it to remain in an unsafe condition is liable for an injury thereby occasioned to a person whom he induces, by invitation, to enter. It is negligence in the tenant to invite a person to enter an unsafe place without proper warning.
+In Payne v. Rogers, 2 H. Black. 349, it was held that the tenant, as occupier, is prima facie liable to the public, whatever private agreement there may be between him and the landlord ; but if he can show the landlord is to repair, the landlord may be liable to a stranger for damages accruing from his neglect to repair. This was a case of an injury to a stranger arising from a hole in the foot-pavement. And so it will be found in all the cases, English and American, cited in appellants’ brief, that, in every case, the persons suing the landlord, who had covenanted to repair, stood strictly upon their rights as strangers. In one case, the injury was occasioned by neglect to repair the sidewalk in front of the premises-; in another, by the falling of a shed on the highway; in another, by a vault under the sti’eet; in another, by obstruction of a public way. In all the cases, the part of the premises out of repair was not the inside of the tenement, but a part to which strangers had lawful access at all times, without invitation, express or implied, by the tenant.
+When the landlord has not let the premises in a dangerous condition, and has not been requested by the tenant to repair, it is difficult to see ho.w he can have been in fault for uot repairing that portion of the premises to which the public have no access without invitation. That they were in a daiigerous condition, was a reason why the tenant should notify the lessor to repair under his covenant, and why the lessee should not invite persons upon the premises until the danger was removed, but cannot make the landlord liable to strangers under covenent with the lessee, unless under peculiar circumstances, which are not alleged. As is said by a text-writer: “Those who claim on the ground that they were invited into a dangerous place, must seek their remedy against the persons who invited them. If they are the guests of the tenant, he, and not the landlord, is the person against whom they must seek redress.” Shearm. & Redf. on Neg., sect. 503. The adjudged cases seem to bear out this statement.
+The judgment is affirmed.
+All the judges concur.
