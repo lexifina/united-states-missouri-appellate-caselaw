@@ -1,0 +1,23 @@
+---
+court: "St. Louis Court of Appeals"
+decided: "1879-05-06"
+citations: ["7 Mo. App. 171"]
+reporter: "mo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Broadway Savings Bank, Appellant, v. Bernard Schmucker, Respondent."]
+source_url: "https://static.case.law/mo-app/7/cases/0171-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 556784
+cites_cases: ["10 Pick. 528", "10 Pick. 533", "15 Johns. 338", "17 Johns. 58", "56 Mo. 123", "6 Conn. 444", "6 Mass. 85", "64 N. C. 229", "8 Pick. 457"]
+---
+
+# Broadway Savings Bank v. Schmucker
+
+## Majority (Lewis, P. J.,)
+
+Lewis, P. J.,
+delivered the opinion of the court.
+The defendant is sued as indorser of a note made by E. H. Lutkewitte. The defence is, that in a composition between Lutkewitte and his creditors, to which the plaintiff was a party, the plaintiff released, acquitted, and discharged Lutkewitte of all and every claim, demand, indebtedness, and liability of every kind, including the note involved in this snit, whereby the liability of the defendant as indorser was also discharged. To this the plaintiff replies, admitting the composition and release as alleged, but averring that the defendant’s liability was not thereby discharged, because the defendant himself, being in no wise a creditor of Lutkewitte, except upon such contingent claim as mig’ht arise from his position as indorser upon this and other promissory notes, did join in the same composition and release, as a party thereto, and requested the plaintiff so to do also ; that but for such request, and the joining in said composition and release by the defendant, the plaintiff would not have become a party thereto. There were two suits upon different notes, but the parties and the substantial facts being the same in each case, the suits were consolidated. The court, sitting as a jury, found for the defendant.
+The general rule is not questioned, that a release, by the holder, of the maker of a note will operate to discharge the indorser, unless the holder expressly reserve his right to hold the indorser responsible. It is not claimed that there was any express reservation in the present instance. But the plaintiff insists that the indorser’s consent to the discharge of the maker is' equivalent in effect, and that this consent is sufficiently shown by his act of joining in the composition and release. He cites some authorities in support of his position ; but in the most of them, either an express reservation of the right to hold the indorser appeared in the instrument of release, or else the reservation was apparent by implication in the general features of the transaction. Some of the authorities relate to mere extensions of time given to the maker. There is a manifest distinction between such cases and the case of a final discharge of the debt. If the maker’s indebtedness be absolutely released, it is thereby extinguished as fully as if it were paid. Logically, the extinguishment enures to those collaterally liable, as well as to the primary debtor. But an extension leaves the indebtedness in full force against all consenting thereto. The most that the indorser or surety may claim, will be that the extension enures to him in like manner. His consent does neither more nor less than to confirm the extension. Why should his consent do either more or less than to confirm the extinguishment of the debt, in the case of a full release?
+The case of Eggemann v. Henschen, 56 Mo. 123, is a controlling authority on the question here involved, and renders it unnecessary to review the numerous authorities cited by counsel on either side. An examination of the cases, however, satisfies us that the weight of authority elsewhere is in harmony with the Missouri decision. In the case referred to, a composition and release were effected between the makers of a note and their creditors. The plaintiff and the defendant were parties to the arrangement, the plaintiff being holder and the defendant indorser of the note. It was there contended, as it is here, that the assent of the indorser to the release of the maker kept alive his own liability. The Supreme Court held the contrary. Said Judge Adams : “ I do not see that the assent of an indorser to such release would make any difference. The note in suit was, by the deed of composition, released, both as to the makers and the indorser; or, to speak more properly, was effectually retired as to those parties, and could only be revived by going into the hands of an innocent holder for value before maturity.” This decision is conclusive of the questions involved in the present case. All the judges concurring, the judgment is affirmed.
