@@ -1,0 +1,31 @@
+---
+court: "St. Louis Court of Appeals"
+decided: "1887-01-04"
+citations: ["24 Mo. App. 48"]
+reporter: "mo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William Mitchell et al., Appellants, v. H. M. Blossom et al., Respondents."]
+source_url: "https://static.case.law/mo-app/24/cases/0048-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 513952
+cites_cases: ["10 Mo. 601", "11 Mo. 484", "19 Mo. 132", "2 Pa. St. 144", "33 Mo. 547", "51 N. Y. 309", "9 Conn. 334"]
+---
+
+# Mitchell v. Blossom
+
+## Majority (Rombauer, J.,)
+
+Rombauer, J.,
+delivered the opinion of the court.
+This is an action for the recovery of rent. Judgment was rendered in favor of the defendant by the justice before whom the suit was originally tried, and also in the circuit court, where the cause was tried on appeal. The plaintiffs appealing from this judgment assign for error that, the court admitted incompetent testimony ; that it refused legal instructions asked by the plaintiff, and gave erroneous instructions for the defendants, and of its own motion.
+The defendants were lessees of the plaintiffs, under a written lease, for a term of years, expiring on the-first day of October, 1885, at noon, of an office or bank room, at a yearly rent of two thousand dollars, payable in monthly installments of $166.66, in advance, during ■every month of the term. The lease provided, among •other things, that, in case the leased premises shall be vacated, the lessors should have the right to re-enter the same by force or otherwise, without being liable to any prosecution therefor. Also, that the lessees would quit and surrender said premises at the end of the term. Also, that the lessees had the option to re-lease the premises after the expiration of the term, for three years more, at a rental not exceeding two thousand four hundred dollars per annum.
+The plaintiffs gave evidence tending to show that on October 1, 1885, at noon, their agent was on the premises, ready to receive possession, and that he called twice more during the same day ; that he found the premises locked; that none of the defendants were present, and that he’ subsequently demanded the rent for October, which the defendants refused to pay.
+The defendants gave evidence, against the plaintiffs’ objection, tending to show that they moved all their remaining effects from the premises, September 30, to their new office just across the street; that the plaintiffs’ porter in charge of the building, for some purposes, was present when this was done; that they left all the keys which they had received from the plaintiffs in the doors, and left the doors unlocked. The defendants admitted that none of them were present on the premises, October 1, 1885.
+At the close of the evidence the court instructed the jury, in substance, that if the defendants moved out of the premises, prior to the expiration of the term, locked the doors and kept the keys, and did not attend on October 1, when the plaintiffs’ agent called to receive a. surrender, the plaintiffs were entitled to recover, but if the jury found that the defendants’ version of the transaction was the true one, then the defendants were entitled to a verdict. . ,
+We see no contradiction in these instructions, nor «can we see wherein the law thus declared, under the facts of the case, was erroneous or prejudicial to the plaintiffs. Either the liability of the defendants was fixed by the contract, and an intention impliable from their conduct to continue the tenancy during the month of October, or such liability on their part became fixed by the fact that owing to their conduct they were estopped to deny such intention. : No actual occupancy of the premises by the defendants in the month of October ;is shown, because the claim of such occupancy is negatived by the finding of the jury.
+As no formal act is required in this state to determine •.a tenancy which expires on a day certain, any act on the part of the defendants, clearly indicative of the fact that they finally vacated the premises, so that the landlord might take possession of them at the expiration of the term, discharged them from the payment of rent .after such expiration.
+The plaintiffs’ main argument rests on the proposition that, as the premises were not vacated on the day of the expiration of the term, but on -the preceding day, the acts shown by the testimony did not amount to a surrender. In support of that view the cases of Prentiss v. Warne (10 Mo. 601); Kerr v. Clark (19 Mo. 132); and Livermore v. Eddy (33 Mo. 547), are cited. It will ■be seen, however, that all these cases bear only on the ■question, as to what will amount to a surrender, by operation of law, of the residue of an existing term, and not ■on the question as to what will amount to a surrender of the premises at the expiration of the term.. If the action. in this case had been brought for the rent between September 30 and October 1, the cases would be in point. If the action were brought for the increased rent of a renewed term for three years, they might have a possible application, but as it is brought for a mere holding-over under the lease, they can have no application whatever.
+In Schuyler v. Smith (51 N. Y. 309), and Hemphill v. Flynn (2 Pa. St. 144), the holding over by the tenant was admitted, while in Bacon v. Brown (9 Conn. 334), the question was the same as in the Missouri cases •above cited, namely, whether certain acts amounted to a surrender of the residue of a term by operation of law. So that neither of these cases is of any aid to the plaintiffs in this controversy.
+We do not desire to intimate that the plaintiffs in this case might not have maintained an action for damages, if any, sustained by the abandonment of the premises, prior to the expiration of the term, or by the failure of a formal surrender and a turning over of the premises on the day of the termination of the term, in ■the same condition in which such premises were received. That is a question wholly different from the one presented here. It is clear that under the facts, as found by the jury, their claim for rent is untenable. .
+All the judges concurring, the judgment is affirmed.
