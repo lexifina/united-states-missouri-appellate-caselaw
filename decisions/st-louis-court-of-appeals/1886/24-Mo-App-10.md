@@ -1,0 +1,41 @@
+---
+court: "St. Louis Court of Appeals"
+decided: "1886-12-21"
+citations: ["24 Mo. App. 10"]
+reporter: "mo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["M. A. Burns, Respondent, v. Lindell Railway Company, Appellant."]
+source_url: "https://static.case.law/mo-app/24/cases/0010-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 513869
+---
+
+# Burns v. Lindell Railway Co.
+
+## Majority (Rombaueb, J.,)
+
+Rombaueb, J.,
+delivered the opinion of the court.
+This is an action to recover damages for personal injuries sustained by the plaintiff while alighting from a street car. The petition charges that the injuries were caused by the defendant’s negligence in leaving the only step, for the exit and entrance of passengers, in an unsafe condition, in this, that the wood of. the step was worn away by long use and in consequence thereof an iron bar, which served as a protection to the wood, was projecting above the level of the step. That owing to the worn, defective, and negligent condition of the wood-work of said step, and to the dangerous and negligent condition of the iron on said step, .the plaintiff, who was a passenger on said car, in endeavoring to descend from it, tripped and fell and was violently thrown to the earth, causing her permanent injuries.
+The answer is. a general denial, accompanied with an averment of contributory negligence, the latter being denied by reply.
+The jury found for the plaintiff, assessing her damages at $2,583.33. The amount of the verdict was reduced by voluntary remittitur to fifteen. hundred dollars and judgment entered for that amount.
+The defendant' appeals and assigns seven errors. The three last relate to the excessiveness of the damages assessed and to the jury’s misconduct. These we'shall notice no further than by stating that there is sufficient evidence to warrant a judgment for the amount appealed from, and that the evidence tending to show misconduct olithepart.of the jury, rests mainly on a juror’s affidavit, which, under established rules, can not be considered for the purpose of impeaching a verdict.
+The remaining objections are: (1) That the court committed error in admitting illegal, improper,, and incompetent evidence on behalf of the plaintiff, on the trial of the cause. (2) That the court should have sustained the demurrer to the evidence, at the close of the plaintiff’s case. (3) That the court gave erroneous instructions to the jury of its own motion. (4) That the court refused to give instructions offered by the defendant.
+I. In order to determine intelligently the validity of the first complaint it is essential to review briefly the evidence offered by the plaintiff on the point to which that objection relates. The only evidence having any bearing upon the true cause of the accident was that of the plaintiff herself, and the driver of the car, one Tobin. The plaintiff herself testified, that when she attempted to lift her foot down, it was fastened onto the street, (step ?) and the next thing she pitched to the ground. * * * That she was caught towards the toe. * * * That she did not know the condition of the step, and that she did not know of her own knowledge what her foot caught upon.
+The witness, Tobin, testified to the condition in which that rear step was, at the date of the accident complained of. That he was himself on the front platform of the car, and was looking back, and saw the plaintiff go out, describing the manner of her going out. There was no pretense that the witness could, from the place from where he was standing, see either the rear step, or the position of the plaintiff’s feet upon the step. The car had come to a full stop. ■
+This being the testimony, the following occurred upon re-examination of witness, Tobin, by the plaintiff, after he had fully stated, on his examination in chief and on his cross-examination, all that he knew touching the condition of this step, and the circumstances -surrounding the fact of the accident:
+Q. “To what extent was that (the wood)' wore, or how high was the strap elevated above the supporting wood underneath % ’ ’
+A, “ That I did not measure how high it whs. I showed it to the foreman, and asked him if he did not think it was high enough to catch the sole of a woman’s shoe.”
+Q. “Well what was your observation or judgment in regard to that % ”
+A. “7 thought it caught her foot.”
+Counsel for ‘the defendant objected to the question and answer as irrelevant, immaterial, and incompetent, and moved that the latter be stricken out, which objection and motion the court overruled and the defendant excepted.
+What led the court to overrule the objection does not appear. ■ Conceding (for the sake of argument only) that it was competent for the witness to state his opinion as to whether the projection was high enough to catch the sole of a woman’s shoe, and it is still clear that his answer, stating that he thought it caught her foot, was incompetent evidence, and not responsive to the question. It was on the part of the witness the mere conjecture of a fact, which it was the province of the jury to find.
+We are referred by the respondent’s counsel to cases holding that it is the duty of counsel to object to improper questions when they are put, and not to wait with an objection until the witness’ answer discloses whether his response is favorable or not. To apply such a rule to a case where the answer is not responsive to the question, would place the adverse party at the mercy of any willing and hostile witness.
+We are also told, that the practice of striking out incompetent evidence does not prevail in this state, that such practice would be equivalent to an oral instruction to the jury, which the statute does not tolerate, and that the only remedy which the party aggrieved has, in such a case, is to have the testimony withdrawn from the consideration of the jury by an appropriate instruction. We are referred to no case in support of that view, nor is there anything in the statute which supports it. It is the duty of the court, upon proper objection made, to withhold incompetent testimony from the jury, and if the objection, in the nature of the case, can not be made until after the witness has spoken, at once to withdraw it. Every ruling by the court upon the admissibility of evidence is necessarily oral, and there is no difference in principle whether the court rules upon the admissibility before or after the evidence is stated, provided timely objection is made.
+A system which remits to a body of men unfamiliar with the rules of evidence the determination of any question depending on the weight of evidence, leads at best to an imperfect administration of justice, but it would become perfectly unbearable if the judge were hampered by artificial barriers in the exercise of his duty to prevent the consideration of incompetent evidence by .the jury. ' .
+The court erred in not withdrawing the answer of the witness from the jury, timely objection to such answer being made. The error was prejudicial to the defendant. The answer complained of purported to furnish evidence of the main fact in controversy, a fact not established by the direct testimony of any other witness-, and the finding whereof rested only on inferential evidence. For this error the judgment must be reversed.
+II. The other three complaints of. the appellant may be considered together. The evidence as to the cause oi the accident is circumstantial, but a jury might legally infer from it, that the cause was the one complained of by the plaintiff.
+The instructions given by the court of its own motion state the law under the facts of the case fairly.
+The instruction asked by the defendant and refused, and which the defendant insists here should' have been given, is not supported by the evidence, a careful reading of which satisfies us that there is no substantial testimony that the plaintiff’s right arm was disabled and unserviceable to an extent which would make her use of it in the manner as shown, evidence of contributory negligence.
+All the judges concurring, the judgment is reversed and the' cause remanded.
