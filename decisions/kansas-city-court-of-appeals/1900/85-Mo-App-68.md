@@ -1,0 +1,30 @@
+---
+court: "Kansas City Court of Appeals"
+decided: "1900-06-11"
+citations: ["85 Mo. App. 68"]
+reporter: "mo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Smith, P. J., concurs; Gill, J., absent."]
+parties: ["STATE ex rel. STACEY E. WALKLEY, Respondent, v. O. B. McCULLOUGH, et al., Appellant."]
+source_url: "https://static.case.law/mo-app/85/cases/0068-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1492517
+cites_cases: ["18 Mo. App. 139", "18 Mo. App. 86", "28 Mo. App. 140", "33 Mo. 315", "37 Mo. 520", "4 Mo. App. 507", "43 Mo. 581", "45 Mo. App. 29", "57 Mo. App. 213", "58 Mo. App. 90", "6 Mo. App. 580", "60 Mo. App. 130", "62 Mo. App. 398", "66 Mo. 103", "67 Mo. App. 672", "7 Mo. App. 300", "73 Mo. App. 656", "75 Mo. 566"]
+---
+
+# State ex rel. Walkley v. McCullough
+
+## Majority (ELLISON, J.)
+
+ELLISON, J.
+— Defendant brought an action against plaintiff and sued out an attachment in aid. The attachment writ was executed by summoning one Klootz as garnishee. The garnishee answered interrogatories and thereupon defendant (plaintiff there) dismissed the attachment. This plaintiff then brought an action on the attachment bond which this defendant had given as plaintiff in the attachment suit. The judgment in the trial court was for plaintiff.
+It appears that this plaintiff contracted to sell a tract of land to Klootz for $2,000. That he was, on April 23, 1898, to tender an abstract of title satisfactory to Klootz and a bond for title conditioned on a conveyance of the title when Klootz should pay the deferred payment of $1,300, he having paid $100 on day of contract and was to pay $600 in cash on the delivery of the abstract and bond for title. This was the situation when Klootz was summoned. Plaintiff did not tender the abstract and title bond on the day agreed and had not done so when the attachment was dismissed, and did not for several days thereafter.
+The petition of plaintiff declares that the constable executing the writ of attachment, “acting under and by authority of said writ of attachment did attach, seize and levy upon in the hands of one Illootz the sum of $600 belonging to this plaintiff.” The facts as found by the court flatly contradict this substantial allegation of the petition for at that time, as the necessary result from facts found, the $600 did not belong to plaintiff. It was only owing to him upon condition. It was a debt depending upon a contingency that might prevent it ever becoming an absolute debt. The petition should have stated the facts as they were and then the question now presented, whether one can be liable on his attachment bond to a defendant for garnishing another not at the time liable to garnishment, would properly arise.
+But the point is made that there was no valid garnishment in that the constable did not declare, at least it does not appear in his return that he declared, to Klootz that he attached the money in his hands. Erom this it is argued that there was no jurisdiction of the res and that therefore this plaintiff, as the defendant in the attachment, could-not have suffered damage. We do not believe that such result necessarily follows. Though the return of the officer did not show a service such as to confer jurisdiction over the res, yet his return might be amended so as to show a proper and valid service and it ought not, in fairness, be held that a defendant whose property is held up by garnishment shall take the risk of what may be the result of a proceeding which the attaehor has set on foot.
+It is sometimes said that where a defendant’s property has not been attached in an attachment proceeding, he can not suffer damage. That may be true where his property has not been interfered with, but by mistake the property of some other person has been seized. But where the seizure is of his property, though defective and invalid, he is compelled to go into court to defend himself and he must suffer damages to some extent. Where an action by attachment is prosecuted under a void law yet the defendant may recover his damages on the bond. State ex rel. v. Stark, 75 Mo. 566.
+The foregoing brings forward the suggestion made by this defendant that in this case no property of this plaintiff was interfered with, that the $600 garnished was yet, at time of garnishment, the property of Klootz. It is true that a debt which is conditional or dependent upon some contingency is not subject to garnishment. Ritter v. Ins. Co., 28 Mo. App. 140; Scales v. Southern Hotel Co., 37 Mo. 520. And Klootz might have answered showing the contingent character of his obligation to the .defendant in the attachment and have been discharged.
+But if the contingency or condition in the contract between plaintiff and Klootz was such that the debt .might, up to the time of the latter filing his answer, have become an absolute debt, if it in fact did become absolute, then Klootz properly served, might be held. So, therefore, if the conditions could be performed and the defendant in the attachment believed and expected that they would be so performed by the time the garnishee answered so as to make the debt absolute, she had a right to prepare for defense and she may be damaged by the attachment.
+As illustrative of this, perhaps imperfectly expressed, statement, suppose that this plaintiff knew she could not carry out her contract with Klootz by the time he should answer, then the latter could not be her debtor and she was not damaged by his being garnished. He would be discharged on showing the facts, and if afterwards the contract was carried out, the plaintiff in the attachment would take further action if the situation justified it.
+It is probable that on account of the small amount involved the case will be settled. But the possibility of another trial has made it necessary to express the foregoing views. The judgment is reversed and cause remanded.
+Smith, P. J., concurs; Gill, J., absent.
