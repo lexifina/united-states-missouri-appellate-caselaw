@@ -1,0 +1,33 @@
+---
+court: "St. Louis Court of Appeals"
+decided: "1902-08-06"
+citations: ["96 Mo. App. 34"]
+reporter: "mo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Bland, P. J., and Goode, J., concur."]
+parties: ["STATE OF MISSOURI, Respondent, v. J. B. WHITE, Appellant."]
+source_url: "https://static.case.law/mo-app/96/cases/0034-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1514653
+cites_cases: ["21 Mo. App. 660", "28 Mo. App. 477", "30 Mo. 332", "30 Mo. App. 263", "34 Wis. 682", "41 Mo. 484", "43 Mo. 206", "62 Mo. App. 119", "70 Mo. 635", "72 Mo. App. 427", "81 Mo. 483"]
+---
+
+# State v. White
+
+## Majority (BARCLAY, J.)
+
+BARCLAY, J.
+This prosecution was instituted in the Ripley Circuit Court to the November term, 1901, by information of the prosecuting attorney, against the Missouri Tie and Timber Company (a corporation dealing in timber, and operating a private railroad in said county) and against J. B. White, its president, and J. T. Henderson. During the progress of the trial a nolle was entered as to all the defendants, except White, the president of the said company.' The trial proceeded as to the remaining defendant before ■a jury. At the conclusion thereof he was found guilty as charged in the information, and his punishment assessed at a fine of $60. After unsuccessful motions for a new trial, and in arrest of judgment the defendant appealed.
+The information is founded on section 9454 (R. S. 1899) and it charges the Missouri Tie and Timber Company, a corporation, and its officers, the defendant, its president, and Mr. Henderson, its manager, with misdemeanor in that they did “unlawfully, willfully and knowingly obstruct a certain public road” ip Carter county, Missouri, near the residence and farm of J. M. Randle,, etc., by ‘‘building a railroad with crossties and steel rails in and upon, along and across the right of way of said road,” etc.
+At the trial it appeared that the public road in ■question had been used and improved as such for some twenty years. That the Missouri Tie and Timber Company, in order to bring out timber for its business purposes, had built its railroad in such a manner as to obstruct the public road for about one hundred and sixty feet of its course. The company had a recorded deed for a “right of way” for the aforesaid railroad through the farm of Mr. Randle who, it may be inferred, was the proprietor of the land on both sides of the public road.
+Defendant is the president of the company, but there is no proof whatever of any personal direction, management or participation on his part in the acts charged to constitute the misdemeanor, other than may be inferred from his office as president. On the contrary, a Mr. Henderson was jointly indicted as defendant and he was shown to be the manager of the timber company referred to. That fact, in so far as it has a bearing, rather tends to indicate that the practical direction of the company work, of the sort in question here, devolved upon Henderson. But be that as it may, there is nothing to show that defendant exercised any personal management in designing or executing the obstruction in this public road. There is no testimony that Mr. White was present at any time on the premises in question, or anything tending to prove personal knowledge of the fact of the obstruction complained of.
+In this state of the evidence the court gave the following instructions:
+“1. The court instructs the jury that if they find and believe from the evidence that said road described in the information filed in this case, has been used by the traveling public for a period, of ten consecutive-years and that public money or labor has been expended on said road for such period of time, then the-court instructs you that said road is a public road within the meaning of the charge in the information.
+“2. The court instructs the jury, that if they find and believe from the evidence in this case said Van Burén and Pocahontas road is a public road and that the defendant J. B. White by placing crossties and steel rails on said road, and building a railroad on said public road or any part of said public road, within one year prior to the filing of the information, at the place described in the information, and that so placing said crossties and steel rails, obstructed said public road or any part thereof, then you will find defendant guilty as charged in the information, and fix the penalty at a sum not less than five dollars nor more than one hundred dollars.”
+The court refused to give a binding instruction to find for defendant.
+This prosecution proceeds upon the statute which affixes a penalty to the act of one who £ £ shall willfully or knowingly obstruct any public road.” But it was never designed to reach a defendant in the position of this one. There is not the slightest evidence of any personal knowledge by defendant of the fact of the obstruction of the public road. The fact that defendant is president of the road does not warrant the inference that he willfully or knowingly obstructs every public road which his company- may obstruct. It is established law that the corporation itself was subject to indictment for obstructing the road. 5 Thompson, Corps., sec. 6426. The words ££willfully or knowingly” should be given their plain, ordinary and natural force and effect. If defendant had personal participation in the wrongful act it would be immaterial whether or not he knew that the alleged public road was legally such. State v. Wells, 70 Mo. 635. But in the face of the facts in evidence which fail to show any personal act or even the personal knowledge or presence of the defendant, it is vain to insist that he ££ willfully or knowingly” committed the wrong charged.
+The significance of the word £ £ willfully, ” as applied to prosecutions of this nature, has undergone full exposition in another jurisdiction, where it was held that an obstruction of a public road perpetrated in entire good faith and innocence by defendant did not fall within the penal provisions of a statute similar to ours. State v. Preston, 34 Wis. 682. For stronger reason should it be held that a defendant, not shown to possess even knowledge of the fact of the obstruction, is guiltless of the crime denounced by a statute in the form of that now under discussion.
+The court should have told the jury (by the instruction asked) that there was no testimony of any offense on the part of defendant.
+The judgment is reversed and the cause remanded with the direction to discharge the defendant.
+Bland, P. J., and Goode, J., concur.
