@@ -1,0 +1,28 @@
+---
+court: "St. Louis Court of Appeals"
+decided: "1895-04-02"
+citations: ["62 Mo. App. 8"]
+reporter: "mo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["All the judges concurring,"]
+parties: ["In the Matter of August Rebenack."]
+source_url: "https://static.case.law/mo-app/62/cases/0008-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1456698
+cites_cases: ["23 Ohio St. 211", "31 Iowa, 562", "48 Vt. 444", "71 Mo. 628", "84 Cal. 226"]
+---
+
+# In re Rebenack
+
+## Majority (Rombauer, P. J.)
+
+Rombauer, P. J.
+The petitioner states that he is a resident citizen of the city of St. Louis, and the father of two children who are respectively seven and fourteen years old; that these children were admitted as pupils in one of the public schools of the city, but were excluded therefrom by order of the superintendent of public schools, because they were not vaccinated, and because the petitioner, their father, refused to have them vaccinated. The petitioner also states that such exclusion was in pursuance of a rule of the board of public schools, which provides that no child shall be received into the public schools without satisfactory evidence that it has been vaccinated. The petitioner then states that this rule óf the board is in violation of the rights of said children, and of his rights as their natural guardian, and prays the court to issue its writ of mandamus compelling said board to receive the children as pupils into said public schools.
+That mandamus against the board is the proper remedy, in case of an illegal expulsion of a child from a public school, has been frequently decided by this court and other courts in this state. The only question, therefore, is whether the petition shows an illegal expulsion, or, in other words, whether the rule under consideration is one which the board of public schools had no power to adopt.
+The Board of President and Directors of the St. Louis Public Schools is a public educational corporation, created by charter in 1833. Section 4 of its original charter' (now section 8) provides, among other things, that the president and directors shall have power “to make all jules, ordinances and statutes, proper for the government and management of such schools and property, so that the same shall not be inconsistent with the laws of the land.” Whether section 7994 of the general school law, which invests school boards in this state with power to exclude all children from the schools who are liable to transmit infectious or contagious diseases has any application to this board, is really immaterial. No one would for a ■moment question the existence of such power in the board under the general grant to make all proper rules, ordinances and statutes, for the government and management of the schools. '
+The only question, therefore, is, whether the requirement of vaccination is a reasonable requirement to prevent transmission of a contagious disease. We are aware that different views exist among medical experts as to the merits of vaccination, but it can not be gainsaid that the great majority of them recommend it as a meritorious preventive. That opinion is sufficiently prevalent in all civilized communities to have found recognition in the legislation of several states. Chapter 47, section 9, of the Public Statutes of Massachusetts of 1882 provides: “The school committee shall not allow a child who has not been duly vaccinated, to be admitted to, or connected with, the public •schools.” Chapter 11, section 77, clause 8, of the Revised Statutes of Maine, 1883, provides: “School committees shall exclude, if they deem it expedient^ any person not vaccinated, although otherwise entitled to admission.” In California it is provided by Acts, 1889, page 32, that the school trustees should exclude from the public schools any child or any person who-has not been vaccinated, until such time when said child shall be successfully vaccinated. The supreme-court of that state in Abeel v. Clark, 84 Cal. 226, unanimously decided that the law did not infringe upon the constitution, which guaranteed to every child of a certain age a free public education.
+In the nature of things, it must rest with the boards of education to determine what regulations are needful for a safe and proper management of the schools, and for the physical and moral health of the pupils entrusted to their care. If such regulations are not oppressive or arbitrary, the courts can not, or should not, interfere. It was held in Vermont that a pupil may be expelled from school on account of absence, although the absence was one which his parent and spiritual adviser- deemed necessary so that he might attend religious exercises. Ferriter v. Tyler, 48 Vt. 444. In the famous case of Board of Education v. Minor, 23 Ohio St. 211, it was decided that, whether a child should or should -not receive religious instruction in the public schools, rested, in the absence of constitutional mandates or restrictions, with the school trustees. In Burdick v. Babcock, 31 Iowa, 562, it was held that any rule which was not subversive of the rights of the children or parents, or in conflict with humanity, and which tends to advance the objects of the law in establishing public schools, must be considered reasonable and proper by the courts. Our own courts hold substantially the same view. King v. Jefferson City School Board, 71 Mo. 628.
+It results from the foregoing, that we are not warranted in declaring the rule of the St. Louis School Board of which the petitioner complains unreasonable, and, hence, must deny the writ of mandamus.
+All the judges concurring,
+the writ is denied.
