@@ -1,0 +1,27 @@
+---
+court: "Missouri Court of Appeals"
+decided: "1891-02-10"
+citations: ["44 Mo. App. 21"]
+reporter: "mo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["All the judges concur."]
+parties: ["The State of Missouri, Respondent, v. E. C. Powell, Appellant."]
+source_url: "https://static.case.law/mo-app/44/cases/0021-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1003316
+cites_cases: ["59 Mo. 280", "79 Mo. 243"]
+---
+
+# State v. Powell
+
+## Majority (Biggs, J.)
+
+Biggs, J.
+S. A. Haseltine filed an affidavit or complaint before a justice of the peace in Greene county, charging that the appellant had unlawfully and wilfully obstructed a public road. Thereupon, the justice issued a warrant for the arrest of the appellant, which was duly executed by the constable of the township. There was a change of venue granted to another justice. On the day of trial the prosecuting attorney of the county appeared, and refused to file an information in the case, whereupon the justice, under section 4358, of the Revised Statutes of 1889, dismissed the proceeding at the cost of Haseltine.
+Section 4358 reads as follows : " When the proceedings are prosecuted before any justice of the peace, at the instance of the injured party, for any trespass against the person or property of another, except for petit larceny, the name of such injured party shall be entered by the justice on his docket as prosecutor; and, if the defendant shall be discharged or acquitted, such prosecutor shall be adjudged to pay the costs not otherwise adjudged; and in every other case of acquittal, if the justice or jury trying the case shall state in the finding that the prosecution was malicious, or without probable cause, the justice shall enter judgment for costs against the prosecutor or party at whose instance the information was filed, and -shall issue execution therefor; but in no case shall the prosecuting attorney be liable for costs. In other cases of discharge or acquittal the costs shall be paid by the county, except when the prosecution is commenced by complaint, and the prosecuting attorney declines to file information based thereon, in which event the proceedings shall be dismissed at the cost of the party filing the complaint.”
+Prom this judgment for costs Haseltine appealed to the criminal court of Greene county. On this appeal the criminal court sustained some of Haseltine’s objections to items of cost taxed against him before the justice, and thereupon. the court rendered a judgment against Powell for the costs of the appeal. There was some evidence tending to prove that some of the costs of the appeal were incurred by Powell. Erom this judgment Powell has appealed.
+We cannot conceive how the judgment of the criminal court against Powell can be sustained. He was not a party to the appeal from the justice; he had never been, strictly speaking, a party to any proceeding or prosecution. When the complaint was filed by Haseltine, the justice had authority to issue a warrant for Powell’s arrest (sec. 4332), but he could not be placed on trial, neither could it be said that there was a prosecution against him, until there was an information filed by the proper officer. Sec. 4329. When the prosecuting attorney declined to file an information against Powell, it was the duty of the justice to discharge him from custody. The subsequent dismissal of the complaint, and the taxation of the costs incurred on account of it, in no way concerned him. In other words, his release from arrest entirely eliminated him from the proceeding. If Haseltine felt himself aggrieved by the subsequent action of the justice in the taxation of costs, and the statute afforded him an appeal, this would bring about a contest between him and the state. The appeal should have been entitled State v. Haseltine, appellant. In such a contest Powell had no concern, neither could the criminal court acquire jurisdiction of him, nor render a judgment against him. What we have said necessarily leads to a reversal of the judgment.
+In view of a final disposition of Haseltine’s appeal, we deem it proper to indicate our views of his right of appeal from the judgment of the justice taxing the costs against him. In the case of State v. Baldwin, 79 Mo. 243, it appeared that Baldwin filed a complaint beforé a justice of the peace, charging one Katherens with selling liquor without a license. Katherens was acquitted, and the jury stated in their verdict that the prosecution was without probable cause; thereupon the justice entered judgment against Baldwinfor the costs. Baldwin appealed. The circuit court held that the right of appeal did not exist, and the case was stricken from the docket. Baldwin again appealed. The supreme court sustained the action of the lower court. If Haseltine was attempting by this appeal to free himself from all liability, it would seem that this decision would stand directly in his road. He admits, however, that he is legally responsible for all proper items of costs, but he claims that the justice has taxed against him various items of cost not authorized by law. The appeal is from the taxation of costs, which in a certain sense is an independent proceeding.- Ex parte James, 59 Mo. 280. It would be very strange, if Haseltine had no remedy in such a case.
+The judgment of the criminal court will be reversed, ' and the cause remanded.
+All the judges concur.
