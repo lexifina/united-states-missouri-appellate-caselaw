@@ -1,0 +1,37 @@
+---
+court: "St. Louis Court of Appeals"
+decided: "1903-02-03"
+citations: ["98 Mo. App. 38"]
+reporter: "mo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Reyburn and Goode, JJ., concur."]
+parties: ["JAMES L. HARRIS, Exr., et al. Appellants, v. J. R. W. COOK, Admr., et al., Respondents."]
+source_url: "https://static.case.law/mo-app/98/cases/0038-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1510466
+cites_cases: ["100 Mo. 360", "107 Mo. 512", "118 Mo. 568", "120 Mo. 413", "122 Mo. 348", "139 Mo. 456", "139 Mo. 462", "141 Mo. 55", "152 Mo. 489", "161 Mass. 396", "167 Mo. 457", "19 S. W. 543", "22 Ga. 323", "40 Mo. 321", "40 Mo. 322", "41 N. H. 202", "53 Mo. 371", "61 Mo. 83", "71 Mo. App. 641", "76 N. Y. 133", "9 S. W. 543", "94 Cal. 526", "94 Mo. 338", "94 Mo. 55"]
+---
+
+# Harris v. Cook
+
+## Majority (BLAND, P. J.)
+
+BLAND, P. J.
+The action was brought in the Montgomery Circuit Court for the purpose of having the second and fifth clauses of the last will of Nancy Harris Adams construed, as the parties in interest were unable to agree upon the construction of these clauses of the will.
+The second clause of the will reads as follows:
+“2. I give, devise- and bequeath to my beloved brother, Barnabas Harris, for and during his natural life, the sum of $80 per annum out of the income, rents and profits of the real estate and real estate rights and interest of which I may die seized and possessed, consisting of thirty-one acres lying, being and situate in sec. —, T. 47, R. 6, in the county of St. Louis and State of Missouri, acquired by me from my father, Simpson Harris, and my mother, Mary Harris.”
+The fifth clause is as follows:
+“5. I give and bequeath to Francis "W. Walker as a token of love to him the said Francis W. Walker, who has been cared for by myself and husband since his childhood, the sum of $800 when he shall arrive at the age of twenty-six years. The said sum of $800 I direct to be loaned out on good real estate security and the interest accruing therefrom to be paid to the said Francis W. Walker. If there- be not enough money left of my personal estate to pay said $800, after paying all of my just debts, funeral expenses and administering and settling up my estate, then and in that event I direct that all of my real estate in St. Louis county and Montgomery county, Missouri, above described be rented until a sufficient sum shall have accrued with which to pay said sum of $800.”
+The facts are all admitted by the pleadings and by an agreed statement of facts filed at the trial. So far as they are material to the controversy they are as follows:
+J. L. Harris is the executor of the last will of Nancy Adams. Plaintiffs and defendant, except Cook and Rodgers, are all the heirs at law of Nancy Adams. Francis W. Walker, afters arriving at the age of twenty-one years, assigned, for a valid consideration the legacy of $800, bequeathed to him by the fifth clause of the will, to defendant J. P. Rodgers. Francis Walker died intestate before he was twenty-six years old and Janies Cook is the administrator of his estate.
+It is admitted that the rents and profits of the land described in the second clause of the will are more than sufficient to pay the annuity of $80 to Barnabas Harris, and that there is a surplus of these rents in the hands of the executor. The court found that this surplus went to the estate of Nancy Adams and this ruling is conceded by appellant to be correct..
+The court found that under the fifth clause of the will the $800 bequeathed to Francis Walker was a vested legacy. To this ruling of the court the plaintiffs duly saved their exceptions and perfected their appeal to this court in the usual way.
+The language of the fifth clause of the will is, “I give and bequeath to Francis W. Walker . . . the sum of $800 when he shall arrive at the age of twenty-six years. ’ ’ The will then directs that this sum be loaned at interest and the interest be paid to Walker. The will required the $800 to be immediately severed from the body of the estate of Nancy Adams upon the occurrence of her death and to be put at interest for the benefit of Walker and that the interest be paid to him until he became twenty-six years old when he was to have the principal sum. No gift over was made in case of the death of Walker antecedent to his becoming twenty-six years old.
+A.case on all fours with the one at bar is Wardell v. Hale, 161 Mass. 396, in which, “A testator gave to his son ‘the sum of ten thousand dollars, to be paid to him at my decease, if he shall then have arrived at the age of twenty-one years; if he shall not then be twenty-one years old, the same to be paid to him when he shall attain that age.- I also give to him the sum of twenty thousand dollars, to be paid to him when he shall attain the age of twenty-five years, together with the further sum of twenty thousand dollars, to be paid to him when he shall attain the age of thirty years. ’ The son died before attaining the age of thirty years, and after the time when, had he lived, he would have reached that. age, his administrator brought an action to' recover the third legacy. Held, that the legacies vested in the son on the death of the testator, and that only the time of payment was postponed until he should reach the ages respectively prescribed.” '
+In Fonnereau v. Fonnereau, 1 Vesey, Sr., 117, a legacy was given to F. when he should attain twenty-five, interest in meantime, and part of the principal to apprentice him out: Held, to be vested and transmissible gift though F. died before he attained twenty-five years.
+In Cave v. Cave, 2 Vern. Ch. 508, Sir Rodger Cave by his will devised four thousand pounds to his son Charles, to be paid him at the age of- twenty-five, and interest in the meantime, and he thereout to have a maintenance. Charles died under age. It was decreed that the bequest vested an interest in Charles for the reason that it was to carry interest immediately. Substantially the same ruling was made in Greet v. Greet, 5 Beav. 123, and In re Rogers, 94 Cal. 526.
+In Warner v. Durant, 76 N. Y. 133, it was ruled that, “Where, by the terms of the bequest, the gift is' to be served instanter from the general estate, and to be held by trustees for a specified time for the benefit of the legatee, and then to be paid over to him, and, in the meantime, the interest thereof hr be paid to him, this is indicative of the intent of the testator that the legatee shall, at all events, have the principal, and is to wait only for the payment until the day fixed. ’ ’
+Had the bequest ended with the words “when he shall arrive at the age of twenty-six years” the legacy would have been a contingent one. But the clause following these words directing that the sum shall be taken from the bulk of the estate immediately on the death of the testatrix and loaned at interest for the benefit of the legatee shows that the intention of the testatrix was that the gift should immediately vest on her death and that the payment only was to he postponed. Hanson v. Graham, 6 Vesey, Jr., 239; Everett & Harrell v. Mount, 22 Ga. 323; Felton v. Sawyer, 41 N. H. 202.
+We conclude that the intention of the testatrix was to devise $800 to Walker to vest immediately on her death and affirm the judgment.
+Reyburn and Goode, JJ., concur.
