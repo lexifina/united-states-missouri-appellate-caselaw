@@ -1,0 +1,29 @@
+---
+court: "Kansas City Court of Appeals"
+decided: "1895-06-03"
+citations: ["63 Mo. App. 64"]
+reporter: "mo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["All concur."]
+parties: ["W. H. Hawkins, Respondent, v. The Kansas City Hydraulic Press Brick Company, Appellant."]
+source_url: "https://static.case.law/mo-app/63/cases/0064-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1454740
+cites_cases: ["07 Mo. 377", "121 Mo. 34", "13 Mo. App. 581", "2 Mo. App. 183", "20 Mo. 201", "20 Mo. App. 304", "28 Mo. App. 326", "33 Mo. App. 223", "40 Mo. App. 310", "42 Mo. 439", "45 Mo. 298", "47 Mo. App. 84", "48 Mo. App. 42", "51 Mo. App. 144", "53 Mo. App. 196", "53 Mo. App. 493", "59 Mo. 80", "6 Mo. App. 576", "67 Mo. 426", "70 Mo. 275", "79 Mo. 524", "80 Mo. 297"]
+---
+
+# Hawkins v. Kansas City Hydraulic Press Brick Co.
+
+## Majority (Gill, J.)
+
+Gill, J.
+This is an action for the value of a quantity of brick, which the defendant caused to be levied on and sold to satisfy a judgment obtained by it against one Prior, and which said brick plaintiff claimed to have purchased from Prior before the levy of defendant’s execution. That Hawkins bought the brick and paid a valuable consideration therefor, before the levy of defendant’s execution, is conceded; but it is claimed that plaintiff failed to take such possession of the property as is required by the statute relating to fraudulent conveyances. Plaintiff had judgment below and defendant appealed.
+As just stated, the main defense is that plaintiff did not take that open, notorious and unequivocal possession necessary to vest in him the title of the brick, as against Prior’s creditors. It is contended that the trial court should have sustained a demurrer to plaintiff ’s evidence, because it failed to prove such change of possession. Appellant has not submitted to us, in its abstract, the evidence offered . at the trial. "We might well, therefore, decline to pass on the question as to whether there was any evidence to go to the jury. However, under the head of “state of the facts, as shown by the evidence,” which we find in defendant’s brief, ample appears tó show the correctness of the court’s ruling on the demurrer to the testimony.
+Prom this “statement of facts,” it seems that the brick were formerly owned by one Prior, who had the contract for constructing a sewer in the south part of Kansas City; that they were piled at the corner of Twentieth and Grand avenue and Twentieth and Cherry streets; that Prior had abandoned the work on the sewer, and that on April 6, 1893, he turned over these brick to plaintiff Hawkins, in payment of a sum ■of money, which he (Prior) owed Hawkins; that on the date of purchase, Hawkins placed on the piles of brick several written or printed notices advising the public that he (Hawkins) had bought the brick, that they were his property, and that they were for sale, giving his address and telephone number; that these notices remained posted on the brick for two months or more; that Prior never after the sale had anything to do with the brick, and never, indeed, saw them after the sale to Hawkins, but on the contrary Hawkins negotiated with different parties and sold several lots thereof. It is stated, however, that at the levy of defendant’s execution (which was some four months after the sale to Hawkins) the notices had disappeared.
+In view, now, of these admitted facts, with what show of reason can it be contended that plaintiff failed to take such possession as would vest in him the title of the property? "What more could the plaintiff have done under the circumstances? Whether or not there was a legal delivery, regard must be had to the situation of the property. R. S. 1889, sec. 5178. • The character, condition and circumstances of the property sold must be considered in such cases. The brick were not left in the inclosure or possession of Prior — they were deposited on the street corners, and the plaintiff exercised • more than ordinary diligence to inform the public of the change of ownership. No false appearances were held out. Plaintiff did nothing, nor suffered anything to be done; calculated to deceive others.
+Not only did the evidence (as stated, too, by defendant) tend to prove a legal change of possession, but if the facts were as stated, the court would have been justified in giving a peremptory instruction' for the plaintiff. There is no principle contained in the cases, beginning with Claflin v. Rosenberg, 42 Mo. 439, that can be construed into a condemnation of plaintiff’s title to the property in question.
+The trial court erred in directing the jury to allow, as measure of damages, interest on the value of the property. This is a matter that should have been left to the discretion of the jury. The statute reads: “The jury * * * may, if they think fit, give damages, in the nature of interest, over and above the value of the goods, at the time of the conversion or seizure.” R. S. 1889, sec. 4430; State ex rel. Robinson v. Hope, 121 Mo. 34. The plaintiff, however, offers here to remit such interest, and, this being done, the error furnishes no just cause for reversal.
+No good purpose is served by discussing instructions- relating to the value of the property seized. From the testimony adduced on both sides, it is clear that the jury found the value of brick as agreed to by the different witnesses. The instructions of the court fairly and correctly submitted’ the substantial issues to the jury.
+If, then, the plaintiff will, within ten days after the filing of this opinion, remit $20.35 (the interest allowed by the jury), we shall allow the judgment to stand for $330, with six per cent, interest from May 25, 1894 (the date of verdict and judgment below). The costs of this appeal will be adjudged against the plaintiff.
+All concur.
