@@ -1,0 +1,28 @@
+---
+court: "St. Louis Court of Appeals"
+decided: "1901-01-29"
+citations: ["87 Mo. App. 78"]
+reporter: "mo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["All concur."]
+parties: ["STATE OF MISSOURI, Respondent, v. T. S. MANNING, Appellant."]
+source_url: "https://static.case.law/mo-app/87/cases/0078-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1488414
+cites_cases: ["100 Mo. 606", "118 Mo. 153", "125 Mo. 2", "130 Mo. 642", "135 Mo. 90", "135 Mo. 97", "139 Mo. 213", "14 Mo. 384", "144 Mo. 56", "144 Mo. 65", "25 Mo. 214", "57 Mo. App. 502", "95 Mo. 474", "96 Mo. 382", "98 Mo. 240"]
+---
+
+# State v. Manning
+
+## Majority (BLAND, P. J.)
+
+BLAND, P. J.
+Appellant, a regular registered and practicing physician was indicted for a violation of the provisions of section 3050, Revised Statutes 1899. He was duly put upon trial and convicted and sentenced to pay a fine of $40. To reverse this sentence he has appealed to this court.
+I. The first assignment of error goes to the sufficiency of the description of the prescription charged to have been issued by defendant to enable the party to whom it was issued to obtain intoxicating liquors. The indictment charges that the prescription was issued on the fourth day of June, 1899, that it was issued to one Ed. Spencer and that it was for intoxicating liquors. . This was sufficient to give notice to the defendant of the very prescription he was charged with illegally issuing. What is said in the indictment in respect to the want of knowledge on the part of the grand jury as an excuse for a fuller description of the prescription may be treated as surplusage.
+II. The defendant was a witness in his own behalf. On his cross-examination this question was propounded to him, “If he had not been convicted in this court of issuing an unlawful prescription for intoxicating liquors.” Over the objection of his counsel it was ruled by the court that he should answer the question. His answer was in the affirmative. His examination in chief furnished no foundation for the question, but the respondent contends that the question was allowable under the provisions of section 4680, Revised Statutes 1899, which is as follows: “Any person who has been convicted of a criminal offense is, notwithstanding, a competent witness; but the conviction may be proved to affect his credibility, either by the record or his own cross-examination, upon which he must answer any question relevant to that inquiry, and the party cross-examining shall not be concluded by his answer.”
+It is well-settled law, that evidence of a former conviction of crime is not admissible for the purpose of discrediting a witness unless the conviction was of an offense which the law denounces as infamous. State v. Grant, 144 Mo. 56; State v. Taylor, 98 Mo. 240; Gamer v. Railroad, 135 Mo. 90; State v. Donnelly, 130 Mo. 642; Deer v. State, 14 Mo. 384; State v. Warren, 57 Mo. App. 502. The proof of a conviction of such an offense to impeach a witness, may be made in three ways; first, by the record of the conviction, second by a certified copy of the record, if out of the county where the trial is had; or, third, by the witness himself on cross-examination. State v. Miller, 100 Mo. 606; State v. Layton, 118 Mo. 153.
+In State v. Grant, supra (decided after the taking effect of section 4680), it was ruled that evidence that the defendant had been convicted of the unlawful sale of liquors, was no.t permissible for the purpose of discrediting him. The section (4680), is not mentioned in the opinion of the court, but from this circumstance alone we are not to infer that it escaped the attention of the court. We would not be warranted in drawing such an inference unless it clearly and indubitably appeared) that the decision is opposed to the statute. It does not so appear. All that can be made of the act, in respect to the impeachment of a defendant in a criminal case testifying in his own behalf, is that it is declaratory of the general rule as announced in State v. Miller, and State v. Taylor, supra. The contention of respondent that the statute is broad enough to cover all eases of whatever character, is opposed to both reason and justice. Should such a construction be given the statute, we would have this inequality of the law as to impeaching witnesses, viz.: it would be competent to discredit the defendant, should he testify, by showing he had been convicted of a crime not infamous, but as to all other witnesses in the case, such testimony would be incompetent for the purpose of discrediting them. Conviction of a penal offense not infamous is not necessarily inconsistent with a good moral character, and hence, proof of conviction of such an offense does not impeach the general moral character of the one convicted. State v. Taylor, supra.
+When a defendant testifies in his own behalf, he, as to impeachment, occupies the same attitude as any other witness in the case. State v. Parker, 96 Mo. 382; State v. Riden, 95 Mo. 474; State v. Smith, 125 Mo. 2; State v. Beaty, 25 Mo. 214. And it is not competent to change-his attitude in this respiect to discredit him by proof of a conviction of a penal offense, 'which would be incompetent for that purpose as to any other witness.
+Section 4680 makes no such discrimination — attempts no such class legislation — and it was error to admit proof of the former conviction of defendant of issuing an unlawful prescription for the purpose of discrediting him as a witness, for which error the judgment is reversed and the cause re>manded.
+All concur.
