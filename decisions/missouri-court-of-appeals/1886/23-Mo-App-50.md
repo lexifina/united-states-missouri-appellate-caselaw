@@ -1,0 +1,29 @@
+---
+court: "Missouri Court of Appeals"
+decided: "1886-06-28"
+citations: ["23 Mo. App. 50"]
+reporter: "mo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Peter G. Wilson, Respondent, v. The Wabash, St. Louis & Pacific Railway Company, Appellant."]
+source_url: "https://static.case.law/mo-app/23/cases/0050-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 514991
+cites_cases: ["18 Mo. App. 568", "44 Mo. 58", "47 Mo. 513", "76 Mo. 514", "79 Mo. 272", "80 Mo. 213"]
+---
+
+# Wilson v. Wabash, St. Louis & Pacific Railway Co.
+
+## Majority (Philips, P. J.)
+
+Philips, P. J.
+It is difficult to escape the conclusion, from all the facts and circumstances in evidence,, that the misfortune to plaintiff in this transaction grew out of the mistake of defendant’s agent at Norborne in-billing the wrong car to Metcalf, Moore & Co. The agent pointed out the car to the shipper and directed him to-Load his hogs into it. This was done under circumstances to leave no reasonable ground to question the fact, as there is no pretext for saying there was any change of the hogs from one car to another after they were loaded. They all agreed in the fact that the car so pointed out to plaintiff was the rearmost car on the track, and the plaintiff loaded Ms hogs into it. They were sixty-five in num-, ber, and of such a grade as to be easily distinguished from the other hogs shipped at the same time from the-station. It was about, or a little after, dark when the-c,ar was loaded. Plaintiff very naturally gave no heed totíre number. He had nothing to do with the numbering, of the car. He took the specific car designated by defendant’s agent. The matter of the number concerned the carrier alone. It enabled it to keep its account of the car, so as to trace it, and to guide in the delivery of-the freight, and to enable its agents at the point of delivery to identify it.
+I. Defendant presented his case in the refused instructions, and in argument at this hearing, upon the assumption that the contract of shipment, having been reduced to writing, and the car furnished by it being designated in the written instrument, it can only be bound by the letter of the written compact, which only required it to deliver that particular car.
+The contract, in our opinion, is not so limited. Its stipulation is, “that the party of the first part (the defendant) will * * * forward for the party of the second part (the plaintiff), * * * men and the following freight, to-wit: 1 car hogs '(65) from Norborne to U. depot,” etc. From which it is plain that defendant’s undertaking was to carry sixty-five hogs for plaintiff from Norborne, to the Union depot in St. Louis. Nothing is said in the contract about the number of the car. On the margin of the contract there is this memorandum: “No. of car 3108.” This, as already suggested, was nothing more than the memorandum of defendant for its assistance and convenience.
+It. would not be contended, I apprehend, by the learned counsel for appellant, that, notwithstanding this marginal note, the defendant could not have shipped the hogs in any other car, and that plaintiff could have claimed damages unless for other cause than the mere change of car designated on the margin of the contract.
+In view of the instructions conceded by the court to defendant, it had the fall benefit of the issue of fact as to whether car number 3108 was the one pointed out by its agent to plaintiff. By iheir verdict the jury found that the agent was mistaken, and the verdict is well supported by the evidence.
+II. The loss resulting to plaintiff was, therefore, directly traceable and attributable to the act of negligence of defendant’s agent, for which it must respond in damages, unless relieved therefrom by some other controlling provision of the contract. To this end defendant relies upon the clause respecting the notice to be given in five days. We are of opinion that this provision is inapplicable to the facts of this case. This provision is, that no claim for damage which may accrue to the plaintiff under the contract shall be paid, etc., unless a claim for such loss or damage shall be made in writing, etc., within five days “from the time said stock is removed from sai a oar? ’'
+Waiving any discussion of the question, as to the right of defendant to insist upon this provision, even if applicable to the case, where it knew, from the bill of lading, that plaintiff was shipping to commission merchants in St. Louis, who would be governed in receiving the hogs by the bill of lading, and that plaintiff, in the usual course of such transactions, would not know of the miscarriage until the lapse of the five clavs after.the arrival of the hogs, it is enough to say, that the contract invoked by defendant only provides that the five days within which notice is to be given, shall begin to run from the time the hogs were removed from the car. Neither the plaintiff, nor his consignee, had an opportunity to remove the hogs from the car. Complaint is that' they were not delivered. Plaintiff never did remove them from the car, and the record furnished ns by appellant does not show when plaintiff’s hogs were so removed.
+The case, in principle, is the same as if the defendant had carried plaintiff’s hogs to New York. The five days’ notice could not apply to such a case. Especially must this be so, until the defendant, who made the mistake and the wrong delivery, has notified the shipper, or his consignee, of the fact, and that the hogs had been removed from the car.
+Seeking, as the defendant does, to escape his common law liability, by invoking the strict letter of its special contract, it must be held both to its spirit and letter.
+The other judges conpurring, the judgment of the circuit court is affirmed.
