@@ -1,0 +1,28 @@
+---
+court: "Kansas City Court of Appeals"
+decided: "1899-02-20"
+citations: ["79 Mo. App. 41"]
+reporter: "mo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["All concur."]
+parties: ["C. A. Stavnow, Respondent, v. William Kenefick, Appellant."]
+source_url: "https://static.case.law/mo-app/79/cases/0041-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1465663
+cites_cases: ["10 Mo. App. 211", "12 Wash. 88", "14 Lea, 643", "22 Howard, 256", "27 Ala. 245", "27 Mo. App. 559", "48 Mo. App. 518", "62 N. H. 35", "68 Mo. App. 561", "73 Md. 22", "78 Mo. 128"]
+---
+
+# Stavnow v. Kenefick
+
+## Majority (GILL, J.)
+
+GILL, J.
+The purpose of this suit is to charge Defendant Kenefick with the amount of three acceptances (negotiable in form) purporting to have been executed in March, 1889, by the alleged copartnership of Kenefick & Gleeson, and due according to their face in the April, following. The instruments were executed by Gleeson in the name of Kenefick & Gleeson, and were given in payment for certain supplies furnished to Gleeson while grading and macadamizing one of the county roads leading into Kansas City. Plaintiff’s claim for recovery is based on the theory that Kenefick was a co-partner of Gleeson in doing the work just mentioned. Defendant denies that any such partnership existed at the time Gleeson executed the paper; and moreover if it did exist that even then Gleeson had no authority to bind defendant by the execution of the acceptances. The issues were tried by the court, sitting as a jury, resulting in a judgment for plaintiff and defendant appeals.
+The principal and decisive point in the case is, whether, admitting the existence of a partnership at the time be'tween Gleeson and defendant, the latter can be held for the payment of the acceptances. To say the least, the evidence Avas quite convincing that Kenefick and Gleeson were copartners in both the making and performance of the contract for the macadamizing, and that they were in fact partners when Gleeson signed the obligations in question.
+From an examination of the instructions given and refused, it appears the court decided the cas.e on the theory that if defendant was a partner of Gleeson in doing the work and at the time the latter executed the PaPer> and if said acceptances were given for guppies furnished to the firm for said work, then, without more, defendant was liable in ‘this action. As applied to the facts here this was an erroneous theory of law. At most, Kenefiek & Gleeson was a non-trading copartnership, and the rule is well settled in this state, that no member thereof has authority to bind his copartner by a negotiable bill, note, or acceptance executed or drawn by him in the firm name, “not even for a debt which the. firm owes, unless he has express authority therefor, from his copartner, or unless the giving of such instrument is necessary to the carrying on of the firm business, or is usual in similar partnerships, and that the burden is upon the holder of the note ,who sues upon it to prove such authority, necessity or usage.” Deardorf v. Thacher, 78 Mo. 128; Randall v. Lee & Randall, 68 Mo. App. 561; 1 Bates on Partnership, sec. 343. “It makes no difference,” says the author last cited, “that the consideration of the note was applied to the benefit of the firm or to pay a debt owed by it. If giving a note is outside the scope of the business, the note is not binding unless authority to issue it was given or is implied from the usage of the firm or the business.”
+It’s a question of agency. Each partner is the agent of the firm to carry on and transact its business in the ordinary way. In the transaction of the business of a mercantile, or trading partnership, it is well understood that negotiable obligations are customarily executed and issued, and hence each partner is vested with power to sign the partnership name thereto. In non-trading copartnerships, however, it is no part of the firm business to execute such paper, and hence a member thereof, has no power, as the agent of the firm (and by reason of the partnership alone) to sign the firm name thereto. The difference between the two classes of partnerships is thus stated. “If .the partnership contemplates the periodical or continuous or frequent purchasing, not as incidental to an occupation,but for the purpose of selling again the thing purchased, either in its original or manufactured state, it is a trading partnership, otherwise it is not.” 1 Bates' on Part., sec. 327.
+Manifestly then Kenefick & Gleeson was not a trading partnership while contracting for and doing the grading and macadamizing of the Jackson county road. Neither of said partners then had the authority to bind the firm by the execution of negotiable paper, unless it should be shown that authority therefor was previously given by the other partner or knowing thereof he subsequently assented thereto.
+If this was a suit for the price of the supplies furnished (and for which the acceptances were given) quite a different question would be presented; it would then bear a close analogy to the case of Hahn v. Kenefick & Gleeson, 48 Mo. App. 518. But this action is based on the aoceptanoes executed in the name of the firm, and it must therefore be determined on the validity or invalidity of that paper. If the plaintiff can prove that the execution of said acceptances was authorized, or assented to by Kenefick, the contesting partner, then the firm (and therefore each partner) should be held therefor, otherwise not.
+It results then that the judgment must be reversed and cause remanded.
+All concur.
