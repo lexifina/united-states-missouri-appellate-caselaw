@@ -1,0 +1,29 @@
+---
+court: "Kansas City Court of Appeals"
+decided: "1907-01-14"
+citations: ["123 Mo. App. 9"]
+reporter: "mo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["All concur."]
+parties: ["J. W. CUMMINGS, Trustee, Respondent, v. THE KANSAS CITY WHOLESALE GROCERY COMPANY, Appellants."]
+source_url: "https://static.case.law/mo-app/123/cases/0009-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1569778
+cites_cases: ["106 Mo. App. 574", "110 Mo. 318", "152 Mo. 565", "17 Mo. App. 209", "53 Mich. 35", "69 Mo. 625", "74 Mo. App. 383", "88 Mo. App. 335", "88 N. W. 231", "97 Mo. App. 197", "98 Mo. App. 129", "98 Mo. App. 239"]
+---
+
+# Cummings v. Kansas City Wholesale Grocery Co.
+
+## Majority (BROADDUS, P. J.)
+
+BROADDUS, P. J.
+The record of the cause shows the following undisputed facts, viz.: On August 24, 1904, the defendant took possession of the following goods and chattels, theretofore the property of one Herbert Boyd, to-wit: a stock of groceries, store fixtures, a horse and a delivery wagon. Afterwards, on August 25th, Arch McDonald, a constable, seized said property under certain writs of attachments in favor of creditors of Boyd.
+Afterwards, on August 26th, the defendant herein instituted a replevin suit against said McDonald and retook said property into its possession, which suit is still pending and undetermined. Afterwards, on September 17th, Boyd filed a voluntary petition in bankruptcy and on the 19th day of said month he was adjudged a bankrupt. Afterwards, on October 12th, plaintiff was appointed trustee of the bankrupt’s estate. At the time Boyd filed his petition in bankruptcy, he accompanied it with a schedule of his property including the property in controversy, his household goods and debts due on open accounts of the estimated total value of $1,105, and also a schedule of his indebtedness including that to defendant, the sum total being $668.12. After his appointment as trustee, the plaintiff was granted leave to bring suit against the defendant.
+On the 21st day of March, 1904, Boyd executed a mortgage on the property in controversy to secure the payment of an indebtedness of $456.83 to the CampbellRedell Grocery Company, a corporation, which was duly recorded. On August 24, 1904, the date when defendant first got possession of the property, Boyd executed a bill of sale of the same to defendant in consideration of the sum of $275.
+The evidence tends to show that the market value of the property was $700. The evidence showed that plaintiff before suit demanded possession of the property from defendant’s agent. There was no competent evidence introduced that defendant was the owner of the said mortgage, but there was evidence that the indebtedness secured thereby had been nearly all paid and that the small residue unpaid was understood and so recognized by Boyd as belonging, to defendant. But it does sufficiently appear that the greater part of the consideration mentioned in the said bill of sale was the indebtedness of Boyd to the defendant for goods purchased by him of defendant after the execution of said mortgage.
+The finding and judgment were for the plaintiff, from which defendant appealed.
+Under the evidence, the defendant not having shown any ownership of the said mortgage to the Campbell-Redell Grocery Company, dated March, 1904, its claim of ownership and possession must rest solely on the bill of sale made to it by Boyd on August 24th, next thereafter. It is, therefore, a question of law and fact whether under the Bankrupt Act plaintiff made out a case sustaining the finding and judgment of the court. Under said act, “A person shall be deemed to have given a preference if, being insolvent, he has within four months before the filing of the petition, or after the filing of the petition and before the adjudication . . . suffered a transfer of any of his property,” and “the effect of such transfer will be to enable any one of his creditors to obtain a greater percentage of his debt than any other of such creditors of the same class.” The act further provides: “If a bankrupt shall have given a preference and the person receiving it, or to be benefited thereby, or his agent acting therein, shall have had reasonable cause to believe that it was intended thereby to give a preference, it shall be voidable by the trustee and he may recover the property or its value from such person.”
+Because Boyd was insolvent at the time of the transfer of the property to defendant, and the subsequent adjudication that he was a bankrupt, did not make a case on which plaintiff was entitled to recover. It was necessary to show further that at the time of such transfer defendant had reasonable cause to believe that it was the intention of Boyd to give him a preference over other creditors. [Landis v. McDonald, 88 Mo. App. 335; Lampkin v. People’s Nat’l Bank, 98 Mo. App. 239.] We have seen that Boyd’s assets were of the value of $700 and that his indebtedness amounted to $668.12. But there is no evidence to show, and no attempt to show, that defendant knew wbat property lie owned or that it had any knowledge whatever of the extent of his indebtedness except its own and a small balance due on the said mortgage. It will not do to assume from the single fact that defendant took the property in payment of its debt, that it follows that thereby it had reasonable cause to believe that Boyd intended to give it a preference over other creditors. On the contrary, we all know that mortgages and transfers of personal property are often made where the circumstances are such as to preclude any such intention.
+The plaintiff having failed to prove his¡ casé, the court committed error in not sustaining defendant’s demurrer to the evidence. Reversed.
+All concur.
