@@ -1,0 +1,27 @@
+---
+court: "Kansas City Court of Appeals"
+decided: "1901-12-02"
+citations: ["95 Mo. App. 1"]
+reporter: "mo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["All concur."]
+parties: ["JAMES W. BOWEN, Respondent, v. THE CITY OF HOLDEN, Appellant."]
+source_url: "https://static.case.law/mo-app/95/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1517242
+cites_cases: ["43 Mo. 203", "46 Mo. 573", "5 Mo. App. 410", "55 S. W. 1003", "63 Mo. App. 211", "70 Mo. 541", "76 Mo. App. 504", "78 Mo. 271", "8 Mo. App. 26", "8 Mo. App. 261", "83 Mo. 413", "84 Mo. 211", "86 Mo. App. 501"]
+---
+
+# Bowen v. City of Holden
+
+## Majority (SMITH, P. J.)
+
+SMITH, P. J.
+Plaintiff sued defendant to recover damages for personal injuries sustained in consequence of the negligence of the latter. There was a trial resulting in a judgment for plaintiff for three hundred dollars, with costs. Five days after this judgment was rendered the court, on the motion of the defendant, set aside said judgment as to costs and instead thereof entered a judgment in favor of defendant against plaintiff for the costs. The grounds upon which it changed the original judgment, as just stated, was that the plaintiff had not presented his claim to the city council before commencing his suit, as required by statute in such cases. After the defendant was given a judgment for costs against plaintiff, it paid into the hands of the clerk the amount of said judgment and interest thereon and then filed a motion to require the clerk to satisfy the judgment in its favor for the costs out of the amount it had paid into 'his hands in satisfaction of the plaintiff’s judgment. At the hearing of this latter motion, it was shown that plaintiff was the head of a family and had no property except the said three-hundred dollar judgment against defendant; and that he- claimed said judgment as exempt and not subject to set-off. The trial court adopted the plaintiff’s view and so overruled the defendant’s motion. Defendant thereupon appealed.
+There was an unsuccessful attempt “to kill two birds with one stone,” or to satisfy two judgments with one payment, and which would no doubt have succeeded but for the statute of exemptions. It seems to us that the plaintiff, under these statutes as we have several times construed them, was entitled to hold as exempt three hundred dollars of whatever judgment he recovered against defendant on his claim. Nor do we think that the plaintiff could be deprived of his exemption by the statute of set-off or counterclaim. The statute of exemptions (secs. 3159-3162, R. S.), and that of set-off (sec. 4495, R. S.), must be construed together, and the latter should not be so construed as to nullify the former. State v. Hudson, 86 Mo. App. 501; Lewis v. Gill, 76 Mo. App. 504; Wagner v. Furniture Co., 63 Mo. App. 211.
+The first of the above cases was where the Vermont Marble Company held the notes of Kendrick & Wagle, on which it brought suit by attachment which failed, but judgment was rendered on the notes against Kendrick. The latter then sued the sureties on the attachment bond for damages. The marble company Was made party defendant and was permitted to plead its judgment as a set-off against the claim of Kendrick arising out of the wrongful attachment. While the right of the marble company to its set-off against the claim of Kendrick was upheld, it was subject to Kendriek’s right of exemption under the statute, or, in other words, it was held that Kendrick was entitled to hold as exempt from the set-off three hundred dollars of the amount of any judgment obtained on the attachment bond.
+So in the present case we must think that the plain-' tiff was entitled to hold as exempt the first three hundred dollars that he recovered on his claim against de: fendant. This right attached to the claim, and the fact that such claim was merged into a judgment did not alter the plaintiff’s rights. When the judgment was rendered in plaintiff’s favor, three hundred dollars of it was exempt and his right thereto could not be impaired by any of the provisions of the statute in relation to set-off. If, as was "the case, the defendant after-wards obtained a judgment against plaintiff for costs,. we can not see that for that reason it was different than if it had been based on any other claim. It could no more override the plaintiff’s right of exemption with a judgment of that kind than it could with any other. Of course, if the plaintiff had recovered an amount in excess of three hundred dollars, then the defendant’s judgment for costs would have been available as set-off.
+The case is not one of mutual credits nor that where two persons had trusted each other, nor that where a presumption of law arises that the defendant was induced to trust the plaintiff by having a pledge or credit in his hands. It is no more than one where the defendant by its negligence subjected plaintiff to grievous personal injuries for which it was legally liable to pay him an indemnity. This indemnity to the extent of three hundred dollars was, we think, exempt from any claim against plaintiff, whether asserted by way of set-off, counterclaim or otherwise. Any other construction would destroy the very intention and object of the statute,-the wisdom óf which is, doubtless, well illustrated by the present case.
+We think the judgment of the circuit court should be affirmed, and it is so ordered.
+All concur.
