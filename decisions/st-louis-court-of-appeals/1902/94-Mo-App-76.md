@@ -1,0 +1,28 @@
+---
+court: "St. Louis Court of Appeals"
+decided: "1902-04-15"
+citations: ["94 Mo. App. 76"]
+reporter: "mo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Bland, P. J., and Barclay, J., concur."]
+parties: ["SPRINGFIELD SEED COMPANY, Appellant, v. MARTIN WALT, Respondent."]
+source_url: "https://static.case.law/mo-app/94/cases/0076-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1519304
+cites_cases: ["108 Fed. Rep. 171", "154 Mo. 161", "59 Mo. 526"]
+---
+
+# Springfield Seed Co. v. Walt
+
+## Majority (GOODE, J.)
+
+GOODE, J.
+1. At the foot of the contract between the appellant and respondent are the words “exclusive sale,” which are of uncertain meaning as they stand, and call for explanation by either oral or written evidence as to what the parties intended to express by them. State v. Cunningham, 154 Mo. 161; Carney v. Chillicothe Water & Light Co., 76 Mo. App. (K. C.) 532. The testimony of Walt, while very indefinite, was barely sufficient to support the inference that the understanding between him and plaintiff’s agent (Eieketts) was that he (Walt) was to have the sole right to sell to merchants in the country tributary to the West Plains market who were his customers.
+Both sides adopted the theory in the instructions requested, that the plaintiff had the right to sell to all persons outside of West Plains not named and agreed on at the time the contract was made as within defendant’s exclusive privilege; but Walt’s evidence tended to prove an understanding that pla intiff was to refrain from selling to his outside customers who traded in West Plains, none of whom was mentioned at the time. That sort of a contract, although it is highly improbable that it was ever made, would be binding.
+2. The instructions to the jury propounded the erroneous theory that if the plaintiff had made sales in violation of the compact-between it and the defendant, that fact constituted a complete defense to the action; that is, if the plaintiff had sold to any customers of Wait- in the surrounding territory, or to Doty & Woodrel in West Plains, without his consent.
+The covenant or stipulation granting an exclusive right to the defendant to sell seeds, whatever the territory it embraced, was not a dependent covenant or condition precedent, 'which plaintiff was bound to prove it had performed in order to recover, as it did not go to or constitute the entire consideration moving the defendant to buy the seeds for the price of Which this action was brought; the twenty-five boxes of seeds were part and a large part of the consideration. The stipulation for an exclusive market to the defendant, and the latter’s agreement to pay for the seeds he bought, were independent covenants; so that whatever loss defendant sustainéd from plaintiff’s wrongful sales constituted an injury for which, he could have sought compensation by a separate action or by a counterclaim in this one; but the bare fact that breaches were committed did-not excuse him from paying his account. Turner v. Mellier, 59 Mo. 526; Sawyer v. Christian, 40 Mo. App. (St. L.) 295; Kauffman v. Raeder, 108 Fed. Rep. 171.
+Whether the covenants of a contract are 'dependent or independent; that is to say, whether they amount to conditions precedent so that a party suing on the contract must show he has performed or was ready to perform, to entitle him to recover, is a question respecting the intention of the contracting parties, and their intention is to be derived from the terms of the agreement by the usual methods of construction, courts are accustomed to say. But that general rule is more edifying as one phase of the principle that the intentions of parties who make agreements will be enforced, than helpful as a means of ascertaining what they intend, which is really effected by the application “of common sense, to each particular case,” as was said in Stavers v. Curling, 3 Bing. (N. C.) 368. The mutuality of covenants turns on the intimacy of their connection, considered in the light of the entire agreement — whether one was so bound up with the other that the failure of one party to perform a stipulation hindered performance by the other party, or left him without an adequate consideration for performance. A wholesome rule, and the most practical one for determining whether covenants are mutual or independent, was once well stated by Lord Ellen-borough as follows: “When the mutual covenants go to the whole of the consideration, they are mutual conditions, the one precedent to the other; but where the covenants go only to a part, then a remedy lies on the covenant to recover damages for the breach of it; but it is not a condition precedent.” Ritchie v. Atkinson, 10 East. 306; Leake on Contracts, 650. Tested by that criterion, the stipulation for an exclusive market to Walt was independent of his undertaking to pay for the seeds he bought, and his redress for a breach by the plaintiff was, as said, either an action or by way of recoupment in this case. Whatever remedy he pursues, it is incumbent on him to show the damage he sustained by the plaintiff’s wrongful sales, and his recovery should be confined to the amount of damage shown.
+-3. The burden was on the defendant to establish that the words “exclusive sale,” included his customers outside West Plains and that plaintiff made unauthorized sales, and on the plaintiff to show the defendant assented to the sale made to the firm in West' Plains and waived any claim on account of it.
+Eor the errors noted the judgment is reversed and the cause remanded.
+Bland, P. J., and Barclay, J., concur.
