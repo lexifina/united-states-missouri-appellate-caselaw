@@ -1,0 +1,41 @@
+---
+court: "St. Louis Court of Appeals"
+decided: "1926-06-01"
+citations: ["220 Mo. App. 1"]
+reporter: "mo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Danes, P. and Becker, J., concur."]
+parties: ["Jane Goodwin, Respondent, v. Rolla Wells, Receiver of United Railways Company of St. Louis, Appellant."]
+source_url: "https://static.case.law/mo-app/220/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1815352
+cites_cases: ["168 Mo. App. 424", "174 Mo. App. 5", "209 S. W. 564", "213 Mo. App. 513", "215 Mo. 619", "235 S. W. 91", "238 S. W. 430", "273 S. W. 1071", "273 S. W. 1073", "273 S. W. 1074", "273 S. W. 110", "273 S. W. 1100", "276 S. W. 1005", "290 Mo,. 344", "292 Mo. 21"]
+---
+
+# Goodwin v. Wells
+
+## Majority (NIPPER, J.)
+
+NIPPER, J.
+— This is an action for damages for personal injuries, alleged to have been sustained by plaintiff while attempting to alight from one of defendant’s street cars. The injury occurred near the intersection of Compton and Franklin Avenues, in the city of St. Louis.
+The ground of negligence counted on in the petition is:
+“That on said day, after plaintiff had so taken passage and while she was a passenger on. said car and said car was some distance west of said Compton avenue and was aproaching said Compton avenue and said car was in motion, defendant negligently opened the rear door of said car and negligently caused and permitted it to remain open until plaintiff was injured as hereinafter mentioned and negligently caused and permitted a sudden check in the speed of said car while said rear door of said car was open, whereby plaintiff was caused to fall and be thrown from said car to the street, ” etc.
+The answer was a general denial.
+The defendant requested instructions in the nature of demurrers at the close of the plaintiff’s case and at the close of the whole case. These were refused, and the case was given to the jury. The jury returned a verdict in favor of plaintiff, and against defendant, in the sum of $4000, and defendant appeals.
+The evidence offered on the part of the plaintiff shows that, on October 8, 1922, plaintiff was a passenger on defendant’s eastbound ear on Franklin avenue. The car was crowded with passengers. Plaintiff rang the bell before the car had reached the street intersection, and started crowding her way to the rear end of the car to get off. When asked the question as to how she got hurt, she answered as follows:
+“Well, I rang the bell to get off before I got to Compton, between Compton and Channing, and the street ear was lined with people on the rear end and I gets up to make it to the door and the street car door was threw open and the car was yet running, and all of a sudden it made a jerk and gave me a jerk like that .and I could hot catch and I fell, and I fell on the right side with the right foot bent back under me, and I found myself — there was two men and a.woman trying to pull me up. They got me up and got me' to the curbstone, and then the conductor saw me, and when the conductor saw me — ”
+Two persons who were present helped her to her home, which was a short distance away. She was forty-five years of age, and by occupation worked as a cook and maid. She said she was not able to work for six months. She described her injuries in the following language:
+“My right foot was unlocated. I was unable to walk on it and my right arm I couldn’t carry it at all; this side and the small part of my back I suffered five weeks; couldn’t sleep at all at night.”
+She said the car went past the usual stopping place before it stopped, and was going a little faster than a person would walk when it passed the regular stopping place; that the jerk was caused by the sudden stopping of the car.
+The evidence of the doctors showed that there had been a fracture of one of the bones in the ankle of the right foot. One of the doctors stated, when asked the question as to whether or not her ankle would ever get well, that he did not think it would ever get beyond the place where she would not have pain during changes of weather, or long standing on her feet; that she would always have some swelling and pain if she stood on her feet long at a time; that she would never be able to use the foot as she did before; that she improved under treatment, except as to the pains in the small of her back and in her shoulder.
+One witness testified that he saw plaintiff get hurt, and, describing how the accident occurred, said:
+“The car made a sudden stop and pitched her off the car on account of the car being so crowded on the rear end.”
+He also stated that the car came to a dead stop at once, or, nearly, so.
+The evidence offered on the part of the defendant was that the car ha,d come ,to a.stop in the usual manner; that the door was then opened' by the conductor, and that plaintiff alighted from the ear while it was standing still, and fell down after she had alighted.
+The grounds urged for reversal in this court are that the petition fails to . state a cause of action, in that it does not allege that the movement of the car was unusual, nor does the evidence show an unusual or violent movement of the ear, and, that the verdict is excessive.
+It. will, be noted, that the petition charges the defendant with negligently opening the rear door of said car, and negligently permitting a sudden cheek in the speed of the car while said rear door, was open.. These allegations are sufficient after verdict to state a. ■cause, of action. It is not necessary to allege that the movement of the car was “unusual” in cases .of this kind where the action is against one operating an electric street car. There is a difference between the operation of street cars and freight or passenger trains. The Supreme Court has recognized this distinction in the cases of Laycock v. United Rys. Co., 290 Mo. 344, 235 S. W. 91, and Rosenzweig v. Wells (Mo. Sup.), 273 S. W. 1071. In the case last cited, the question of the sufficiency of a petition, as well as the evidence to support it, is discussed at great length, and the many cases touching upon that question are reviewed, and it was held that a petition which alleged that defendant negligently opened the door óf a street car while the same was in motion and plaintiff was on the rear platform thereof, and negligently caused the ear to stop with a “sudden and violent jerk,”-was sufficient. The court, in deciding that case, made use -of the following language:
+“To stop an electrically operated street car so suddenly and violently as to throw off of the car and into the street a passenger standing upon the platform, is tantamount to charging that the car was stopped in an unusual manner.”
+The petition being sufficient to state a cause of action, we think the proof offered by plaintiff is sufficient .to sustain the allegations of the petition, if the. jury accepted plaintiffs theory- of how the accident actually occurred.' From the verdict, they evidently did this.
+It is next insisted that the verdict of the jury is excessive. Defendant says it would.be an outrage to permit plaintiff to recover $4000 for a' sprained ankle. This may be true as an abstract proposition, but we have no such situation before us. The evidence shows that plaintiff received a fracture of one of the bones in the ankle, and. that she will'never be entirely well, or able to use the foot as she did before. Her leg was placed in a' plaster paris for four or five weeks and she was unable to get out of bed. She was confined to the house.and bed for eight wéeks. She was forty-five years of age, and worked for a livelihood. We are not inclined to interfere with the verdict of juries on the ground of excessiveness, unless it it clearly appears that the verdict is unreasonable. We cannot say that this is an unconscionable verdict, or one calculated to shock the judicial conscience or conclusively show prejudice and passion on the part of the jury. While it may be conceded that the judgment is rather a large one for the injuries^ yet this would' not be sufficient showing to authorize us to interfere. The judgment is, accordingly, affirmed.
+Danes, P. and Becker, J., concur.
