@@ -1,0 +1,33 @@
+---
+court: "St. Louis Court of Appeals"
+decided: "1899-01-10"
+citations: ["78 Mo. App. 82"]
+reporter: "mo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["All concur."]
+parties: ["Huber Manufacturing Company, Appellant, v. L. M. Hunter et al., Respondents."]
+source_url: "https://static.case.law/mo-app/78/cases/0082-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1467658
+cites_cases: ["101 Mo. 667", "104 Mo. 77", "108 Mo. 277", "13 Mo. App. 592", "25 Mo. App. 619", "30 Mo. App. 335", "36 Mo. 315", "51 Mo. App. 222", "52 Mo. App. 418", "54 Mo. App. 594", "57 Mo. App. 175", "57 Mo. App. 41", "6 Mo. 218", "64 Iowa, 380", "69 Mo. 169", "69 Mo. 170", "73 Mo. 516", "75 Mo. 518", "77 Mo. 227", "78 Mo. 559", "79 Mo. 88", "80 Mo. 185", "81 Mo. 68", "87 Mo. 285", "87 Mo. 71", "91 Mo. 207", "99 Mo. 115"]
+---
+
+# Huber Manufacturing Co. v. Hunter
+
+## Majority (BLAND, P. J.)
+
+BLAND, P. J.
+On the eighth day of August, 1896, the defendant Hunter purchased of plaintiff a traction engine at the agreed price of $975, $150 of which was paid down and a note secured by a deed of trust was given for the balance of $825. Hunter paid by instalments $455.25 on the note and refused to make further payments. After the execution of the deed of trust Hunter conveyed a part interest in the mortgaged property to the other defendants. Plaintiff after the maturity of the note brought suit to foreclose the deed of trust against all the defendants and for personal judgment against Hunter for the balance due. Hunter alone answered. As a defense he set up the fact that he purchased the engine of defendants, through their agent; that the engine when the purchase was made was in the state of Iowa so that he could not see and examine it, and that he relied upon the representations of the agent as to the newness, style and quality of the engine; that the agent represented the engine to be one of recent build and of improved pattern, and that it had never been used; that defendant relied on the truth of these representations and executed a contract of purchase for the engine; that in fact the engine was not a new one, did not have the latest improvements, but on the contrary was an old engine which the plaintiff had reconstructed, and was not worth more than $500. A reply was filed putting in issue the new matter. Defendant offered evidence tending to prove that the engine was a built over or reconstructed one, and that it was not worth exceeding $500 or $600. Plaintiff’s evidence on the contrary, by four or five witnesses, was positive and direct that the engine was not a reconstructed one, but that it was built in 1893, and had been in the possession of plaintiff and its agent at Des Moines, Iowa, from the date of construction to the day it was shipped to Hunter. There was a verdict and judgment for defendant. Plaintiff appeals.
+After the defendant had had the engine in his possession some six or eight months, and after he had been informed by some persons who had seen the engine that it was not a new one, he entered into correspondence with The Eurguson Implement Company of Kansas City with a view of obtaining information as to the history of the engine. It appears from the evidence that The Eurguson Implement Company had been and were at the time of the correspondence agents of the plaintiff for the sale of its engines and separators in certain territory of Missouri, but not for that part of which Knox county, where defendant resides, and where the sale was made, forms a part. The engine was at no time placed with the Eurguson Implement Company for sale; it was never in its possession, nor was the company concerned or directly or indirectly connected in any way with its sale to defendant. The defendant in his letters to the Eurguson Implement Company conceded the fact that he had purchased the engine, and asked the company for the date on which the sale was made by the plaintiff. The letters of the company indicate that its members were under the impression that the company had made a sale of the engine, but were unable to find from its records any date of the sale of this particular engine, number 3017. On March 5, 1897, defendant addressed the following letter to the company, to wit:
+“Eurguson Imp. Co., Kansas City, Mo.
+“Gentlemen: — It is probable I will have to take a Huber engine on a debt No. 3017. Will you kindly advise me how long the engine has been used. I wrote you once before in reference to this but you or me one made a mistake in the number. Yours truly,
+“L. M. Hunter.”
+To this letter the Furguson Company replied as follows:
+Kansas City, Mo., 3 — 9—’97.
+“L. M. Hunter, Novelty, Mo.
+“Dear Sir: — We are in receipt of your favor of the 5th asking us about engine No. 3017. This engine must have been sold in 1893. In a few of our records we have omitted the numbers and without hauling out a lot of old files, we know full well that this is the time.
+“Yours truly,
+“Eurguson Implement Co.”
+Plaintiff objected to the introduction of these letters because not competent evidence against it; the objection was overruled, and the letters were read in evidence; to this ruling plaintiff saved exceptions. 'We are unable to comprehend upon what theory these letters were admitted. The Eurguson Company was not the agent of plaintiff in the sale of the engine — but even if it had been, its statements and declarations made long after the sale had been communicated were wholly inadmissible. Bergeman v. Railroad, 104 Mo. 77; City of Chillicothe ex rel. Matson v. Raynard, 80 Mo. 185; Aldridge v. Furnace Co., 78 Mo. 559; McDermott v. Railroad, 73 Mo. 516; Midland Lumber Co. v. Kreeger, 52 Mo. App. 418; Corrister v. Railroad, 25 Mo. App. 619. The letter was hearsay, pure and simple, and should have been excluded, but the respondent contends that the letters could not have influenced the jury. We can not agree to this contention. The Furguson Company’s letter states that the engine was sold in 1893, and to emphasize this statement, concludes with this declaration, “we know full well that this is the time.” If, as stated in this letter, the engine was sold in 1893, it was sold and taken back, and then resold to the defendant in 1896 — the very thing the defendant relied on for his defense. Eliminating this evidence from the record) there is but little left to support the defense, and we are bound to conclude that the letter had great weight with the jury. Other assignments of error are made, but we find no reversible errors other than the one noted above, for which the judgment is reversed and the cause remanded.
+All concur.
