@@ -1,7 +1,7 @@
 ---
 court: "Missouri Court of Appeals"
 decided: "1886-05-04"
-citations: ["22 Mo. App. 80", "22 Mo. App. 53"]
+citations: ["22 Mo. App. 80"]
 reporter: "mo-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Fielder Estes, Appellant, v. Jacob Fry, Respondent."]
 source_url: "https://static.case.law/mo-app/22/cases/0080-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 543489
-cites_cases: ["10 Mo. 354", "15 Mo. 63", "20 Mo. App. 21", "27 Mo. 55", "33 Mo. 482", "43 Mo. 123", "53 Mo. 525", "56 Mo. 540", "6 Mo. 267", "69 Mo. 469", "77 Mo. 528", "82 Mo. 215", "82 Mo. 317", "82 Mo. 341", "83 Mo. 73"]
+cites_cases: ["10 Mo. 354", "15 Mo. 63", "20 Mo. App. 21", "27 Mo. 55", "33 Mo. 482", "53 Mo. 525", "56 Mo. 540", "6 Mo. 267", "69 Mo. 469", "77 Mo. 528", "82 Mo. 215", "82 Mo. 317", "82 Mo. 341", "83 Mo. 73"]
 ---
 
 # Estes v. Fry
