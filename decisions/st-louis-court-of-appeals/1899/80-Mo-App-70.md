@@ -1,0 +1,28 @@
+---
+court: "St. Louis Court of Appeals"
+decided: "1899-04-18"
+citations: ["80 Mo. App. 70"]
+reporter: "mo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Judge Bland concurs; Judge Biggs dissents."]
+parties: ["Margaret L. Kilpatrick, Appellant, v. Joseph H. Kilpatrick, Respondent."]
+source_url: "https://static.case.law/mo-app/80/cases/0070-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1463856
+cites_cases: ["108 Mo. 387", "22 S. W. Rep. 527", "56 Minn. 491", "59 Mo. App. 102", "59 Mo. App. 641", "74 Mo. App. 174"]
+---
+
+# Kilpatrick v. Kilpatrick
+
+## Majority (BOND, L)
+
+BOND, L
+This action is for a divorce on the ground of unreasonable absence on the part of defendant for the space of one year. The defendant made default, the petition was dismissed, and plaintiff appealed.
+On the trial the evidence showed that the parties intermarried on the ninth of April, 1890, and lived together as husband and wife until December 1, 1895, when the defendant abandoned the home because he was told by his wife that there was no food in the house and requested him to go out and get some which she would cook for their breakfast. The evidence shows that the husband did not thereafter return to his wife, nor make any provision for her support; that her conduct towards him was wifely and affectionate; that she is and was a woman of good conduct and behavior, and so esteemed in the circle of friends formed by herself and husband. At the time of the trial the abandonment of thehusbandhadcontinued i or about three years. As there is not a fact nor circumstance in the record proving that the desertion of the husband was the result of a voluntary agreement on the part of the wife, or tending in any wise to impair the full force of the evidence establishing the statutory ground of divorce relied upon, as well as her good conduct and innocence, a decree for divorce should have been entered in the trial court. The evidence of the good conduct of the wife came from several unimpeached witnesses. It was certainly no fault of hers that the husband, whose duty it was to provide food for his family, failed to do so. As his desertion was on account of his own dereliction, she was necessarily the innocent and injured party, hence the trial judge had no right to conclude that she was n0^ an innocent and injured party, and conceding that such was his personal opinion, as it was wholly unsupported by any evidentiary basis, it did not warrant him in refusing her the relief to which she was entitled by law under the evidence in this record. TJlrey v. Hlrey, No. 7500, unreported. His judgment dismissing the petition is therefore reversed and under the evidence in this record a decree of divorce in plaintiff’s favor will be entered in this court. It is so ordered.
+Judge Bland concurs; Judge Biggs dissents.
+
+## Dissent
+
+DISSENTING OPINION BY JUDGE BIGGS.
+In reviewing records like we have here appellate judges approach the subject at a disadvantage. Section 4508 of the statute provides, that where the proceedings for divorce are ex parte the court “shall be satisfied that the petitioner is an innocent and injured party.” That is in a case of desertion the trial judge must be satisfied that the separation was not through the connivance, consent or approval of the party seeking the divorce. The statute means that the judge must be legally satisfied, that is satisfied from the evidence. If all the proof introduced by the complainant tends to establish the desertion and there is nothing in the conduct of the complainant on the witness stand tending to show collusion, then the judicial conclusion must be that the ground of divorce has been established. The difficulty in reviewing such a question is that we do' not have the complainant before us, and are therefore in a bad position to determine the question in its double aspect. To illustrate: The evidence in the case at bar as written shows the separation; that it was without collusion; that it had existed for the requisite length of time; and that the plaintiff treated her husband well. These facts, except the last one, were established by the testimony of the plaintiff only. The conclusion reached by the trial judge can not be reasonably accounted for except upon the hypothesis that he saw something in the conduct of plaintiff while on the witness stand that convinced him that the separation was with her approval, and if so there could be no desertion. This may have been clearly indicated by the tone of her voice, or the toss of her head, or by some other gesture or action which could not possibly be gotten into the record. In reviewing divorce cases the appellate courts must defer to the judgment of the trial court.. The present case calls for a practical application of this rule. The evidence as written is so plain that something must have occurred at the trial, some action of the complainant, that led Judge Spencer to conclude that the separation was collusive. Under the rule of practice above stated we would be justified and ought to assume this to be true, for it will be noted that the facts and circumstances attending the alleged desertion were proved only by the testimony of the plaintiff. If there had been corroborative testimony as to the attending facts of the alleged desertion as was the case in Ulrey v. Ulrey, not yet reported, and Deschodt v. Deschodt, 59 Mo. App. 102, I would concur in reversing the judgment upon the theory that the circuit judge had misconceived the legal import of the statutes. As it is, I must, in deference to his judgment, dissent.
