@@ -1,0 +1,27 @@
+---
+court: "St. Louis Court of Appeals"
+decided: "1894-10-01"
+citations: ["59 Mo. App. 20"]
+reporter: "mo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Judge Biggs concurs. • Judge Bond concurs in the result."]
+parties: ["Frank Hoffmeyer et al., Respondents, v. Hugo Muench et al., Appellants."]
+source_url: "https://static.case.law/mo-app/59/cases/0020-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1875927
+cites_cases: ["109 Mo. 560", "42 Mo. App. 627"]
+---
+
+# Hoffmeyer v. Muench
+
+## Majority (Rombauer, P. J.)
+
+Rombauer, P. J.
+Anton Hoffmeyer was a member of a benevolent association, known as the Catholic Knights of America. The association was incorporated in the state of Kentucky, and one of its objects, as set forth in its charter, was to create and keep up a fund out of which a sum not exceeding $2,000 should be paid, upon the death of a member, to his family or to others in accordance with his directions. The association had subordinate lodges in the state of Missouri, and Hoffmeyer became a member of one of these lodges while he was still a single man. He afterwards intermarried with Anna Hoffmeyer, who is one of the appellants herein. It does not appear from anything in the record that the subordinate lodge had any power whatever to change, modify or alter, any of the provisions of the charter of the parent lodge, or enter into contracts of insurance with other restrictions than those imposed by the charter of the corporation. The constitution of this subordinate lodge contained the the following provision, among others: “Section 7. Every member receives a benefit certificate upon his admission into the order. Each member may in his application for membership designate the name or names of such member or members of his family to whom he wishes the benefits paid, and they will be inserted into the benefit certificate accordingly.”
+When Hoffmeyer became a member of the subordinate lodge, and incidentally of the corporation, he took a benefit certificate for $1,000 in the corporation which he make payable “to his will.” By his will, which was duly probated in Missouri, he bequeathed this fund to the plaintiffs, two of whom were his brothers. The defendant, Hugo Muench, became administrator with the will annexed of Anton Hoffmeyer’s estate, and collected this fund from the corporation for the benefit of whoever might be entitle thereto. The plaintiffs brought this action against him for the fund, and, upon his suggestion •that the widow, Anna Hoffmeyer, claimed some interest therein, she was joined with him as a codefendant. Upon the trial of the cause such proceedings were had, that the fund was awarded by the court to the plaintiffs. '
+The defendants, appealing, now assign for error that under the. evidence the court should have decided that the fund was- payable to Anna Hoffmeyer, and not to the plaintiffs. This contention is based upon the fact that benevolent associations incorporated under the laws of this state are confined to provisions “for the relief and aid of their members and families, widows, orphans and other kindred, dependents, of deceased members,” and that the brothers of the deceased do not fall within this class. The argument is also made that section 7 of the constitution of the locál lodge impliedly excludes from the benefit of the certificate all but members of the family of the assured.
+These arguments are untenable for the following reasons: The corporation is a Kentucky corporation, and it nowhere appears that, by the laws of Kentucky, corporations of this character are not authorized to make benefit certificates payable upon the member’s death to any beneficiary he may designate’, regardless of the question of dependence. Such a contract is neither against good morals nor prohibited by any statute of this state, and there is no reason why it should not be enforced here. Hysinger v. Supreme Lodge, 42 Mo. App. 627. In regard to any argument deduced from section 7 of the constitution of the subordinate lodge,' it may be said that that section merely provides that the member may designate some member of his family, and, if he does so, the name of such beneficiary shall be inserted in the benefit certificate. It does not purport to prohibit any other form or application, or certificate, nor can we see how it would affect the matter if it did, since, the contract iso made with the corporation and not with the subordinate lodge, and it is not for the subordinate lodge to say what contracts the corporation may make. Bacon on Benefit Societies, section 144, and cases cited. Beyond all this, however, the corporation recognized the contract as valid, and paid the money to the administrator. On what theory the court could order the fund to be paid to the widow is inconceivable, since it was neither the intention of the assured, nor the intention of the corporation, nor the language of the contract, that it should be so paid.. The direction by will was a sufficient direction within the meaning of the charter of the corporation. Masonic Benevolent Ass’n v. Bunch, 109 Mo. 560.
+No question has been raised, either in the trial court or here, as to the propriety of the plaintiffs suing jointly, nor as to the validity of the small bequest made to the third plaintiff; hence we refrain from discussing those questions.
+The judgement is affirmed.
+Judge Biggs concurs. • Judge Bond concurs in the result.
