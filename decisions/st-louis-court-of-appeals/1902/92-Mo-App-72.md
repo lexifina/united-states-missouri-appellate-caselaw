@@ -1,0 +1,32 @@
+---
+court: "St. Louis Court of Appeals"
+decided: "1902-02-04"
+citations: ["92 Mo. App. 72"]
+reporter: "mo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Bland, P. J., and Goode, J., concur."]
+parties: ["JOHN F. DALTON, Appellant, v. JOHN A. EAVES et al., Respondents."]
+source_url: "https://static.case.law/mo-app/92/cases/0072-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8732531
+cites_cases: ["1 Mo. 520", "104 Mo. 127", "105 Mo. 428", "49 Mo. 389", "65 Mo. App. 348"]
+---
+
+# Dalton v. Eaves
+
+## Majority (BARCLAY, J.)
+
+BARCLAY, J.
+This is a suit in equity by which plaintiff (appellant) seeks to enjoin a sale of land under a deed of' trust. Defendants are the holder of the note secured thereby and the trustee nominated in that instrument.
+The deed of trust was given by plaintiff, April 20, 1900, conveying certain land in Dent county to a trustee to secure due payment of four notes executed by plaintiff, each for $237.50, maturing respectively on the first of January, 1901, 1902, 1903, and 1904, and all bearing interest at eight per cent per annum from date, April 20, 1900. The first note falling due January 1, 1901, was not paid. The defendant, Mr. Eaves, the third party (or beneficiary) in the deed of' trust and holder of the overdue note, thereupon requested the trustee to enforce the trust by selling the land, according to the terms of the security deed. The trustee proceeded to-advertise the land for sale in the manner prescribed by tbe instrument, when the plaintiff began this suit to enjoin further proceedings on that line.
+1. Tbe case turns on tbe construction of tbe deed of trust. Tbe contention of plaintiff is that a sale to enforce the trust could not rightly occur until all the secured notes matured, namely, in 1904. That part of tbe document in evidence which requires consideration is as follows:
+“In trust however, for the following purposes: Whereas, John E. Dalton, the said party of the first part has this day made, executed and delivered to the said party of the third part his promissory, notes of even date herewith, by which he promises to pay John A. Eaves, or order, for value received nine hundred and fifty dollars, as evidenced by four promissory notes of even date herewith for $231.50 each, and bearing interest at the rate of eight per cent per annum from date, note No. 1 becoming due January 1, 1901, note No. 2 due January 1, 1902, note No. 3, due January 1, 1903, and note No. 4 due January 1, 1904.
+“Now therefore, if the said parties of the first part or anyone for them shall well and truly pay off and discharge the debt and interest expressed in said notes, and every part thereof, when the same becomes due and payable, according to the true tenor and effect of said notes, then this deed shall be void, and the property hereinbefore conveyed shall be released at the cost of the said parties of the first part; but should the said first parties fail or refuse to pay the said debt or the said interest, or any part thereof, when the same or any part thereof, shall become due and payable, according to the true tenor, date and effect of said notes, then the . . . this deed shall remain in force, and the said party of the second part, or in case of his absence, death, refusal to act, or disability in anywise, the (then) acting sheriff of Dent county, Missouri, at the request of the legal holder of said notes may proceed to sell the property hereinbefore described, or any part thereof, at public vendue, to the highest bidder at the courthouse door in the city of Salem, Dent county, Missouri, for cash, first giving twenty days public notice of the time, terms and place of sale, and of tbe property to -be sold, by advertisement in some newspaper, printed and published in the county of Dent, and upon such sale shall execute and deliver a deed in fee simple of the property sold to the purchaser or purchasers thereof, and receive the proceeds of said sale; and any statement of fact or recital by the said trustee, in relation to the non-payment of the money secured to be paid, the advertisement, sale, receipt of the money, and the execution of the deed to the purchaser, shall be received as prima facie evidence of such fact; and such trustee shall, out of the proceeds of such sale, pay, first, the cost and expense of executing this trust, including legal compensation to the trustee for his services; and next he shall apply the proceeds remaining over to the payment of the said debt and interest or so much thereof as remains unpaid, and the remainder, if any, shall be paid to the said parties of the first part or their legal representatives.”
+It appears that certain words in the original draft of the deed of trust were erased by plaintiff before its execution, viz.: “whole shall become due and 'payable,” which words imnied-iately preceded the stipulation, “this deed shall r&main in force ,” etc.
+Erom the fact of that erasure an inference is sought to be drawn to the effect that no sale to enforce the trust could properly take place until the last of the notes fell due, namely, in 1904.
+But the erasure of the phrase mentioned did not impair the force of the stipulations which, remained, according to which a failure of the debtor to pay any part of the said secured debt or interest “expressed in the said notes,” when the same became due and payable, according to the tenor of said notes, should authorize a sale of the land to satisfy the terms of the trust.
+2. When the debt secured by a mortgage is payable in installments, the condition is broken by non-payment of any one installment, unless the contract otherwise provides.
+The present suit is to enjoin the sale upon default of payment of the first note which matured in 1901. The effect of a sale made in such circumstances is not now a question for our decision. The holder of the overdue note certainly has the right to bring the land to sale in the mode defined by the trust deed, because of the default which has occurred. This is settled law in Missouri. Reddick v. Gressman, 49 Mo. 389; Pfeninghausen v. Shearer, 65 Mo. App. 348. It is, moreover, in entire accord with the general law on the subject. Jones, Mortgages (2 Ed.), secs. 39, 1459.
+The learned trial judge dismissed the plaintiff’s bill, and was entirely right in so doing. The judgment is affirmed.
+Bland, P. J., and Goode, J., concur.
