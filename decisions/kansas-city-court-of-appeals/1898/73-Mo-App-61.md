@@ -1,0 +1,29 @@
+---
+court: "Kansas City Court of Appeals"
+decided: "1898-01-10"
+citations: ["73 Mo. App. 61"]
+reporter: "mo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["All concur."]
+parties: ["Isham Austin’s Estate."]
+source_url: "https://static.case.law/mo-app/73/cases/0061-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8732479
+cites_cases: ["118 N. C. 680", "126 Mo. 190", "151 Pa. St. 577", "21 Mo. App. 531", "3 Cal. App. 43", "36 Mo. App. 663", "38 Pac. Rep. 430", "47 Mo. App. 221", "85 Mo. 125", "93 Mo. 307"]
+---
+
+# Isham Austin's Estate
+
+## Majority (G-ill, J.)
+
+G-ill, J.
+This is an appeal from an order of distribution made on the final settlement of the estate of Isham Austin, who, it seems, was reared to manhood in Linn county, Missouri, but asa professional gambler spent the years of his maturity at various points in Kansas, New Mexico and Missouri. During most of this time, however, the deceased seems to have resided at Albuquerque, New Mexico, where he kept house with the appellant as a reputed wife. On account of failing health he left New Mexico in the early part of 1893 and came east, and, as he said, to die among his folks and at home. During the few weeks following he was under medical treatment at Philadelphia, thence came back to his sister’s in Linn county, and thence, after remaining a few weeks, went to the home of his brother-in-law at Parsons, Kansas, where he died in July, 1893.
+When he returned to this state from New Mexico he brought several thousand dollars in money, which he deposited in a Linn county bank, and there, while at the home of his sister, he executed a will in which he stated that he had no wife or children and proceeded to give his entire property after payment of debts to his sisters and brothers. The subject of controversy here is the balance of money in the hands of Harvey, the administrator, left after payment of debts, etc. Shortly after said Austin’s death his will was duly probated in Linn county, where also the probate court appointed an administrator with will annexed and who took charge of and administered the estate without objection from said Emma Austin or other person. In due season, also, the said Emma Austin, claiming to be the lawful widow of the deceased, applied to the probate court of Linn county both for her allowance of one year’s supplies as well as $400 to be set apart to her as her absolute property as provided for the widow of a resident decedent under the laws of Missouri. This was resisted by the relations entitled under the will, but was nevertheless allowed by the court, and the administrator was ordered to and did pay the alleged widow $125 in lieu of a year’s provisions, and a further sum of $400, in all $525, cash as provided for under the Missouri administration law.
+After this, and when the final settlement was filed by the administrator, the reputed widow, Emma Austin, filed her petition in the probate court, in which she alleged that at the date of his death the said Isham Austin had his residence and domicil in the territory of New Mexico, and for that reason she claimed the remaining money on hands should be distributed and paid to her in accordance with the statute laws of said territory. This application was resisted; the probate court denied the petition, and ordered the said funds to be paid to the brothers and sisters as provided in the will of the deceased. Prom this judgment said Emma Austin appealed to the circuit court, where on a trial the judgment of the probate court was affirmed, and an appeal was taken to this court.
+A?roNÍwWow’s dowerTsctatautes.
+In our opinion the judgment of the lower court was right and must be affirmed. We concede the rule that the succession of personal property of the deceased is governed by the law of his domicil at the date of his death. The question is, where was Isham Austin’s domicil at the date of his death? At the trial testimony was introduced tending to prove that the domicil of said decedent was at that time in New Mexico; and on the other hand there was some evidence tending to prove that the deceased abandoned said residence before his death and resumed his old home in Linn county, Missouri. But the plaintiff widow, by her own conduct has, in so far as she and her rights are concerned, settled the question in favor of the Missouri domicil. By her own solemn acts Mrs. Austin is estopped to deny that her husband’s domicil was, at his death, in this state. She came into the court having jurisdiction of the estate, and there, as the widow of a resident, applied for and received $525 of the estate. As the widow of Isham Austin she was thus entitled only on the theory and assumption that her said husband was, at his death, domiciled in this state. If the domicil of said decedent was in New Mexico, she had no right to said allowances. They are given only to the widows of resident parties. Richardson v. Lewis, 21 Mo. App. 531, and cases cited.
+The widow then will not be allowed to go into court, apply for and receive funds from the estate, all on the ground that she is the widow of the deceased whom ,she alleges was at his death domiciled in this state, and then subsequently be heard to claim other and farther amounts on the alleged ground that her husband’s domicil was not in this state but in another jurisdiction. She can not secure the judgment of a court in her favor on one state of facts, receive and enjoy the proceeds thereof, and then ask and secure a further judgment on the basis that such facts as formerly alleged and found were untrue. Boyd v. Redd, 118 N. C. 680.
+:New estoppel.
+Applying, then, the laws of this state, it is clear that the judgment of distribution entered in the probate court and affirmed by the circuit court was correct, and the judgment should therefore be affirmed. It is so ordered.
+All concur.
