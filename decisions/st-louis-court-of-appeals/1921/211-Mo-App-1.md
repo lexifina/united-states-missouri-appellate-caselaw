@@ -1,0 +1,56 @@
+---
+court: "St. Louis Court of Appeals"
+decided: "1921-02-08"
+citations: ["211 Mo. App. 1"]
+reporter: "mo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Allen and Becker, JJ., concur; Reynolds, P. J., dissents, and at his request cause is certified to Supreme Court."]
+parties: ["MICHAEL LEHNER, Appellant, v. JOHN ROTH and MARI ROTH, Respondents."]
+source_url: "https://static.case.law/mo-app/211/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1785411
+cites_cases: ["1 Mo. App. 130", "100 S. W. 17", "120 Mo. App. 701", "121 S. W. 798", "125 S. W. 799", "132 Mo. 524", "132 Mo. 525", "141 Mo. App. 26", "147 Mo. App. 88", "166 S. W. 257", "183 S. W. 1041", "19 Mai 1906", "201 Mo. 217", "202 S. W. 604", "22 Mo. 124", "243 S. W. 91", "256 Mo. 341", "267 Mo. 199", "29 Mo. 129", "31 Mo. 252", "31 Mo. 28", "31 Mo. 428", "34 S. W. 555", "35 Mo. 283", "51 Mo. 536", "61 Mo. 560", "67 Mo. 476", "7 Mo. 42", "7 Mo. 569", "84 Mo. App. 399", "89 Mo. App. 509", "96 Mo. App. 490", "98 S. W. 92"]
+---
+
+# Lehner v. Roth
+
+## Majority (BÍGGS, C. PER CURIAM:)
+
+BÍGGS, C.
+On February 28,1916, plaintiff filed suit upon a written instrument as follows:
+$834.00
+r St. Louis, Missouri, Sept. 1, 1905.
+Achhundred u vier und dreisig°fw*'8«§,»e•itr pay to the order of Mike Lehuer Achhundred vi-er & und dreisig dollars for value received ífei»fr"of ©farfaonia «ij^mt'ojoot fucm makMu&frat the rate U%
+of "eigfcfr'pGi' cci'iti per annum. John Roth
+Marx Roth.
+Due: Jahn Hoeer.
+On the hack of the instrument are these words , Bezeilt in 19 Mai 1906-60 dol.
+The English translation of the paper reads:
+$834.00 St. Louis, Mo., September 1,1905.
+Eight hundred and thirty-four dollars, pay to the order of Mike Lehner eight hundred and thirty-four dollars for value received at the rate of six per cent per annum.
+John Roth,
+Mari Roth.
+Due: John Hofer.
+Endorsed on the back:
+“Paid 19th of May, 1906, $60.00.”
+The petition was in four separate counts, all based upon the same instrument but seeking a recovery on different theories. The court below sustained demurrers to the first, second and third counts, for the reason that it appeared upon the face thereof that the cause therein alleged was barred by the Statute of Limitations. A jury being waived, the cause was submitted to the Court upon the fourth count, which is in the usual form of a petition upon a promissory note.
+The defendants’ answer was a general denial and a plea of both the five and ten-year Statute of Limitations.
+The trial court rendered judgment for defendants’ holding that the instrument sued on was barred by the five-year statute (section 1889, Revised Statutes, 1909), and did not come within the provisions of the first subdivision of section 1888, the ten-year statute, the action not being upon any writing for the payment of money or property. Plaintiff appeals.
+^ It may.be noted that the suit was filed on February 28, 1916, more than ten years after the date of the instrument, but not quite ten years from the date of the alleged payment on the back of the noté made on May. .19, 1906. The sole question presented by the appeal is whether the five or ten-year Statute of Limitations applies to the pending action.' If the instrument sued on can he said to be a writing for the payment of money within the meaning of section 1888, the same is not barred for ten years under the provisions of that statute.
+As uniformly construed by the courts, the words of section 1888 “upon any writing for the payment of money” mean that the writing must contain a promise either express or implied for the payment of money. It is clear that the instrument in suit contains no express promise to pay on the part of the defendants. Viewing the paper from it four corners can it be said that such a promise can be implied from the language used without resorting to evidence aliunde? The rule which governs has been stated by our Supreme Court thus: “In order to bring an ‘action upon any writing for the payment of money or property,’ it must appear in the statement of the cause of action, that the money or property sued for is promised to be paid or given by the language of the writing, and that such promise does not arise only upon proof of extrinsic facts. That nothing else meets the requirements of the statute, has been uniformly held whenever it has been under review” (citing cases). [Parker-Washington Company v. Dennison, 267 Mo. 199, l. c. 206, 183 S. W. 1041.]
+In the case of Curtis v. Sexton, 201 Mo. l. c. 230, 100 S. W. 17, it is said: “Defendant also contends that the cause of action falls within the five-year Statute of Limitations and is therefore barred. The argument is that when evidence beyond the written document must be resorted to in order to make out the case it is not an action upon ‘a writing . . . .for the payment of money or property’ within the meaning of section 4272, Revised Statutes 1899 (which is the ten-year limitation), and several cases are cited as supporting that argument, among them Menefee v. Arnold, 51 Mo. 536, Brady v. St. Joseph, 84 Mo. App. 399, and others. But that is a misconception of those cases,- they only mean to say that where the promise or agreement to pay on which the action is based is not found in express terms or by fair implication in the writing, but the cause of action arises out' of facts collateral to the instrument, it does not fall within the provision of that section of the Statute of Limitations.”
+In the event the instrument sued on could be said to be a promissory note, then of course, it would fall within the provisions of the ten-year statute. "While the instrument in suit was executed subsequent to the time our negotiable instrument act (Chap. 86, R. S. 1909) went into effect (June 16, 1905), there is nothing in that law which in any way changes the rule that existed before its passage, to the effect that a note must contain. an unconditional promise to pay a sum certain in money. Under the negotiable instrument act (section 9981) the instrument need not contain the word “promise,” but may contain any other terms which are sufficient to clearly indicate an intention to pay.
+A number of cases in this State have held that mere due bills are promissory notes within the meaning of the law even though no promise to pay the acknowledged indebtedness is expressed in the words used. [McGowen v. West, 7 Mo. 569; Finney v. Shirley, 7 Mo. 42; Brady v. Chandler, 31 Mo. 428; Locher v. Kuechenmiester, 120 Mo. App. 701, 98 S. W. 92.] And in the case of Reyburn v. Casey, 29 Mo. 129, it was held that an instrument reciting that H. Doane had received for Samuel A. Reyburn $180, Potosi, Nov. 16, 1850, and signed by J. H. Casey, was held to be a note upon which Reyburn, in whose favor the money was received by Casey, could maintain an action, it being asserted that the acknowledgment on the part of Casey of having received the money payable to Beyburn raised a promise by implication of law to pay the same to'Reyburn.
+This court in the case of Kessler v. Clayes, 147 Mo. App. 88, 125 S. W. 799, exhaustively reviewed the authorities on the question as to the requirements of a promissory note, especially in the matter of the necessary words to imply a promise to pay, and held that an instrument in the form: “Good for one thousand dollars, for 10 shares of Kinloch Jockey Club Stock surrendered to the undersigned by the owner of said stock J. Kessler and for which I am liable. J. D. Lucas,” was a promissory note, and as such entitled to the attributes incident ■to such obligations.
+Gauging the instrument in suit by the rules laid down in the foregoing authorities can we say that the same is a promissory note and that it contains an acknowledgment of an indebtedness of the defendants to the plaintiff, from which the law would imply a promise to pay? We think not. An inspection of that instrument does not reveal that the defendants acknowledged that they were indebted to the plaintiff in any sum, nor does it say that they.promise or that they will pay to the order of plaintiff any sum. On the contrary, the word “promise” on the blank form of a promissory note used is stricken out, and the paper to start with appears to be an order of the defendants addressed to some one else to pay to the order of plaintiff, and in that regard résembles a bill of exchange. And below the signature of the maker are found the words: ‘£ Due: John Hofer. ’ ’ The instrument standing alone and without extrinsic evidence is so indefinite and uncertain that it could not be said that it contains even an acknowledgment of an indebtedness from the defendants to plaintiff. Plaintiff’s counsel realized such fact and offered evidence to the. effect that the defendants gave to the plaintiff the paper for the purchase price of certain property and that John Hofer signed the same as a witness to the signature.
+The instrument does not contain a promise to pay the plaintiff the sum of money stated therein in express terms or by fair -implication in the writing itself. Such a promise could only arise by reason of the showing of a state of facts collateral to the instrument. Such being the case the paper could not be said to fall within the .provisions of section 1888, the ten-year statute, and it is therefore necessarily barred by the five-year Statute of Limitations. [Menefee v. Arnold, 51 Mo. l. c. 539; Carr v. Thompson, 67 Mo. l. c. 476; Curtis v. Sexton, 201 Mo. l. c. 230, 100 S. W. 17; Parker-Washington Company v. Dennison, 267 Mo. 199, 183 S. W. 1041; Ball v. Cotton Press Company, 141 Mo. App. 26, 121 S. W. 798; Babler v. Rhea (Springfield Court of Appeals), 202 S. W. 604.]
+, The Commissioner recommends that the judgment be affirmed.
+PER CURIAM:
+The foregoing opinion of Biggs, C., is adopted as the opinion of the Court. The judgment of the circuit court of St.'Louis County is accordingly affirmed.
+Allen and Becker, JJ., concur; Reynolds, P. J., dissents, and at his request cause is certified to Supreme Court.
+
+## Dissent (REYNOLDS, P. J.)
+
+REYNOLDS, P. J.
+(Dissenting). — I find myself unable to agree to the opinion of Commissioner Biggs, approved by the majority of our court. It does not distinctly appear when the petition was filed; but we gather from the record that it was filed and the action commenced within ten years prior to May 19, 1906. I think that the instrument sued on is either a promissory note, within the meaning of our statute, and, as held by our Supreme Court in Finney v. Shirley & Hoffman, 7 Mo. 42, and McGowen v. West, 7 Mo. 569, that the action is upon a writing for the payment of money or property within the meaning of the first subdivision of section 1888, Revised Statutes 1909, and falls within the decision of our Supreme Court in Reyburn v. Casey, 29 Mo. 129; same case 31 Mo. 252; Bridges v. Stephens, 132 Mo. 524, 34 S. W. 555; Knisely v. Leathe, 256 Mo. 341, 166 S. W. 257, and other cases. I therefore think the judgment of the circuit court should be reversed and the cause remanded, and deeming the opinion of the majority of the court in conflict with the cases I have cited, I ask that this cause be certified to the Supreme Court.
