@@ -1,7 +1,7 @@
 ---
 court: "Missouri Court of Appeals"
 decided: "1882-03-28"
-citations: ["12 Mo. App. 25", "12 Mo. App. 35"]
+citations: ["12 Mo. App. 25"]
 reporter: "mo-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
