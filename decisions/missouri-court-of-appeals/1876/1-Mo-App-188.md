@@ -1,0 +1,28 @@
+---
+court: "Missouri Court of Appeals"
+decided: "1876-02-14"
+citations: ["1 Mo. App. 188"]
+reporter: "mo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["The other judges concur."]
+parties: ["Frederick A. Witte, Respondent, v. Western Mutual Fire Insurance Company, Appellant."]
+source_url: "https://static.case.law/mo-app/1/cases/0188-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 546289
+cites_cases: ["15 Mo. 244", "19 Mo. 135", "27 Mo. 55", "30 Mo. 201", "32 Mo. 255", "37 Mo. 240", "37 Mo. 338", "40 Mo. 557", "42 Mo. 460", "43 Mo. 151", "45 Mo. 142", "45 Mo. 307", "45 Mo. 422", "45 Mo. 428", "45 Mo. 567", "47 Mo. 435", "47 Mo. 54", "50 Mo. 410", "50 Mo. 458", "50 Mo. 516", "52 Mo. 181", "55 Mo. 172", "58 Mo. 421"]
+---
+
+# Witte v. Western Mutual Fire Insurance
+
+## Majority (Lewis, J.,)
+
+Lewis, J.,
+delivered the opinion of the court.
+Plaintiff was assignee of a policy of insurance issued by defendant to Herman Witte, on a stock of hames and material, with engine, boiler; and machinery,..in a building -occupied for the purpose of manufacturing saddle-trees, harness, etc. The premises having been destroyed by fire, .suit was brought to recover the insurance money. At ¡special term the plaintiff obtained judgment for $1,961.75, which judgment was affirmed in general term. A condition in the policy provided that if the premises should be appropriated or used for the purpose of “carrying on or exercising therein any trade, business, or vocation denominated hazardous, or extra hazardous, or specified in the memorandum •of special rates,” etc., or for the purpose of keeping or .storing therein any of the articles so denominated or .specified, unless agreed to by the defendant, in writing, indorsed upon the policy, then the policy should cease and be of no force or effect. The testimony tended to show that the insured, during the continuance of the policy, used n part of the building for the manufacturing and storing of furniture — an occupation within the denomination “haz¡ardous,” and, therefore, violative of the terms of the policy. Also, that on more than one occasion he notified defendant’s ¡secretary of this increase of the risk, asking him to fix the proper increased rate of premium accordingly; that the .¡secretary answered, in effect, that “it was all right,” and no additional premium was necessary; that, after this ■notification, one or two assessments on the premium note were paid to, and received by, the secretary without objection.
+The only alleged error to which our attention is called by the appellant was in the giving of the following instruction to the jury, viz.:
+“Although the jury may find that Herman Witte did, in the spring of 1871, commence to manufacture furniture in the building containing the property insured by this policy, yet if the jury find that he shortly thereafter gave or •caused notice of the fact to be given to the defendant, and requested the defendant, if it deemed the fact material to ¡the risk, to fix the increased rate of premium and make the ■proper indorsement upon the policy in suit, then it became “the defendant’s duty either to fix such rates and make such indorsements, or to notify the holder of said policy of its refusal to do so; and if the jury find that the defendant ••afterwards, and with knowledge of the fact that furniture was being manufactured in said building, collected its •assessments upon said policy, and treated it as a subsisting contract, the jury may find that the defendant waived the ■condition of forfeiture alleged in the answer, and, in such -case, the verdict must be for the plaintiff. If the jury find for the plaintiff, they will allow interest upon the amount •due from the 14th day of June, 1872, to the date of the verdict, and add the same to the principal.”
+The general doctrine of waiver of forfeiture by an officer •of the corporation, as applied in this instruction, has been •so often announced by our Supreme Court in similar cases “that it would be useless further to discuss it here. The present case is made stronger than many of its predecessors by the fact that it appeared, from the testimony of the secretary himself, that he had full authority and discretion to act in the matter of increased rates upon increased hazards, “without any consultation with other officers of the company. It is claimed, however, by appellant, that the instruction is faulty in not distinguishing between assessments for liabilities which existed before the forfeiture and those which may have arisen after-wards. A distinction might well be made, doubtless, between the effects, respectively, of the two classes of assessments to operate as waivers in a given •state of facts. But in the present case there was no testimony showing whether the assessment liabilities accrued before or after the alleged forfeiture. When the collection •-after the forfeiture was shown, all the' presumptions as to ■date were against the defendant. The burden, then, lay ■on the company to prove, if such were the fact, that the liability to pay the assessments was perfected anterior to the forfeiture. The instruction, therefore, was without, fault in this particular.
+Horwitz v. Equitable Ins. Co., 40 Mo. 557; Franklin v. Atlantic Ins. Co., 42 Mo. 460; Combs v. Hannibal Ins. Co., 43 Mo. 151; Merchants and Manufacturers’ Ins. Co. v. Curran, 45 Mo. 142; Hayward v. National Ins. Co., 52 Mo. 181; Pelkington v. National Ins. Co., 55 Mo. 172.
+The judgment must be affirmed, with 10 per cent, damages.
+The other judges concur.
