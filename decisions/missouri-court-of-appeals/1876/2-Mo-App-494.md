@@ -1,0 +1,30 @@
+---
+court: "Missouri Court of Appeals"
+decided: "1876-06-19"
+citations: ["2 Mo. App. 494"]
+reporter: "mo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["In this opinion Judges Lewis and Bakewell concur,. Judge Gantt not sitting."]
+parties: ["A. M. Waterman et al., Respondents, v. James Harkness, Appellant."]
+source_url: "https://static.case.law/mo-app/2/cases/0494-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 550628
+cites_cases: ["34 Mo. 390", "45 Mo. 130"]
+---
+
+# Waterman v. Harkness
+
+## Majority (Stewart, Special J.,)
+
+Stewart, Special J.,
+delivered the opinion of the court.
+This action was brought ón a lease dated March 25, 1852, executed by the ancestors of plaintiff to defendant and another. The term commenced March 25, 1852, and ended March 24,1872. The covenant in the lease, which plaintiffs allege in their petition was broken by the failure of defendant to pay the taxes assessed upon the property for the year 1872, is as- follows :
+“ And alsoThe payment by said lessees of all State, city, and county taxes or charges that may be assessed, levied upon, or charged'against said lot and improvements thereon, for any purpose whatever, during the continuance of this lease, including all taxes and charges for the present year, 1852.”
+The petition alleges that defendant refused to pay the taxes for the city, State, and county assessed on the demised premises for the year 1872 ; that the plaintiff paid the same, and asks judgment for the amount, with interest.
+The defendant demurred to the petition on the ground that it does not appear from the covenant contained in the lease, as stated in the petition, that defendant was liable to pay the taxes assessed in August, 1871, and payable in the year 1872 ; and, further, that it does not appear by the covenant in the lease, as recited in the petition, that defendant has not paid all the taxes that he was compelled to pay, or liable for, under the terms of the lease. This demurrer was sustained by the special term, and judgment given for defendant. Plaintiffs appealed to the general term, where the judgment of the special term was reversed, and from this judgment of reversal defendant appealed.
+Under the law in force when this lease was made the taxes for the year 1852 were assessed in February of that year, but were not leviable until after March 25, 1852, the date of the lease. Hence, under the doctrine of the case of Fargo v. Vallé, lately decided by this court, the lessees were liable to pay the taxes assessed for the year 1852, irrespective of the clause of the covenant ‘ ‘ including all taxes and charges for the present year, 1852.” In the case cited the lessee covenanted to pay all taxes whatever to be levied during the term of this lease, “ including the taxes for the year 1849.” In that case the lease was executed June 7, 1849, and the term ended June 6, 1869. The taxes for the year 1849 were assessed prior to the date of the lease, but were not leviable until after that date. This court held that the lessee, under the general covenant to pay all taxes to be levied, etc., was liable to pay the taxes for the year 1849, irrespective of the additional words “including the taxes for the year 1849 ;” and that, by the employment of the words, the parties were only saying that the lessee should, by all means and Avithout doubt, pay the taxes for 1849, as part of those for which he stipulated.
+The action in that case was to recover the taxes assessed for the year 1869. The taxes assessed for that year were not leviable until after June 6th — the expiration of the lease, and this court held that the lessee was not bound to pay the taxes of that year, inasmuch as this covenant required him to pay the taxes to be levied upon the premises during the term, and that the taxes for the year 1869 were not leviable during the term. In this case the court-very clearly distinguished between the terms “levy” and “ assess,” as applied to taxation, and held that the levying a tax is the collection of it. Applying the doctrine of that case to the one at bar, it follows that the lessees were liable to pay the taxes for the year 1852 under their general covenant, inasmuch as they were to be levied after the commencement of the term ; and that the words “ including all taxes and charges for the present year, 1852,” did not create that liability, but only more specifically expressed the intention of the parties as to the payment of the taxes, of that year.
+It was agreed by counsel for appellant that the lessee was not liable for the taxes sued for in the case at bar, because he had made himself liable to pay the taxes for 1852 ; and, if he be compelled to pay the taxes for the year 1872, he then has to pay the taxes for twenty-one years on a lease for twenty years, and this could not have been intended; and that the words “including all taxes and charges for the present year, 1852,” should be construed as a limitation upon the general covenant, and as specifying with particularity when the payment of the taxes to be assessed, levied upon, or charged against said property,, during the continuance of this lease, should commence; and that, taken together, this covenant shows that it was intended the lessees were to pay taxes for twenty years, and no more. We do not think this covenant, as set out in the petition, susceptible of such a construction, but that the parties intended precisely what they said — that the lessee should pay the taxes for the year 1852, and all other taxes, assessed, levied upon, or charged against the demised premises during the continuance of the lease. The lease expired March 24, 1872. The taxes for the year 1872 were assessed upon the lot in August, 1871, and hence defendant was liable to pay them.
+It follows, therefore, that the judgment of the general term must be affirmed.
+In this opinion Judges Lewis and Bakewell concur,. Judge Gantt not sitting.
