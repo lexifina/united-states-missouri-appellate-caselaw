@@ -1,0 +1,33 @@
+---
+court: "St. Louis Court of Appeals"
+decided: "1902-03-01"
+citations: ["93 Mo. App. 20"]
+reporter: "mo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Barclay and Goode, <717., concur.'"]
+parties: ["B. F. HOWLETT et al., Respondents, v. HENRY TURNER, Appellant."]
+source_url: "https://static.case.law/mo-app/93/cases/0020-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1480222
+cites_cases: ["10 Mo. 440", "138 Mo. 533", "139 Mo. 341", "14 Mo. App. 221", "144 Mo. 136", "49 Mo. 456", "53 Mo. App. 440", "61 Mo. App. 633", "69 Mo. 28", "89 Mo. 48"]
+---
+
+# Howlett v. Turner
+
+## Majority (BLAND, P. J.)
+
+BLAND, P. J.
+Henry Thomas was convicted in the police court in the city of Poplar Bluff — a city of the third class — for the violation of an ordinance of the said city against gambling. He appealed to the circuit court and gave the following recognizance:
+“Whereas, Henry Thomas has appealed from the verdict and judgment rendered against him for a fine and imprisonment before T. J. Henderson, police judge of the city of Poplar Bluff, in the prosecution wherein the city of Poplar Bluff was plaintiff and Henry Thomas defendant, to the circuit court of Butler county, now if the defendant shall appear at the next term of said circuit court and prosecute his appeal with due diligence to a decision and if the judgment of the police judge be affirmed, or upon trial anew in said court judgment be given against him he shall pay or abide the same, and obey every order which shall be made in the premises, and not depart the court without leave, or if his appeal be dismissed, he shall pay the judgment of the police court, together with all costs, and render himself in execution, and abide and perform the judgment of the police judge as therein adjudged against him, this recognizance shall be void, otherwise to remain in full force and effect.”
+Ben F. Howlett and Luke F. Quinn, the respondents herein, were sureties on the recognizance. On a trial de novo in the circuit court, Thomas was convicted and his punishment assessed at a fine of three hundred dollars. After reciting the trial and recording the verdict, the judgment was as follows:
+“Whereupon, it is adjudged by the court, the plaintiff have and recover of and from the defendant herein, and B. F. Howlett and L. F. Quinn, his sureties on bond, the sum of $300, being the amount of damages as filed above, and its costs in this behalf expended, and that execution issue therefor.”
+An execution was issued on this judgment and delivered by the sheriff (the appellant herein) who was about to seize and levy upon the property of respondents to satisfy the execution. Respondents applied to and obtained from the probate court of Butler county a temporary injunction against the levy of the execution. The injunction papers were returned to the circuit court of Butler county where, at the June term, 1901, on motion to dissolve the injunction and on a hearing, the injunction was made perpetual. After an unsuccessful motion in review and for a new trial Turner, the sheriff, appealed.
+It will be observed that the recognizance is conditioned not only that Thomas shall appear in the appellate court, etc., but that if the judgment of the police judge be affirmed upon a trial anew in the said court and judgment be given against him he shall pay or abide the same, or if the appeal be dismissed, he shall pay the judgment of the police court. These conditions are substantially the same as the conditions of the recognizance required by statute to perfect an appeal from a justice of the peace judgment in a civil suit. Sec. 4061, R. S. 1899.
+The contention of appellant is, that for the reason that a prosecution to recover a fine or penalty for violation of a city ordinance is a civil action, the recognizance is such as the statute sanctions and is the proper one to be given in such cases. This view overlooks the fact that while the action is civil, the procedure is in.the main criminal, or quasi criminal and ignores the provisions of section 5805, Revised Statutes 1899, which provides:
+“In all cases before the police judge arising under the* ordinances of the city, an appeal may be taken from the judgment of the police judge to the court having criminal jurisdiction except from a judgment on plea of guilty. Such appeal may be taken by either the city or the defendant or , defendants. Such appeal shall be taken in time and manner as provided by the statutes in relation to appeals from judgments from justices of the peace, in cases of misdemeanor.”
+The conditions of the recognizance required on appeal ' from the judgment of a justice of the peace in cases of misdemeanor are that, “The defendant shall appear at the next term of the said circuit court and prosecute his appeal with due diligence to a decision, and obey every order which shall be made in the premises, and not depart the court without leave.” See. 2784, R. S. 1899.
+In City of De Soto v. Merciel, S3 Mo. App. 57, it was ruled that appeals from a judgment of a recorder’s court of a city of the third class is governed by the law in regard to appeals from justices’ courts in cases of misdemeanors and the affidavit for the appeal, to be effectual, should be filed immediately after conviction. See, also, City of Mexico v. Geiger, 53 Mo. App. 440.
+If the affidavit is governed by the law applicable to appeals from justices’ courts in cases of misdemeanors, the recognizance must be governed by the same law. The only reeognizance the police judge was authorized to take was one to the effect that Thomas should appear in the appellate court, should prosecute his appeal with due diligence to a decision, obey every order that should be made in the premises and not to depart the court without leave. The conditions in the recognizance that he should pay any judgment that might be ren-. dered against him, enlarged the conditions of the recognizance beyond those required by the statute and should have been treated as mere surplusage, as though they had not been written in the recognizance. They are not binding on the sureties, for which reason the judgment rendered against them is absolutely void. State v. Lewis, 61 Mo. App. 633. The judgment being void, the last and, hence, controlling decisions of the Supreme Court are that an injunction will not lie to enjoin an execution issued on such void judgments. Railroad v. Lowder, 138 Mo. 533; Railroad v. Hoereth, 144 Mo. 136.
+The judgment is reversed and the cause remanded.
+Barclay and Goode, <717., concur.'
