@@ -1,0 +1,27 @@
+---
+court: "Missouri Court of Appeals"
+decided: "1880-02-17"
+citations: ["8 Mo. App. 353"]
+reporter: "mo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Judge Bakewell concurs; Judge Lewis is absent."]
+parties: ["Britton A. Hill, Defendant in Error, v. Henry Sutton, Plaintiff in Error."]
+source_url: "https://static.case.law/mo-app/8/cases/0353-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 553562
+cites_cases: ["21 How. 146", "25 Mo. 13", "4 Mo. App. 470", "46 Mo. 121", "50 Cal. 250", "53 Barb. 200", "9 Wall. 50"]
+---
+
+# Hill v. Sutton
+
+## Majority (Hayden, J.,)
+
+Hayden, J.,
+delivered the opinion of the court.
+The petition alleges that the defendant accounted with the plaintiff as to certain sums of money, and upon such accounting the defendant was found indebted to the plaintiff in the sum for which the defendant promised to pay. It seems that the plaintiff and one Bowman had been partners as attorneys, and that they had partnership articles by which it was provided that “ all business and cases since April 1, 1873, shall be divided ; all the business prior to that date, except the case of Peter Lee v. The Empire Insurance Company shall be for the sole benefit of the party who commenced such old business, but both parties shall assist, when necessary, in conducting such old business.” Before this partnership was formed the defendant had employed Bowman to prosecute, as attorney, certain suits to perfect the title to certain lands which the defendant held as trustee for certain girls, and the defendant’s evidence tended to show that the agreement between the defendant and Bowman was that the latter should prosecute whatever suits should be necessary to perfect the title and get possession of the lands, and that Bowman was to have no fee unless he entirely accomplished the contract. Suits were accordingly instituted, and were pending when the partnership was .formed, and in these the plaintiff assisted, without any further contract as to them with the defendant. There was a conflict of evidence as to the new suits, the fees for attending to which are here in question., the defendant’s evidence tending to show that the new suits were supplemental to the old ones, and for the same object, and that the firm of Hill & Bowman was not employed to attend to these new suits otherwise than'as Bowman was first employed before the partnership was formed. The plaintiff, on the contrary, testified that the old and new suits were distinct matters ; that in the old suit of Sutton v. Tobin et al., he obtained judgment and an order of possession ; that this closed that litigation, as the judgment giving possession to the present defendant, Sutton, was not appealed from ; that, as Sutton was about to enter into possession, two new. suits were brought, and that the present defendant employed the firm of Hill & Bowman to attend, to these. These were tried before a referee, and resulted in.a judgment for Sutton. While these were pending the firm of Hill & Bowman was dissolved, and Hill obtained an injunction enjoining Bowman from collecting any fees due the firm. Sutton was informed that he could not safely pay the fee to Bowman, and, as the plaintiff testified, pi’omised to pay the fee to the plaintiff. The suit of Hill v. Bowman was afterwards settled, and the latter assigned to Hill, on October 6, 1877, all outstanding accounts, etc., due to the firm of Hill & Bowman.
+There was testimony of defendant tending to show that early in 1876 the defendant had conveyed the property which he held in trust for the girls to Bowman, that Bowman might hold the title till a good title was made and his fee paid to Bowman, upon which Bowman was to reconvey the land to the girls. This Bowman now refused to do, insisting that the fee which is here in issue belonged to him ; and accordingly the defendant paid the amount of this fee ($400) to Bownian, being compelled to do so in order to get a conveyance of the land to its owners, the girls. The jury found for the plaintiff in the amount claimed.
+It is contended that the trial court.. erred in excluding parol testimony as to the meaning ot' the clause above quoted from the partnership articles, especially as this is a suit against one not a party to those articles. There was no occasion to receive any parol testimony, and the question how the parties had previously construed the agreement was an irrelevant question. If, for instance, the plaintiff had chosen to yield rights out of favor to a partner, he was not obliged to yield rights against a third person in a suit at law. The question what the new suits were, and what relation they bore to the old suits, was a matter of fact; and as to this there was a conflict of testimony. As the jury, on the issues, found for the plaintiff, it is to be inferred that upon material points they believed Hill and disbelieved Bowman ; and the court has sanctioned their verdict by refusing to set it aside. But, if the testimony of Hill is to be believed, the business of the new suits was certainly no such business as was, under the contract, exclusively the business of Bowman.
+Other objections were made upon the trial, but they are not of a character to demand attention. It is not complained that there was error in giving or refusing instructions.
+The judgment is affirmed.
+Judge Bakewell concurs; Judge Lewis is absent.
