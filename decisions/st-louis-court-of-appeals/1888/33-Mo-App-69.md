@@ -1,0 +1,27 @@
+---
+court: "St. Louis Court of Appeals"
+decided: "1888-11-27"
+citations: ["33 Mo. App. 69"]
+reporter: "mo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["All the judges concur."]
+parties: ["Roeder Brothers, Respondents, v. Green Tree Brewery Company, Appellant."]
+source_url: "https://static.case.law/mo-app/33/cases/0069-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 496621
+cites_cases: ["22 Mo. App. 546", "22 Mo. App. 564", "24 Mo. App. 858", "29 Mo. App. 192", "31 Mo. 437", "50 Mo. 511", "61 Mo. 386", "75 Mo. 41", "80 Mo. 300", "88 Mo. 436", "90 Mo. 574"]
+---
+
+# Roeder Bros. v. Green Tree Brewery Co.
+
+## Majority (Thompson, J.,)
+
+Thompson, J.,
+delivered the opinion of the court.
+This was an action for damages for the conversion of nine tubs of butter. The action was commenced before a justice of the peace. On trial anew in the circuit court, without a jury, the plaintiff had a judgment, from which the defendant prosecutes this appeal. No exceptions were saved to rulings upon the evidence and no instructions were asked or given. In such a state of the record, if the judgment is one which can be sustained under any theory consistent with the evidence, it must be affirmed. The plaintiff’s evidence showed that on Friday, the eighth day of July, 1887, the plaintiffs were the creditors of one Klasing to the amount of $181.83; that a part of this indebtedness was for ten tubs of butter which Klasing had purchased of them on the tenth of June preceding; that nine .of these tubs were on store for Klasing in the cold storage-room of the defendant’s brewery. There was no evidence tending to show that the defendant had any right of property in them or any lien upon them. On the eighth of July the plaintiffs, desiring to obtain from Klasing security for their debt, submitted their account to him and procured him to endorse on the back of the same the following : 7-8-87. — Roeder Bros. Gents.: — Out of the 10 tubs of butter you sold me on June 11, ’87,1 still have on hand 9 tubs which are at the Green Tree Brewery Co’s. cellar, and which nine (9)1 hereby re-transfer to you as collateral security for this bill of $181.33. Fred Klasing.”
+The plaintiffs’ evidence was also to the effect that on the following Monday, July 11, their attorney called on the defendant and informed its president that the nine tubs of butter belonging to Klasing, which the defendant had on store, had been transferred by Klasing to the plaintiffs and that they desired to have the defendant hold the butter for them or to deliver possession to them, and that its president agreed to hold it for them, or to let them have it, whenever the paper transferring the butter to the plaintiffs should be produced; that the plaintiffs’ attorney then telephoned to his office for his office-boy to bring the paper, which his office-boy did; but that before the boy could see the president of the defendant to deliver it, a deputy sheriff came and levied an attachment on the butter sued out by the defendant. The plaintiffs filed a notice of claim for the butter under the statute, in which they described their interests therein as that of “Mortgagees,” — thereupon the defendant gave a bond and retained the same. The plaintiffs lost both the butter and their debt. On this state of facts, it cannot be assigned for error that the judgment was not supported by substantial evidence, unless the objection is a sound one that the pledge of the butter by Klasing to the plaintiffs was void as. being in contravention of section 2505, Revised Statutes. That statute does not apply to such a case as this. What was intended by the plaintiffs and Klasing was not a chattel mortgage where the mortgagor remains in possession, and which is not valid as against creditors without being recorded, but a common-law pledge, which becomes effective upon delivery of possession without any recording. The paper purported to “re-transfer” the goods (which the pledgor had previously bought on credit of the pledgee), as collateral security for what he owed them. The word “re-transfer,” as thus used, meant “re-deliver.” That was what was evidently intended, and the paper therefore gave the plaintiffs the right to the possession of the goods, as against any one not having a lien upon them. Moreover, the debt which it was intended to secure was due and if the paper could otherwise be regarded as a mortgage, this gave the plaintiffs the right of possession.
+Section 2505, Revised Statutes, applies neither to mortgages nor pledges. If there was an unreasonable delay between the making of the pledge and notifying the defendant of It, during and in consequence of which it lost any recourse against the pledgor, that was a defensive fact which it ought in some way to have shown. It had notice of the pledge before levying the attachment, and thereafter acted in its own wrong.
+It is argued that, because the plaintiffs in the notice of claim which they filed under the sheriff and marshal’s act, describe their title as that, of mortgagees, thus inducing the defendant to give bond in consequence of such representation, they are now estopped to set up any other kind of title. We do not see any element of an equitable estoppel in the case. We have said that the plaintiffs were pledgees, and we have seen that the defendant was tendered full notice of their title before the indemnifying bond was given.
+The judgment will be affirmed.
+All the judges concur.
