@@ -1,0 +1,23 @@
+---
+court: "St. Louis Court of Appeals"
+decided: "1909-05-25"
+citations: ["139 Mo. App. 1"]
+reporter: "mo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["All concur."]
+parties: ["CHARLES KESSE, Respondent, v. J. H. WILSON et al., Appellants."]
+source_url: "https://static.case.law/mo-app/139/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1589844
+cites_cases: ["19 Mo. App. 587", "22 Mo. App. 443", "28 Mo. 150", "31 Mo. App. 582", "37 Mo. App. 32", "41 Mo. App. 573", "41 Mo. App. 577", "50 Mo. App. 571", "59 Mo. App. 347", "65 Mo. 656", "69 Mo. 364"]
+---
+
+# Kesse v. Wilson
+
+## Majority (GOODE, J. —)
+
+GOODE, J. —
+This is an action of replevin, instituted before a justice of the peace of Kelso township in Scott county. The complaint was duly verified by the affidavit of plaintiff and alleged he was the owner of a cow and calf of the following description: “A large red cow with calf about four months old,” and that the cow, prior to March 12, 1907, was in the possession of G. W. Kesse; that defendant Hallec Wilson is constable of said township and defendant J. D. Randolph, is deputy constable, acting under said Wilson; that on March 12, 1907, said Randolph, as deputy constable, levied on the cow and calf under and by virtue of an execution against G. W. Kesse, and said cow and calf are now in the possession of said Randolph and Wilson, not having been taken under an attachment or execution against plaintiff; that plaintiff has the right to their possession and the same are being wrongly withheld from him; wherefore he prayed judgment for the restoration of them and damages sustained for the wrongful detention. Plaintiff had judgment before the justice and also on the appeal in the circuit court. The evidence is uniform in favor of his ownership of the property. He had bought the cow from G. W. Kesse, his brother, in October, 1906, and ten days later she gave birth to the calf. Plaintiff kept the two animals until December 20th, and as he was not getting much milk from the cow, took her to his brother’s place at Gray’s Point for the latter to sell her for plaintiff. The brother said if plaintiff would bring the cow to Gray’s Point, she might be sold for $35. We find no merit in this appeal. The complaint is sufficient to make a case and so is the proof. One point raised is want of evidence to prove the property was not seized under process against the plaintiff, but this fact was proved positively. Another contention is lack of evidence to show the property was wrongfully detained from plaintiff in Scott county, but certainly there was ample evidence to warrant the jury to find it was. Complaint is made that the affidavit does not conform to the statutes. The statement contained all essential facts, and the affidavit said the facts set forth in the statement, were true to the best of affiant’s knowledge and belief. This was sufficient compliance with the statutes. [R. S. 1899, secs. 3901', 3902.] The principal objection to the verdict seems to be that plaintiff had served a verified notice on the constable under the provisions of section 4043 of the statutes, claiming to own the property. The extent of the proof on this subject contained in the record is that an affidavit, which was not introduced, was delivered by plaintiff to the constable, stating the cow and calf seized under the execution against G. W. Kesse, belonged to‘plaintiff. Whether the affidavit stated the other matters required by the statute to be set out in it, was not shown, but should have been to make the defense good. [State ex rel. v. Rucker, 19 Mo. App. 587.] If it appeared plaintiff had given a notice containing the requisite particulars, and thereupon the constable had taken a bond of indemnity, plaintiff would be held to have elected to pursue the statutory remedy as against his right to replevy or sue the officer for damages. [R. S. 1899, sec. 4045; Bradley v. Holloway, 28 Mo. 150; Dood v. Thomas, 69 Mo. 364; Hawk v. Applegate, 37 Mo. App. 32; Palmer v. Shenkel, 50 Mo. App. 571; Talbot v. Magee, 59 Mo. App. 347.] It .is argued the constable was entitled to forty-eight hours in which to obtain an indemnity bond, and plaintiff sued in replevin before said time had elapsed. This contention would be of weight had proof been made that the notice to the constable was of such a character as called on the officer to require a bond or release the property to the claimant. Evidence to establish a defense on this score is not before us.
+The judgment is affirmed.
+All concur.
