@@ -1,0 +1,29 @@
+---
+court: "Kansas City Court of Appeals"
+decided: "1898-05-30"
+citations: ["76 Mo. App. 96"]
+reporter: "mo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["A. L. West, Appellant, v. R. E. Freeman, Respondent."]
+source_url: "https://static.case.law/mo-app/76/cases/0096-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1471610
+cites_cases: ["18 Mo. App. 477", "26 Mo. App. 403", "31 Mo. 516", "31 Mo. App. 512", "32 Mo. 213", "33 Mo. App. 388", "33 Mo. App. 440", "33 Mo. App. 553", "40 Mo. 224", "40 Mo. App. 99", "49 Mo. 141", "49 Mo. 572", "52 Mo. App. 73", "56 Mo. 538", "61 Mo. 319", "61 Mo. 489", "66 Mo. App. 421", "67 Mo. 313", "67 Mo. 519", "67 Mo. App. 589", "67 Mo. App. 590", "69 Mo. 623", "69 Mo. App. 682", "69 Mo. App. 688", "7 Mo. 530", "70 Mo. App.. 502", "71 Mo. App. 93", "76 Mo. 455", "77 Mo. 339", "78 Mo. 497", "93 Mo. 386"]
+---
+
+# West v. Freeman
+
+## Majority (Smith, P. J.)
+
+Smith, P. J.
+When the case was here on a former appeal — 69 Mo. App. 682 — a statement was then made by us of the facts disclosed by the record, which we think will be found sufficient for a. full understanding of the questions raised in'the present one.
+The plaintiff’s evidence tended to prove that one Clubb made an agreement with defendant by which she promised to pay him $75 to secure her a claim in the “Cherokee Strip,” and that in pursuance of that agreement he did secure such claim and that she accepted said claim and filed on the same in the United States land office at Enid. The defendant’s testimony tended to show that said Clubb agreed for $75 to furnish defendant a spring wagon and one of the fastest teams in the territory with a cowboy for a driver, who knew every foot of ground and just where to go, and who would take her to and locate her on one of the best claims in the strip. The evidence adduced by defendant further tended to show that the wagon in which Clubb had started to carry defendant broke down after going some ten or twelve miles; that the defendant and the other lady accompanying her remained where the wagon broke down until the evening of the following day when Clubb conveyed them to a place a few miles further on where they joined some other persons who were going to Enid. • A Mr. Crain, who was of this party, had located a claim which he assured defendant she could file on if he concluded not to do so himself when he arrived at Enid. Crain concluded not to file on his location and accordingly put the defendant in possession of such data as enabled her to do so. Clubb did not get a claim for the defendant. That in this he utterly failed.
+According to the evidence adduced by the defendant, Clubb at first declined to make any claim against defendant for his said services. Afterward the plaintiff procured an assignment of his claim against defendant under said agreement. The testimony of the witnesses of the plaintiff and defendant is much at variance. The plaintiff requested twelve instructions, of which seven were given. Five were modified by the court, but the modification did not materially change the same.
+The court for the plaintiff, by an instruction (plaintiff’s number 5), submitted the case to the jury upon the theory that if defendant made a contract with Clubb, whereby she agreed to pay him $75 to secure her a claim in the Cherokee strip and that he did secure for her such claim, and that she accepted and filed on the same, and that Clubb afterward transferred to plaintiff his claim against defendant under such contract for $75 that the plaintiff ought to recover.
+This with several cautionary instructions for plaintiff submitted the case very fairly to the jury.
+And for the defendant the court gave an instruction (number 2) which told the jury that if they found that Clubb agreed to secure a good claim for defendant and failed to do so, and that the claim she did secure was less valuable than that contracted tor, that then she was entitled to have the difference in the value of such claims deducted from the amount sued for, and if such difference equaled or exceeded that amount the plaintiff should not recover. The defendant was not entitled to go to the jury on the theory of this instruction, for the reason that she had not filed the statement as required by section 6138, Revised Statutes, in the justice’s court before the trial was there begun. In actions before justices of the peace a defendant can not avail himself of the right of recoupment without complying with that section of the statute. Stephens v. Barber Supply Co., 67 Mo. App. 589. Nor can he when the case is removed to the circuit court by appeal there for the first time avail himself of such right. R. S., sec. 6346.
+There is no evidence as to the value of the claim which the defendant insists that she was entitled, under the agreement, to receive but did not. How could the jury then find that the claim she did receive was of less value than that she should have received, or that there was a difference between the value of the two?
+The plaintiff sued on an express contract. If the defendant could show a nonperformance the suit would fail. Even though there was not complete performance of the contract, only a partial performance, yet, if, as far as it went, it was accepted by defendant, and was of value to her, there is no doubt that plaintiff would be entitled to recover quantum meruit.
+An examination of the other objections upon which plaintiff relies for a reversal of the judgment has convinced us that they are destitute of merit and ought not to be sustained.
+On account of the error of the court in giving the defendant’s second instruction, we feel constrained to reverse the judgment and remand the cause.
