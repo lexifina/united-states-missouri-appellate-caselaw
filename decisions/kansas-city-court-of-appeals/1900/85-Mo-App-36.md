@@ -1,0 +1,29 @@
+---
+court: "Kansas City Court of Appeals"
+decided: "1900-06-11"
+citations: ["85 Mo. App. 36"]
+reporter: "mo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Smith, P. J., concurs; Gill, J., absent."]
+parties: ["KANSAS CITY, Appellant, v. FRANK B. MITCHENER, et al., Executors, Etc., Respondents."]
+source_url: "https://static.case.law/mo-app/85/cases/0036-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1492571
+cites_cases: ["10 Gray, 496", "10 L. R. A. 393", "10 Wall. 299", "100 Mo. 141", "107 Mo. 92", "109 Mo. 265", "114 Mass. 152", "114 Mo. 276", "116 Mo. 636", "12 Mo. App. 466", "121 Mo. 660", "126 Mo. 89", "131 Mo. 194", "134 Mo. 66", "135 Mo. 558", "14 Ark. 246", "142 Mo. 342", "142 Mo. 352", "144 Mo. 258", "145 Mo. 551", "147 Mo. 639", "149 Mo. 122", "16 Kan. 358", "17 Mo. App. 501", "2 Black 418", "26 Mo. App. 75", "28 Mo. App. 428", "29 Mo. App. 518", "34 N. H. 179", "4 Mo. 376", "43 Mo. 502", "50 Miss. 310", "53 Mo. App. 207", "53 S. W. Rep. 921", "54 Minn., 79", "55 S. W. Rep. 466", "57 Ind. 550", "59 N. W. Rep. 770", "61 Mo. App. 134", "61 Mo. App. 165", "62 Mo. 289", "65 la. 494", "71 Hun. 179", "71 Mo. 392", "73 Mo. 145", "75 Mich. 237", "76 Mo. App. 218", "78 Mo. App. 67", "83 Mo. 244", "83 Wis. 54", "85 Mo. 283", "97 Mo. 537"]
+---
+
+# Kansas City v. Mitchener
+
+## Majority (ELLISON, J.)
+
+ELLISON, J.
+— Prior to the institution of the present action a Mrs. Ryan-suffered personal injury by falling on one of plaintiff’s sidewalks in front of property then owned by defendant’s intestate, Mrs. Mitchener. 'She brought suit against the plaintiff city and Mrs. Mitchener for damages sustained and recovered a judgment against the city for $500, but the finding and judgment in that case were in favor of Mrs. Mitchener. The city paid that judgment with interest and costs and then instituted the present action against defendants as executors of the estate of Mrs. Mitchener to recover the amount paid to Mrs. Ryan on the ground that Mrs. Mitchener was primarily liable for the injury resulting from the defective sidewalk. The judgment in the trial court was for defendant.
+The prin'cipal question presented by counsel and the only one necessary to decide, is whether the judgment in • favor of Mrs. Mitchener is res adjudicaia.
+It is provided by section 11 of article 17 of the Charter of Kansas City that in cases where the city has become liable in damages to an injured party by reason of the wrongful acts or negligence of another and such other shall also be liable to the injured party and the latter shall sue the city for the injury, the city may notify the plaintiff that such person is jointly liable. That thereupon the plaintiff shall join such person with the city as a defendant. That judgment may be had jointly against the city and the co-defendant; that execution may issue against both, but shall be executed first on the property of the co-defendant. Mrs. Mitchener was not made a defendant in Mrs. Eyan’s case in the manner thus pointed out by the charter. She was joined as a defendant by Mrs. Eyan in her original petition. Besides, it is conceded that the charter provision is noneffective under the case of Badgley v. St. Louis, 149 Mo. 122.
+- "We then have two defendants, the city and Mrs. Mitchener, each charged to be liable to Mrs. Eyan for her injury and the city contending that Mrs. Mitchener was, primarily liable, and she contending she was not liable in any event. In this condition of controversy that case went to trial, the city by course of conduct at the trial endeavoring to show that Mrs. Mitchener was liable and she endeavoring to show that she was not; while Mrs. Eyan was endeavoring to show that both of them were. The defendants filed separate answers and were represented by different counsel. The result of the trial of that case was that there was a failure to show a liability on the part of Mrs. Mitchener and a judgment was rendered for Mrs. Eyan against the city but against her and in favor of Mrs. Mitchener. That judgment was acquiesced in by the city and not appealed from.
+In our opinion, the judgment in favor of Mrs. Mitchener is res adjudicada as to the present action and that the trial court properly so ruled.' It has been held by the supreme court that a judgment against two joint defendants who are not adversary, is not conclusive as between them. Bank v. Bartle, 114 Mo. 276; O’Rourke v. Railway, 142 Mo. 342.
+But in a case of this nature where one defendant is primarily liable, that is, where the city, if held, could hold the property owner as being the one primarily liable to ¡the injured party, the city and property owner are adversary parties, and a final judgment exculpating the property owner is conclusive against the city. Wiggin v. St. Louis, 135 Mo. 558. Such parties, nothing appearing to the contrary, are in antagonistic positions. Nor do we see that this statement of tihe relative position of the parties is qualified by what is said in O’Rourke v. Railway, supra. But be that as it may, the record of the case of Mrs. Ryan against the city and Mrs. Mitchener shows that they were antagonistic, not to the degree often exhibited, but yet adversaries.
+Evidence was introduced for the purpose of connecting Mrs. Mitchener with the injury and rulings were made by the trial court in favor of one or the other of the two defendants and exceptions taken by the one ruled against. We have no hesitation in holding that the judgment in Mrs. Mitchener’s favor is conclusive.
+We have omitted mention of many authorities ¡cited by respective counsel, since concessions made by each as to the decisive point in the case has made it unnecessary. The judgment will be affirmed.
+Smith, P. J., concurs; Gill, J., absent.
