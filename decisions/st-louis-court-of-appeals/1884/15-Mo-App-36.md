@@ -1,0 +1,36 @@
+---
+court: "St. Louis Court of Appeals"
+decided: "1884-01-15"
+citations: ["15 Mo. App. 36"]
+reporter: "mo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["All the judges concur."]
+parties: ["W. Schmidt et al., Respondents, v. Louis Halle, Appellants."]
+source_url: "https://static.case.law/mo-app/15/cases/0036-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 531167
+cites_cases: ["10 Wend. 519", "10 Wend. 522", "11 Johns. 457", "11 Mo. App. 483", "48 Mo. 278", "5 Hill, 60", "61 Mo. 37", "8 Abb. Pr. (n. s.) 14", "8 Pa. St. 157", "9 Mo. App. 573"]
+---
+
+# Schmidt v. Halle
+
+## Majority (Baicewell, J.,)
+
+Baicewell, J.,
+delivered the opinion of the court.
+This was an action for $156.19 on account, begun before a justice of the peace.
+On trial anew in.the circuit court, plaintiffs offered evidencetending to sustain their cause of action. Defendant offered in evidence the transcrijit of proceedings before a justice of the peace in an action between the same parties, and upon the same cause of action sued on herein. The docket entries of the justice are to the effect, that the parties appeared ready for trial; defendant filed an offset; the justice heard the evidence, and took the cause under advisement to September 18, 1882, at 3 p.m. The entry proceeds : —
+“ Now, on September 18, 1882, come the plaintiffs and take a non-suit.' It is therefore considered that plaintiffs be non-suited, and that the defendant recover of plaintiffs the costs by him expended, and go hence without a day.”
+The cause was tried by the court without a jury. The finding and judgment were for plaintiffs.
+The only question for our consideration is, whether the judgment of the justice in the first suit, was a bar to the subsequent action.
+The statute provides that no judgment of non-suit shall be rendered after the cause is submitted for trial, except by consent of plaintiff; that judgment shall be rendered for defendant with costs, whenever a hearing has been had, and no sum found for plaintiff; the judgment for plaintiff with costs shall be rendered, whenever a hearing has been had and any sum shall be found in favor of plaintiff; and that, in all cases where the cause is submitted to the justice, he shall render judgment within three days. Rev. Stats., sects. 2987, 2988, 2990, 2991.
+No doubt, the plaintiff can not voluntarily submit to a non-suit after the cause is submitted upon its merits — and, in New York, it is held, under statutory provisions similar to ours, that, when the case is sub judice upon the merits, as it must be disposed of upon the merits, — though the justice calls his judgment a judgment of non-suit, and enters it accordingly, if the minutes show that this judgment was rendered by the justice after the cause was submitted to him, and after he took time to deliberate, and not at the trial, it will be regarded as a judgment for defendant, and will be a bar to any subsequent action. Elwell v. McQueen, 10 Wend. 519 ; Hess v. Beckman, 11 Johns. 457. It was held in New York that such a decision was but in accord with the policy and spirit of their statute.
+However such a decision may accord with the New York statute, we held in Flesh v. Christopher (9 Mo. App. 573), that the docket entry of a justice, which shows the dismissal of the case after it is taken under advisement, is incompetent as evidence of a former judgment in bar of a second action, though accompanied with an offer to show by oral testimony that the decision was on the merits, and involved the same issues as the.second action. The judgment was merely for costs ; and from a judgment merely for costs, there can be no appeal. 61 Mo. 37 ; Boggess v. Cox, 48 Mo. 278. When Flesh v. Christopher came up on a second appeal, we again considered the question, aud adhered to our former ruling, s. c., 11 Mo. App. 483. We were unable to hold that, because there ought, under the statute, to have been a determination of the cause, therefore there was one.
+From a judgment dismissing the suit, and merely for costs, there could be no appeal, and it would be hard upon plaintiff to hold that he must be barred by a judgment which determined nothing, and from which he could have no relief.
+The justice ought not to non-suit the plaintiff after a submission. He ought to render judgment, either for plaintiff or defendant. But where he has jurisdiction of the subject-matter and of the parties, and does in fact render a judgment which is irregular, we do not see how we can hold that, because the judgment was irregular, therefore the justice did not render it. An omission, as the failure to enter judgment after verdict, might, be supplied by considering the entry of the verdict an entry of judgment; but a judgment of non-suit, is not a judgment for defendant, but a judgment that defeats the action indeed and gives the costs to defendant, but which is much more eligible for plaintiff than a verdict for defendant; because, after non-suit, which is only a default, plaintiff may begin the same suit again, which, after a finding and judgment, he can not do. 3 Blackst. Com. 376.
+It is, however, contended by counsel for appellant that this case can be distinguished from Flesh v. Christopher. There, the justice, without any action on the part of plaintiff, and perhaps against plaintiff’s will, dismissed his action after submission; but, in the present case, the plaintiff, after he had submitted his cause, prayed the justice to enter a judgment of non-suit, which was accordingly done. After the submission, the justice ought of course to hold no communication with either party; but the minutes show that this was done, and this voluntary action of the plaintiff was, it is contended, a retraxit.
+Technically, there can no more be a retraxit than a non-suit, after the cause is submitted. The one is a .mere default and neglect of plaintiff; the other, is a voluntary open renunciation of his suit in court, made between the filing of the declaration and the submission of the cause. By a retraxit the plaintiff loses his action. The retraxit can not be by attorney, and must be by the plaintiff in person. But the whole doctrine in regard to retraxit is now obsolete. It is quite unknown to our practice. Lowry v. McMillan, 8 Pa. St. 157. When the practice prevailed, the plaintiff was supposed to know what he meant by this technical renunciation of his suit, and what was the consequence of his action. Under the modern1 practice, a formal “discontinuance and withdrawal forever” of a suit, by a paper to that effect, has been held not to have the effect of a retraxit as a bar or estoppel to a subsequent suit. Lowry v. McMillan, supra. And it would certainly be unjust to hold that a plaintiff before a justice who asks, after submission of his cause, for a judgment- of non-suit, means a retraxit, about which and its effects he probably never heard — though he speaks of a non-suit, which the laity commonly understand as béing no bar to any further action.
+We see no reasou for departing from what we ruled in Flesh v. Christopher; and under the ruling in that case it follows that the judgment of the justice offered in evidence in the present case was no bar.
+The judgment is affirmed.
+All the judges concur.
