@@ -1,0 +1,34 @@
+---
+court: "Missouri Court of Appeals"
+decided: "1876-02-14"
+citations: ["1 Mo. App. 172"]
+reporter: "mo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["All the judges concur.."]
+parties: ["John J. Squire, Respondent, v. James C. Wright et al., Appellants."]
+source_url: "https://static.case.law/mo-app/1/cases/0172-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 546295
+cites_cases: ["13 C. B. 495", "15 Mo. 175", "15 Mo. 183", "27 Mo. 518", "31 Miss. 361", "45 Mo. 567", "50 Mo. 410"]
+---
+
+# Squire v. Wright
+
+## Majority (Gantt, P. J.,)
+
+Gantt, P. J.,
+delivered the opinion of the court.
+Squire sued Wright el al., to recover damages for the nonperformance of a contract to employ him for a year, at $6' per diem, in the capacity of foreman of a sash, door, and blind factory. He was discharged in October, 1868, a little more than three months after his term of service commenced. The answer set up that he was totally incompetent, and was, therefore, discharged as foreman, but told to take charge of any machinery and do any work in the factory for which he was competent, and that defendant would pay him the price he was to receive for services as foreman. Defendants say that he refused to accept any such employment, but-absented himself from the factory altogether. They also pleaded a counter-claim of $300, for money borrowed; alleging that they had paid him all the money due up to October 17th, when he ceased to work, except $16.
+The reply asserts that plaintiff was competent, and that he was not discharged for incompetence, but does not deny any other matter alleged in the answer.
+The plaintiff was examined as a witness. He was asked, ón cross-examination, many questions, of which we can only judge by the answers he gave, which are put down in what is called the narrative form. He said: “ My work was, not merely to put machinery into operation, but to prepare knives, cutters, etc., have them properly arranged, placing ¡them, receiving orders, seeing that the workmen properly filled them, laying out work, seeing to its prompt execution ; no part of my business to make estimates for work, but have done so from the list of prices, which refers only to .ordinary work. Don’t know that I could have estimated for ordinary work to satisfaction of my employers, but would ■to my own.” The question was asked : “ Were you compe.tent for such work?” The plaintiff objected to this question ; the court excluded it, and defendants excepted.
+The court gave the following instructions at the request of plaintiff, defendants excepting:
+1. “ The plaintiff was not bound, under the said contract, •to serve, the defendants in any other capacity than that of ■foreman; and if the jury believe from the evidence that -•either of the defendants stated to the plaintiff that he was no longer foreman, and that they had concluded to’dispense with his services as foreman, they are instructed that such .statement or statements, substantially the same, constituted a discharge of the plaintiff, and the effect was not relieved •or altered by the offer to him of any other position.”
+2. “ The law presumes that the plaintiff was competent, ■and possessed of the necessary skill and ability to perform the duties of said employment, and the burden of proof to -the contrary is on the defendants.”
+The defendants asked this instruction, and excepted to its refusal, viz.:
+“If the jury believe from the evidence that defendants •offered to give plaintiff employment in the same general line of business as that in which they engaged him under the terms and conditions of the contract read in evidence, .and at the same compensation, and plaintiff refused to accept the same, the defendants are not liable in ■this .action.”
+1* Whether the question asked of plaintiff was prop<erly excluded, must depend on the inquiry whether it was the business of a foreman, of such an establishment as that in which the plaintiff was employed, to make estimates for work. He says it was not. One of the defendants says it was. If it was part of his business, as foreman, and he was not competent to do it, clearly it was important for the ■defense to show it. We cannot see how it could be shown more satisfactorily than by the testimony of some person .acquainted with the capacity of the plaintiff, nor how any witness can be selected who can be presumed to be better acquainted with that subject than the plaintiff himself. It is objected that the question sought to elicit an opinion. 'The same objection might be made to the question : “ Can you perform a computation in arithmetic ? ” Of course it ••assumes that the witness knows the qualities which enable •any one to make estimates for work, and the inquiry is whether he possesses those qualities. We can hardly conjecture that plaintiff would, by his answer, have discredited his own competency, and yet his counsel seems to have feared this. If he had pronounced himself incompetent to perform such work, the question would still remain : “ Was such work part of your business as foreman? ” We think "this question should have been allowed.
+2. The error assigned in respect of the second instruction quoted as having been given for the plaintiff cannot be sustained. Its only scope was to tell the jury that the burden of showing the incompetency of the plaintiff lay on the •defendants, and this was correct.
+3. The first instruction given at the instance of the plaintiff, and the refused instruction quoted of the defendants, present in substance the same point, viz.: Whether the ■offer of defendants to give plaintiff employment “in the ;same general line of business as. that in which they engaged him, * * * and at the same compensation,” should Iiave been received in defense of this action.
+Strictly, such an offer might not have been a full defense (Armfield v. Nash, 31 Miss. 361; Emmens v. Elderton, 13 C. B. 495), but we think it was clearly admissible in mitigation of damages (Pond v. Wyman, 15 Mo. 175) ; and yet the language of the plaintiff’s instruction was that the effect, of the dischai’ge of plaintiff “ was not relieved or altered by the offer to him of any other position.” This language was very broad — improperly so, we think. The jury were warranted in understanding it, as we suppose the plaintiff’s counsel understood it, that an offer to plaintiff of any employment whatever, except that from which the defendants discharged him, was one he was at liberty to refuse. If the offer had come from a stranger, we cannot see how the plaintiff could have justified such a refusal, and we perceive no reason why he was at liberty to do so when the-offer came from the defendants. The .judgment will be reversed and the cause remanded.
+All the judges concur..
