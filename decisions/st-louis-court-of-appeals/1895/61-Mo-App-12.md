@@ -1,0 +1,26 @@
+---
+court: "St. Louis Court of Appeals"
+decided: "1895-01-29"
+citations: ["61 Mo. App. 12"]
+reporter: "mo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. H. Storey, Respondent, v. B. G. Patton et al., Appellants."]
+source_url: "https://static.case.law/mo-app/61/cases/0012-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1458948
+cites_cases: ["23 Mo. App. 598", "23 Mo. App. 617"]
+---
+
+# Storey v. Patton
+
+## Majority (Rombauer, P. J.)
+
+Rombauer, P. J.
+This suit originated before a justice of the peace. Its object is to enforce a lien for keep of a horse by an action of replevin. The plaintiff was the keeper of the horse, and the defendants are purchasers who bought it from one Glruel who contracted the bill for its keep. The cause was tried before a jury, and the trial resulted in a judgment for the plaintiff. The errors assigned in this court are that the plaintiff’s evidence does not warrant a recovery, and that the court should have so instructed the jury; that the court admitted illegal evidence, and that it erred in its ruling on instructions.
+Although we caused some of the imperfections in the transcript brought to this court to be remedied by orders on the clerk of the trial court, we find that this transcript is still imperfect in that it does not contain all the evidence which was before the trial court. A bill rendered for the keep of this horse, which the plaintiff claims the defendants examined before' they bought this horse, and which is spoken of by the witnesses as Exhibit 4, is entirely omitted from the transcript. It is an elementary proposition that all the evidence which was before the trial court must be embodied in the transcript, where the appellant claims that such evidence was insufficient for the submission of the cause to the jury. Nor can appellate courts’ review instructions where all the evidence is not preserved either in full, or by a statement that there was evidence tending to show certain facts.
+An examination of the record discloses that evidence was admitted for the plaintiff which, if proper objection had been made, the court should have ruled out. Such was the evidence that the plaintiff brought an action against Gfruel for the amount of the bill, and recovered judgment against him; also the evidence that the defendants agreed to pay this bill before they finally purchased the horse. The defendants, however, fail to show that they objected or excepted to the admission of this evidence, and an examination of the transcript fails to disclose that they did so. The only questions, therefore, before us for review are whether the evidence for plaintiff, which was relevant to the issue, warranted a judgment for the plaintiff, if believed by the jury, and whether the court erred in its instructions to. the jury.
+The plaintiff’s evidence tended to show that he boarded the mare in question for some time anterior to the spring of 1892; that Gruel was in the habit of taking her away from plaintiff’s pasture in foaling time, and returning her some time after she had foaled; that in the spring of 1892 Gruel took the mare under a similar arrangement, agreeing to return her after she had foaled, but that he failed to return her and placed her into the pasture of the defendant Patton, and in the fall of 1892 sold her to Meloan, who subsequently sold an interest in her to his codefendant Patton. The plaintiff’s evidence also tended to show that both Patton and his codefendant were aware, when the mare came into Patton’s possession in the spring of 1892, that the plaintiff had a keeper’s lien for his feed bill against the mare. On this evidence the court could not nonsuit the plaintiff, since a keeper’s lien may be enforced by replevin against anyone who purchases and obtains possession of the animal with notice of such claim. R. S. 1889, sec. 6730; State to use v. Shevlin, 23 Mo. App. 598; Heaps v. Jones, 23 Mo. App. 617.
+It appeared in evidence that, after the mare was taken from plaintiff’s possession by Gruel under the circumstances above stated, she was placed in Patton’s pasture, which was opposite the plaintiff’s field; that plaintiff knew of this fact, and took no steps to enforce his lien against the mare until the defendants bought her. The defendants claim that, under these circumstances the court should have instructed the -jury, as they requested, that, if they found these facts, and also found that the plaintiff knew that the defendants held chattel mortgages against the mare before they bought her, they must find that the plaintiff waived his lien as a matter of law.
+The question of waiver is one of intention, where it is sought to be shown by matters in pais, and is always a question for the jury, provided that there is substantial evidence tending to show such waiver. As the waiver in this case rested exclusively on matters in pais, all that the defendants could demand was that the court should submit that question to the jury for' their finding. This the court did in an instruction very favorable to the defendants. The jury by their finding have negatived a waiver, and there is nothing for review before us on that question..'
+All the judges concurring, the judgment is affirmed.
