@@ -1,0 +1,27 @@
+---
+court: "St. Louis Court of Appeals"
+decided: "1896-12-08"
+citations: ["68 Mo. App. 15"]
+reporter: "mo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["All the judges concurring,"]
+parties: ["Cote Brilliant Pressed Brick Company, Respondent, v. Rudolph W. Sadring et al., Appellants."]
+source_url: "https://static.case.law/mo-app/68/cases/0015-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1446303
+cites_cases: ["112 Mo. 502", "118 Mass. 595", "26 Mo. App. 66", "30 Mo. 263", "45 Mo. 150", "56 Mo. 434", "64 Mo. App. 377", "7 Mo. App. 158", "9 Mo. 59", "9 Mo. App. 424"]
+---
+
+# Cote Brilliant Pressed Brick Co. v. Sadring
+
+## Majority (Rombauer, P. J.)
+
+Rombauer, P. J.
+This is a suit by a material-man to charge the defendant Sadring’s property with a mechanic’s lien for brick sold .and delivered to one Lindgreen, the contractor for the erection of the building. The plaintiff claims a balance of $330, and the accuracy of the lien account is not disputed. The answer of the defendant owners sets up the following facts'by way of equitable estoppel. After the account accrued Lindgreen procured a receipt showing payment in full for the bricks sold; he thereupon exhibited this receipt to the defendant owners, for the purpose of obtaining payment from them of the balance due to him upon the contract, and such balance amounting to $400 was paid to him by the owners. There is no-controversy touching this fact. The plaintiff admitted upon the trial that Sadring relied on the receipt -given by the plaintiff to Lindgreen, and relying on such. receipt paid him the money. It is also admitted that the defendants were not notified of the fact that the money was paid by check until long afterward.
+The plaintiff in avoidance of this estoppel replied, and gave evidence upon the trial that the. check which Lindgreen gave to it when it executed the receipt in question proved worthless. The court thereupon entered judgment for the plaintiff ordering a foreclosure of the lien.
+The defendants assign for error that the conceded facts conclusively establish an estoppel, and that the court tried the case on the erroneous theory that because plaintiff was not estopped by his receipt acknowledging payment from asserting against Lind-green that payment was actually made, therefore he was not estopped from showing this fact against the defendant owners. The premises are unquestionably correct, but the conclusion drawn from them is erroneous. Before Lindgreen could claim that the check was received by the plaintiff in payment, it was incumbent upon him under the decisions of this state to show that it was expressly understood between him and the plaintiff that the giving and receiving of the check should so operate. The nonliability of the defendants is dependent on the fact whether by the exhibition of the receipt to them they were honestly and without any negligence on their part misled into the belief that Lindgreen had paid the plaintiff in full for the brick delivered. The case would be exactly the same if the plaintiff had received nothing from Lind-green, and yet would have told the defendant that it had been paid in full, and thereby misled the defendants acting in good faith to their prejudice. That the representation was made by writing and not by word of mouth, can not change the rule, as long as plaintiff had reason to suppose that it would be shown to the defendants for the very purpose for which it was shown.
+There is nothing in a mechanic’s lien which exempts such a claim from the operation of an equitable estoppel. That it may be thus defeated has been expressly decided in this' state in the somewhat parallel case of Lumber Company v. Park Association, 64 Mo. App. 377. Such is the law in other jurisdictions. Phillips on Mechanic’s Liens, section 273; Hinchey v. Greeney, 118 Mass. 595. Where one person even innocently but negligently places another in a position to mislead a third, and such third person is thereby misled to his prejudice, and without any fault on his part, it would be inequitable to visit the consequences of the first person’s negligence on such innocent third person. Akin to this is the rule frequently recognized in this state that where one of two innocent persons must suffer by the fraudulent conduct of a third person, the loss should fall on him whose negligence has caused it. Rice v. Groffman, 56 Mo. 434; Bank v. Frame, 112 Mo. 502.
+The main facts upon which depends the exoneration of defendant’s property from plaintiff’s lien were conceded at the trial. True it is that they were conceded for the purposes of the trial only, but the surrounding circumstances are such that there is no probability of plaintiff making a better case upon retrial. That the plaintiff executed a receipt of payment in full for material for which he now sues the parties, who in the exercise of proper care acted to their prejudice upon the faith of such receipt, is conceded and can not be gainsaid. As a person must be presumed to intend the probable consequences of his acts, it is morally certain that the receipt was executed with an intention to influence the defendants’ action. The case therefore contains every element of estoppel. To permit the plaintiff now to say that the acknowledgment of payment was untrue, would work a fraud on the defendants. Hence we reverse the judgment without remanding the cause.
+All the judges concurring,
+the judgment is reversed.
