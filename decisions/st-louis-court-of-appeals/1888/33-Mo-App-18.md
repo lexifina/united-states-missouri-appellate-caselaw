@@ -1,0 +1,40 @@
+---
+court: "St. Louis Court of Appeals"
+decided: "1888-11-27"
+citations: ["33 Mo. App. 18"]
+reporter: "mo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["All the judges concur."]
+parties: ["Newton Prueitt, Respondent, v. Cheltenham Quarry Company et al., Appellants."]
+source_url: "https://static.case.law/mo-app/33/cases/0018-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 496750
+cites_cases: ["14 Cal. 558", "17 Mo. App. 228", "19 Conn. 154", "2 Mo. App. 402", "21 N. J. L. 183", "25 Mo. App. 104", "26 Mo. App. 431", "27 Mo. 28", "3 Mo. App. 507", "30 Mo. 442", "31 Mo. 296", "31 Mo. App. 376", "35 Iowa, 306", "36 Mo. 351", "48 Mo. 152", "51 Mo. 316", "58 Mo. 361", "59 Mo. 27", "6 Pet. 262", "69 Mo. 469", "7 Mo. App. 596", "7 Mo. App. 87"]
+---
+
+# Prueitt v. Cheltenham Quarry Co.
+
+## Majority (Peers, J.,)
+
+Peers, J.,
+delivered the opinion of the court.
+This is an action quare clausum fregit. The petition sets out that plaintiff was, on the first of October, 1885, in possession of the premises as a tenant, and that defendants without leave and wrongfully entered thereon and deposited dirt, stones, etc., and trod down the grass, to his damage one thousand dollars. The answer of the Cheltenham Quarry Company denies the possession of plaintiff and the damages, admits its entry on the premises and alleges that such entry was not without leave or wrongful, but with the permission of one of its co-defendants, Kennedy, who was at the time the owner in fee-simple of the property.
+The answer of Kennedy, Nega, and the other defendants is a general denial.
+The locus in quo was an uninclosed lot of uneven surface, with a number of sink-holes in it, which plaintiff had leased from one Johnson, paying for the entire ten acres, twenty dollars a year rent. He says he pastured three cows on it. The evidence tended to show that the public had been accustomed to cross it in all directions, both with vehicles and afoot. The dirt, etc., placed on it by defendants was for the purpose of fixing a road out of the Cheltenham Quarry, and was done with the permission of Kennedy, who claimed to be the owner. The portion of the land covered by the dirt, etc., was very small, some thirty yards in length. About a month after the alleged trespass was committed oneFruin, with the consent of plaintiff, opened a quarry on the premises at the exact spot where the road had been located by defendants.
+There was evidence that plaintiff gave defendants notice to quit putting the dirt, etc., on the land, and that he told them he had a lease from Johnson. To this defendants replied that Johnson had no-title, and that defendants themselves had a license from Kennedy, the true owner. Plaintiff testified that one or two of the officers of the defendant corporation told him that they, defendants, had more right to the ground than plaintiff had; that plaintiff’s lease was no good, and that they were going to put dirt on there as long as they wanted to put it on ; that they were making a road through there, “and were going to have the road through there in spite of me or anybody else.”
+Plaintiff was told before he took possession of the lot that it did not belong to his lessor, and Kennedy did actually buy the lot and held a. deed therefor, and gave Nega and the corporation the privilege of putting stone thereon. However, when the notice was served on them to quit putting dirt on the place, the officers of the company ordered it discontinued; and defendants all deny that any more was put on after that time.
+Plaintiff himself introduced in evidence a record showing that yearly in 1886, defendant Kennedy sued plaintiff for the possession, and that the jury rendered a verdict in Kennedy’s favor; but this verdict was afterwards set aside by this court, and judgment rendered for defendant therein.
+There was no evidence of any malice or wantonness or recklessness on the part of defendants, or any of them, nor of any aggravating circumstances attending the trespass. But the evidence shows that if Kennedy was mistaken as to his title and right tb the possession, it was an honest mistake on his part and that of his co-defendants.
+Plaintiff does not himself state the amount of his damages nor how much the leasehold was diminished in value by the acts of defendants. One of his witnesses testifies that it would cost one hundred and fifty to two hundred dollars to take the dirt, etc., off the lot, and another that the cost would be one hundred and seventy-five to two hundred and twenty-five dollars. But the fact is shown by plaintiff himself and his witnesses that, ' almost immediately after the acts complained of were done, a party holding under plaintiff opened a quarry at a place where the dirt was deposited and excavated the ground to a depth of fifteen or twenty feet; and no one testifies that the expense of doing this work was increased by reason of defendant’s previous acts.
+The instruction on the measure of damages which was given in the court below is as follows:
+“If you find for the plaintiff, you will assess his damages at such sum as you may believe from the evidence the possessory interest of the plaintiff in the premises described in the petition herein was damaged by such of the acts complained of in the petition as you may find from the evidence to have been committed on or after October 1,1885, and while the premises were in the plaintiff’s possession; and if you further believe from the evidence that such acts were wilfully or intentionally committed with knowledge or notice of the possession of said premises by plaintiff you may add to the actual damages such further sum as exemplary damages as in your judgment is right in the way of punishment for such wilful injury, and in estimating the same you should take into consideration all the circumstances of the case in evidence.”
+An instruction asked by defendants that, to justify the recovery of exemplary damages it must be shown that the defendant was actuated by malice or a reckless disregard of plaintiff’s rights, was refused.
+The jury found-a verdict against the corporation, and against Nega and Kennedy, and assessed the damages at one hundred and thirty-five dollars, and found in favor of the other defendants.
+The error assigned is that the instruction as to exemplary damages was erroneous and not warranted by the evidence.
+The court erred in giving the instruction as to exemplary damages. The case made does not justify the giving of any such instruction, for there is neither violence, malice, oppression nor wanton recklessness mingled in the controversy. The act complained of must partake something of a criminal or wanton nature, else the amount sought to be recovered will be confined to compensation. Kennedy v. Railroad, 36 Mo. 351. A trespass does not become a malicious trespass because it is done intentionally or knowingly. In the case at bar there were no circumstances warranting exemplary damages, and hence any instruction thereon was erroneous. Morgan v. Durfee, 69 Mo. 469; Engle v. Jones, 51 Mo. 316.
+“To authorize the giving of exemplary damages the injury must be either wanton or malicious.” Welch v. Stewart, 31 Mo. App. 376.
+Respondent insists that the instruction was given by the court on its “own motion,” and that being the case, the attention of the trial court was not called to-the error in the motion for new trial, hence cannot be considered here.
+On this point the record shows that the trial court refused to give the instructions offered by plaintiff in the “form in which they were offered,” but in place thereof gave those complained of. Upon comparing the two sets of instructions, we find no material difference in them. They were virtually plaintiff’s instructions, and it is too technical to say that they were “ given by the court,” and not at the request of the plaintiff. We think the point sufficiently raised in the motion for a new trial.
+The judgment will be reversed as to parties appealing, and the cause remanded.
+All the judges concur.
