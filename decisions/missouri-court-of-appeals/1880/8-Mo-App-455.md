@@ -1,0 +1,28 @@
+---
+court: "Missouri Court of Appeals"
+decided: "1880-03-16"
+citations: ["8 Mo. App. 455"]
+reporter: "mo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Judge Bakewell concurs; Judge Lewis is absent."]
+parties: ["City of St. Louis, Respondent, v. Charles Sullivan, Appellant."]
+source_url: "https://static.case.law/mo-app/8/cases/0455-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 553449
+cites_cases: ["43 Mo. 470"]
+---
+
+# City of St. Louis v. Sullivan
+
+## Majority (.Hayden, J.,)
+
+.Hayden, J.,
+delivered the opinion of thé court.
+This is a proceeding instituted in the Police Court of the city of St. Louis for violation of a city ordinance. Chap. 20, art. 2, sect. 6. The defendant is charged, first, with keeping a gambling-table and gambling device commonly called a keno bank, at which divers persons, at the time-stated, played at games of chance called keno, for money and property, contrary to the ordinance ; secondly, with betting money upon the game ; and further, the premises being under his control, with permitting a gambling-table called a keno bank to be used at the premises named, for the purpose of playing at the game of chance called keno. Sect. 6 of the ordinance named is as follows: “Any person who’ shall, in this city, set up or keep any gaming-table or gambling device, at which any game of chance shall be played for money or property, or anything representing money or property, or shall, at auy such table or device, or at any game of chance, bet, win, or lose any money or property,, either in specie or by means of anything representing the-same, or shall suffer any such table or device, at which any game of chance is played, to be set up or used in any tenement in his possession or under his control, shall "be deemed guilty of a misdemeanor, and, upon conviction therof, be-fined not less than fifty nor more than five hundred dollars.” The defendant was convicted in the court below, and fined $150 and costs.
+In the court below, and here, the question turned on the sufficiency of the evidence to warrant a conviction. The real inquiry is not as to any matter of law, but resolves itself into one which it is the peculiar function of the triers of the fact to answer. Neither in criminal nor in civil cases ought the appellate courts to interfere with the triers of fact, who see the witnesses and hear the testimony, in the exercise of their office in drawing inferences from facts directly proved, unless it is apparent that there is no fair or reasonable basis for the inference of fact which has been drawn.
+Tried by this test, though there was here no direct evidence that the defendant was engaged in playing for money at the game which was going on in the room, we cannot say that the inference drawn by the court below was so forced and unreasonable that it must be pronounced to have no basis in the evidence. There was testimony tending directly to connect the defendant with the game, and from this and the other testimony it was not unreasonable to infer that he was playing at it for money. There were ten or eleven persons in'the room sitting at tables. On the tables there were keno-cards and buttons. There was a negro in the act of turning the urn, in which there were numbered balls. As the officer went into the keuo-room, the negro jumped from the platform on which he was standing. A person on the platform near the roller appeared to be filling the office of cashier, and, as the officer entered, took possession of the money and chips which were in the drawer. The defendant was sitting at a table in front of the platform on which the roller stood. A keno-card and buttons lay upon the table immediately in front of the defendant as he sat at the table, and the defendant was looking at the card. It appeared that in playing keno the roller draws from the urn a ball and announces the number. When the number called corresponds with a number in any of the horizontal rows upon the cards which, in playing at the game, are placed before those who are playing, the player places a button upon such number on his card, and this process continues until one player has covered all the numbers in a row, when he announces “ keno,” and receives the money paid in by the different players for their cards, less the proprietor’s percentage.
+It is certainly a fair inference from these facts that the game of keno was in process, was being played for money, and that the defendant was one of the players. It is not easy to see what ground there is for any distinction between his acts in sitting at the table with the keno-card and buttons immediately before him as he sat, and watching his card as the wheel revolved, and his act, if such had been proved, in paying and receiving money at the game. His position and act in watching his card were not those of a by-stander, but of one engaged as a player in the game.- Whether he had bought his card, and paid part of the money which the cashier took up as the officer entered, matters not. The defendant had the card before him and was engaged in an operation that is an essential part of the game, while the negro was turning the urn.
+But the case against him is strengthened by his own testimony. He denies he was playing, or ever played keno in his life. He says he went into this keno-room about two minutes before he was arrested, but he offers no explanation as to the facts testified to by the officers. Under these circumstances, we cannot reverse the judgment. The State v. Andrews, 43 Mo. 470.
+The judgment is affirmed.
+Judge Bakewell concurs; Judge Lewis is absent.
