@@ -1,0 +1,24 @@
+---
+court: "St. Louis Court of Appeals"
+decided: "1895-01-29"
+citations: ["61 Mo. App. 51"]
+reporter: "mo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["All the judges concur."]
+parties: ["Henrietta R. Dausman, Administratrix, et al., Appellants, v. William A. Maguire et al., Respondents."]
+source_url: "https://static.case.law/mo-app/61/cases/0051-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1458856
+---
+
+# Dausman v. Maguire
+
+## Majority (Biggs, J.)
+
+Biggs, J.
+This is a proceeding in equity to enjoin the sale of certain real estate under a deed of trust. The deed of trust was executed by Henry Dausman, deceased, and the present action is prosecuted by his personal representative and his heirs at law. Maguire,, who is the trustee in the deed, and Herman A. Haeussler who is charged to be in possession of the note secured by the deed of trust, are defendants. The right to injunctive relief is predicated' on the alleged payment of the mortgage debt by the deceased.
+The facts, about which there is no dispute, are these: The deceased executed the deed of trust on March 15, 1889. It was given to secure five notes of even date, which were made payable to one Archie Haskins, or order. The principal note was for $2,000, due two years after its date, and the four interest notes-were for $62 each, due respectively in six, twelve, eighteen and twenty-four months. The money loaned belonged to a relative of Maguire, and Haskins was his clerk. The notes were made payable to Haskins for convenience merely. About five months afterwards, Dausman and Maguire disagreed about insurance on the property. Maguire says in his examination in chief that Dausman said that, as he was so particular about-the loan, he would pay it off. In his cross-examination he modified the statement to the effect that Dausman said that he would get some one else to carry the loan. Shortly afterwards H. J. Grrimm presented to Maguire a certified check, payable to the order of Maguire and Company, for the amount then due on the loan, and the notes were assigned by Haskins without recourse, and they together. with the deed of trust were delivered to Grimm. On November 2, 1891, Grimm borrowed of one Henry Sayers $1,000, and on December, 7, 1891, he borrowed the additional sum of $500. To secure these loans the principal note received by Grimm from Haskins was pledged as collateral. Dausman died on February. 24, 1892. On the twenty-fifth day of May, 1892, Grimm applied to .Hauessler for a loan of $1,500 for the purpose of paying the debt; he owed Sayers, and proposed to pledge to him, as security for the loan, the note held by. Sayers. This loan was made and Haeussler gave Sayers a check for $1,500, the amount of his debt against Grimm. Grimm having, made default in the payment of his note to Haeussler, the latter advertised the property for sale under the deed of trust. There was also evidence tending to' prove that the certified or cashier’s cheek, which Grimm delivered to Maguire, was charged to the account of Dausman in the bank. The cross-examination of Sayers discredited somewhat the bona fides of his loan to Grimm. Hpon this evidence the finding was for the defendant, and the action dismissed: The plaintiffs have appealed.
+The record presents a question of fact only. That Hauessler took the note in good faith is well established, but he acquired it after maturity and, therefore, holds it subject to all existing equities. If Grimm paid the notes and did not purchase them from Maguire, then the injunction ought to have been made perpetual. There are facts and circumstances tending to support both theories. Against the finding of the court the fact is clearly established that the certified or cashier’s check was drawn or charged against the account of Dausman in the bank. To this may be added the additional facts, that Grimm was a relative of Dausman, and that lie had been in the habit of transacting business for him, such as collecting rents. On the other hand there is nothing in the evidence to show that Dausman was not indebted to Grimm at the time the certified check was delivered to him. Eor aught that appears, he may have owed Grimm that amount of money. Again, it is conceded that the notes were assigned to Grimm and not canceled, and that Dausman lived for almost two years after this transaction and suffered the note to remain outstanding in the hands of Grimm and a portion of the time in the hands of Sayers, and he also permitted the deed of trust to remain unsatisfied of record.
+It is evident that we ought not to disturb the judgment, as the preponderance of the evidence is not opposed to it. It will, therefore, be affirmed.
+All the judges concur.
