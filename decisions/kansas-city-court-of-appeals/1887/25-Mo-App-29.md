@@ -1,0 +1,38 @@
+---
+court: "Kansas City Court of Appeals"
+decided: "1887-03-04"
+citations: ["25 Mo. App. 29"]
+reporter: "mo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["L. D. Hyde, Appellant, v. R. W. Goldsby, Respondent."]
+source_url: "https://static.case.law/mo-app/25/cases/0029-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 517856
+cites_cases: ["1 Mo. 537", "14 Mo. App. 48", "25 Mo. 408", "26 Mo. 580", "27 Mo. 435", "28 Mo. 65", "28 Mo. 66", "28 Mo. 68", "3 Mo. 52", "32 Mo. 295", "37 Mo. 108", "48 Mo. 510", "50 Mo. 395", "53 Barb. 407", "53 Mo. 313", "57 Mo. 376", "58 Mo. 109", "60 Mo. 116", "60 Mo. 209", "61 Mo. 253", "61 Mo. 255", "63 Mo. 137", "73 Mo. 219", "79 Mo. 531", "83 Mo. 683", "85 Mo. 249"]
+---
+
+# Hyde v. Goldsby
+
+## Majority (Philips, P. J.)
+
+Philips, P. J.
+This action was instituted in a justice’s court for unlawful detainer of eighty acres of land. On application of defendant the cause was removed, by certiorari, to the circuit court. The complaint is in exact form for a wrongful entry without force. After alleging that plaintiff had held possession for a given time, it avers “ that the defendant, wrongfully and with out force, by disseisin, obtained and continued in the possession of the said premises, after demand made, in writing, for the delivery of the possession thereof.”
+At the hearing in the circuit court, the plaintiff, in order to make proof of the demand, put in evidence what purported to be a copy of' the written demand, which, from the evidence, was delivered by the plaintiff’s attorney by mailing the same to the defendant in the postoffice of the town of Keytesville, where the defendant lived. The attorney testified that he did so mail the written demand, and that the next morning after he so-deposited it in the postoffice, he met the defendant on the street and asked him if he had received the notice,, •and the defendant admitted that he had.
+The plaintiff’s evidence tended to prove the allegations of the complaint. At the conclusion of this evidence the court sustained- a demurrer to the evidence,, and directed a verdict for the defendant.
+From the judgment rendered thereon the plaintiff' has appealed.
+I. Two questions arise on this record: First, was a demand necessary ; and if so, was the proof of service sufficient ? Under the statute there are three instances-giving this character of action.
+Revised Statuses, section 2419, provides for the case of a forcible entry and detainer. In such case the-offending party is an intruder, and not entitled to a demand. DeGraw v. Prior, 53 Mo. 313; Silvey v. Summer, 61 Mo. 255.
+Section 2420 provides for two instances. The first clause provides for the wrongful holding over of demised premises after the termination of the time for which they were let. In such case no demand is necessary. Young v. Smith, 28 Mo. 66, 68 ; Alexander v. Westcott, 37 Mo. 108.
+The second clause declares, that, “when any person wrongfully, and without force, by disseisin, shall obtain and continue in possession of any lands, tenements or other possessions, and, after demand made, in writing, for the delivery of the possession thereof, by the person having the legal” right to snch possession, his agent or attorney, shall refuse or neglect to quit such possession, such person shall be deemed guilty of an unlawful detainer.” In this instance a demand is necessary. Young v. Smith, 28 Mo. 68. The complaint in this case is in the precise terms of the latter clause of section 2420. The making of demand was, therefore, an indispensable pre-requisite.
+Where the action is so clearly predicated on a given section of the statute, and where the proof, as shown by the recitations of the bill of exceptions, was pertinent to such issue, there is little ground for invoking that line of decisions respecting the indulgence to be given in liberally construing statements filed in justice’s courts, or for saying that the proof might have sustained an action for forcible entry and detainer. An unsuccessful party, after losing on his own' accepted ground of trial in the lower court, ought not to shift position on appeal so as to try a cause not really presented in the trial court.
+II. The only remaining question for determination is, was the proof of demand sufficient ? Section 2458 of this same statute declares that: “The demand required by section 2420 shall be made, either by delivering a copy of such demand to the person in possession, or by leaving such copy with some person above the age of fifteen years, residing on or being in charge of the premises ; or, if no such person be in the actual occupancy thereof, then by posting such copy on the premises. When the demand shall be made by an officer, authorized to serve judicial process, his return shall be prima facie evidence of the facts therein stated ; and if such demand be made by any other person, the return shall be sworn to by such person, and shall then be prima facie evidence of the facts therein stated.”
+This section was first enacted in 1877 (Laws Mo. 1877. p. 281). It must mean what it declares. Its language is certainly mandatory. The service of demand shall be - made by delivering a copy to the person sought to be notified. Where there is an actual • occupant of the premises the service must be personal. The return, which is in writing, must show the fact of such personal delivery.
+Had the service in this case been made by an officer, the'proof of the fact of service would have been his written return. Personal service, manifested by delivery, would not, prima facie, be established by a return showing that the officer had deposited the copy in the usual postoffice of the defendant. Such return could not be aided by proof aliunde. Madison County Bank v. Suman, 79 Mo. 531.
+‘ Where the statute specifically prescribes the character and manner of service it is strictly construed. Charless v. Morney, 1 Mo. 537; Blanton v. Jamison, 3 Mo. 52 ; Smith v. Rawlins, 25 Mo. 408 ; St. Louis v. Goebel, 32 Mo. 295; Hewitt v. Weatherby, 57 Mo. 376.
+The only difference in the prescription as to the return to be made by an officer and “any other person ” is, that the return of the latter must be sworn to.
+Had the return in this case disclosed on its face the actual fact, it would have shown that Rucker, the attorney, did not deliver a copy in person to defendant, but that he delivered it to the postoffice. No judgment could have been entered thereon.
+Had he recited in his return the matter testified to at the trial, de hors the record, it would have been outside of the statute, and invited a motion to strike it out as mere surplusage, except for the fact that it disproved the statutory service.
+Under statutes like this, it is not the fact that the party to be notified has actual knowledge of the fact, but it is proof that it has been conveyed to him in-the prescribed method, that gives the right of action. Pear son v. Lovejoy, 53 Barb. 407; Madison Co. Bank v. Suman, supra, 530, et seq.
+As suggested in tbe last named case, the admission of such proof, in pais, would be attended with much uncertainty, conjecture and diversion into collateral inquiries. But more, it would be to establish another method of proof than that prescribed by the statute, or another mode of service, in fact. The statutory method, once broken through, would open wide the gates for vicious precedents, which rapidly multiply, and too often, in the end, practically nullify the will of the legislature.
+The other judges concurring, the judgment of the circuit court is affirmed.
