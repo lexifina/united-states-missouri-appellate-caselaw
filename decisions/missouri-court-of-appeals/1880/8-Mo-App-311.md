@@ -1,0 +1,26 @@
+---
+court: "Missouri Court of Appeals"
+decided: "1880-02-10"
+citations: ["8 Mo. App. 311"]
+reporter: "mo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Judge Bakewell concurs-; Judge Lewis is absent."]
+parties: ["Gottlieb Eyerman, Appellant, v. James A. Hardy et al., Respondents."]
+source_url: "https://static.case.law/mo-app/8/cases/0311-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 553451
+cites_cases: ["21 Mo. 420", "3 Mo. App. 545", "3 Mo. App. 569", "3 Mo. App. 570", "4 Mo. App. 436", "50 Mo. 525", "59 Mo. 289", "60 Mo. 292", "61 Mo. 488"]
+---
+
+# Eyerman v. Hardy
+
+## Majority (Hayden, J.,)
+
+Hayden, J.,
+delivered the opinion of the court.
+It is admitted in this case that the land against which the special tax-bill issued was regularly subdivided into lots, yet the tax-bill states that the work is chargeable against “lots No. '1 to 11, inclusive;” and then describes the whole tract, one of the lots of which was of nearly twice the frontage of the others. It is further conceded that the sum .charged in the bill is not certified by the engineer to be the proportion of the cost of the whole street chargeable to the lots, or any of them; that the bill does not state that the sum charged is the proportion of any sum, or that the engineer made any apportionment of the cost of the .street; that.the engineer does not certify that he apportioned the cost of the street, and that nothing appears upon the face of the bill from which any apportionment can be made; that the work done under ordinance 9391 — by which the city .engineer is directed to cause Lynch Street, from Second Carondelet Avenue to the Gravois Load, to be graded, guttered, macadamized, and cross-walks and sidewalks to be constructed — was let under three distinct contracts, of which the one in evidence covers only the space from Liberty Street to Jefferson Avenue.
+These admissions the evidence compels the plaintiff to make, and these are fatal to his case. It is argued that there is nothing in the spirit or the letter of the law forbidding the letting out of the work in sections, and making contracts accordingly. But if, where the ordinance directs the city engineer to cause a given piece of work to be done, that prescribed work may be divided and subdivided, and done in sections instead of as an entirety, and the cost of parts of the work computed accordingly, not only is there no certainty that the-owner-of the land will obtain what the law secures him, but the mere discretion of the engineer is substituted for the inflexible rule of the law. Thus, here the prescribed woi’k was over four thousand feet in extent. It was divided into three sections of about equal length. As the evidence shows, the work of making streets varies with the foundation. If heavier roundings are necessary in one section more than in others, the cost of that section will be greater, and the result will be that the average secured by distribution where the whole work is the basis of computation will not be obtained. The difference in many cases may be slight, but that is immaterial. The discretion of the engineer is not to be substituted and the uniformity of the rule impaired. By the ordinance, the engineer was, when the work was completed, to compute the cost of the work and assess the same as a special tax against the property chargeable therewith, in proportion to its linear quantity fronting on such finished portion of the improvements ; and this gave him the only authority which he had as to the assessment. He could, under the first section, cause the given work to be done only as the provisions just cited necessarily imply.
+That each lot, though all were owned by the same owners, should have borne its own burden, and the whole tax not have been lumped against all the ground, is clear. If this were an open question, as the plaintiff argues it is, there 'could be no doubt as to its decision. There is no more ground for charging lot 1 — a lot of the frontage of twenty-five feet, separated by nine lots from lot 11 — with the tax of lot 11, which has a frontage of over forty-seven feet, than there would be for charging one steamboat, under the Boat and Vessel Act, with a lien for supplies furnished to another boat which happened to be owned by the same owner. As by the one statute a charge is established upon the specific vessel, so by the other it is upon the specific lot, “ in proportion to the frontage thereof.” In both cases there is no personal judgment, but merely one against the property. In creating liens, the whole policy of the law is to define their extent: that while the contractors may have their security, the impediment to the owner and to his free transfer of his property may be as slight as possible. But this question has been settled by the decisions. Kefferstein v. Holliday, 3 Mo. App. 569 ; Miller v. Anheuser, 4 Mo. App. 436; Sess. Acts 1867, p. 74, sects. 9, 10.
+These considerations dispose of the case, and render it unnecessary to notice other points. The judgment was for the defendants, and it is affirmed.
+Judge Bakewell concurs-; Judge Lewis is absent.
