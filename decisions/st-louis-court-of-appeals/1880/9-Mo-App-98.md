@@ -1,0 +1,32 @@
+---
+court: "St. Louis Court of Appeals"
+decided: "1880-05-18"
+citations: ["9 Mo. App. 98"]
+reporter: "mo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Judge Bakewell concurs; Judge Lewis is absent."]
+parties: ["Catherine E. Stanley, Appellant, v. John C. Vogel, Executor, Respondent."]
+source_url: "https://static.case.law/mo-app/9/cases/0098-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 555603
+cites_cases: ["10 Mo. 234", "16 How. Pr. 8", "18 Mo. 162", "18 Mo. 164", "33 Ga. 79", "5 Cush. 543", "5 How. Pr. 132", "6 Serg. & R. 272", "7 Wend. 29", "9 Mo. 493"]
+---
+
+# Stanley v. Vogel
+
+## Majority (Hayden, J.,)
+
+Hayden, J.,
+delivered the opinion of the court.
+The defendant’s testator was conducting a hotel in St. Louis. The petition alleges that the plaintiff was a guest at the hotel, and that the testator, disregarding his agreement to furnish her with suitable accommodations, had an elevator shaft in the hotel so carelessly arranged that the plaintiff, having occasion to retire to the water-closet, fell through the unguarded doorway and into the shaft of the elevator, whereby she was greatly injured. The testator having died, this action was brought, and there was a demurrer on the ground that the cause of action did not survive. There was judgment for the defendant on the demurrer.
+It is clear that at common law this action does not survive against the executors. They are assignees, not of the ■testator’s person, but of his estate. The essence of this action is the wrong as clearly as if it were trespass for assault. If the plaintiff had been a guest, and the defendant’s testator had assaulted her, could the plaintiff have made the cause of action survive by declaring as a guest? If not, how can it survive through the present insertion of' a similar statement, wholly unnecessary as it is to the cause of action? In either case the action is based on the wrong,, the directness or indirectness going only to the different forms of tort. That the plaintiff had a right to be where-she was may have been a material factor in her case. But it was not as her host that the defendant was liable, but as the owner, or person in charge of a building.
+It was not at common law, nor is it under our statutes, a decisive test of the survival of an action that it arose out of contract. Actions for breach of promise of marriage-never survived, unless, at least, special damage was-proved, or there was immediate injury to property. It was said by Lord Ellenborough, in Chamberlain v. Williamson, 2 Mau. & Sel. 408: “All injuries affecting the life or health of the deceased; all such as arise out of the unskilfulnessof medical practitioners ; the imprisonment of the party brought oil by the negligence of his attorney — all these would be breaches of the implied promise by the persons employed to exhibit a proper portion of skill and attention. We are not aware, however, of any attempt on the part of the executor to maintain an action in any such case.” In Wilson v. Tucker, 3 Stark. N. P. 154, a nisi prius case, the question was not mooted. The true test as to survival against an executor was whether the cause of action had its basis in a property right, and necessarily involved the breach of a contract obligation. Hambly v. Trott, Cowp. 376 ; 1 Saund. 216, note; Ld. Raym. 973; Martin v. Bradley, 1 Caines, 124.
+It is only on the ground that the gist of the action is injury to a property right, and that the action sounds in contract that Lord Mansfield’s dictum as to the survival of an action against the executor of a common carrier can be maintained. Hambly v. Trott, supra. So Sir James Mansfield evidently thought. Powell v. Layton, 2 Bos. & Pul. N. R. 370. The case of James v. Christy, 18 Mo. 162, is certainly peculiar; but, so far as can be gathei’ed from the 'opinion, it appears to proceed, though under our statute, upon the principle just stated — that the action rested upon a breach of contract obligation, which breach involved injury to the property right of the father. At all events, that was no case of a mere owner or person in charge of real estate, liable, if at all, merely as such, like the testator here; and if the action had been regarded as case for the injury done, the ninety-seventh section of the statute cited below would surely not have been passed by, as it is in the opinion in that case, without comment or notice. Rev. Stats. 1845, p. 76, sects. 25, 26.
+In the suit at bar it was as. irrelevant to allege that the plaintiff was a guest by contract with the testator as it would have been to allege the color of her hair, while the injury itself was purely personal. That the plaintiff was deprived of the power to earn money, and was obliged to spend sums about her recovery, would not enable her to sue at common law, since, as we have seen, it is only where the action sounds in contract that the fact that a property right is affected enables the plaintiff to maintain the action against the executor.
+The sections of our statute under the head of Administration are as follows : —
+Sect. 96. “ For all wrongs done to the property, rights, or interest of another, for which an action might be maintained against the wrong-doer, such action may be brought by the person injured, or after his death by his executor or administrator, against such wrong-doer ; and after his death against his executor or administrator, in the same manner and with the like effect in all respects, as actions founded upon contracts.”
+Sect. 97. “The preceding section shall not extend to actions for slander, libel, assault and battery, or false imprisonment, iior to actions on the case for injuries to the person of the plaintiff, or to the person of the testator or intestate of any executor or administrator.”
+The general effect of the first section is to put property rights arising from tort on the same'basis as property rights arising out of contract. Thus, actions in tort for injuries done to personal property by the testator now survive' against the executor. But the actions named in the next section, and case for injuries to the person of the plaintiff, of which latter class this suit is an'instance, are expressly excepted from the operation of the first section.
+The judgment is affirmed.
+Judge Bakewell concurs; Judge Lewis is absent.
