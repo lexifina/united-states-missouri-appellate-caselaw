@@ -1,0 +1,33 @@
+---
+court: "St. Louis Court of Appeals"
+decided: "1896-03-24"
+citations: ["66 Mo. App. 63"]
+reporter: "mo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["P. W. Brown, Respondent, v. Luke M. Emerson, Appellant."]
+source_url: "https://static.case.law/mo-app/66/cases/0063-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1450812
+cites_cases: ["10 Allen, 242", "138 Ill. 153"]
+---
+
+# Brown v. Emerson
+
+## Majority (Rombauer, P. J.)
+
+Rombauer, P. J.
+This is an action to recover damages for the breach of a warranty in the sale of a chattel. The contract is evidenced by the following memorandum, signed by the defendant:
+“Bowling G-been, Mo., Jan. 12,1892.
+“Bill of sale and guarantee for one imported Catalonian jack.
+“This certifies that I have this day sold to O. W. Brown, of Bunnels,Iowa, one imported jack. I hereby guarantee said jack to be a good performer and a sure foal getter, and all right in every way. Said jack is-to have proper care and handling.
+“Luke M. Emebson.”
+The plaintiff’s petition alleges the sale to him with the above warranty for the price of $850, and, as a breach thereof, states that the animal was not a good performer nor a sure foal getter, and was wholly worthless for the purposes for which he was bought and for which the defendant warranted him, by reason whereof the plaintiff was damaged in the sum of $925. The defendant’s answer admits the sale of the animal to the plaintiff, but denies all other allegations.
+The cause was tried by jury. The plaintiff introduced evidence tending to show that the jack was put, in the spring of 1892, to forty-two mares, most of whom were good breeders, and that not one of the mares got with foal; that, during the entire season, the jack was properly cared for and was well handled; that $850 was the fair market value of a jack like this, if a sure foal getter, but that a jack of that kind, if no foal getter, would be utterly worthless. The farmers to whose mares the jack was put testified for the plaintiff, and corroborated this evidence in all its details. The plaintiff also gave evidence that, in the fall of the year, he offered to return the jack to the defendant if the defendant would return to him his note for $800, executed in part payment of the purchase money at the date of the sale, but that the defendant declined to do so. The only testimony opposed to this was the testimony of the defendant, who stated that the jack was a good foal getter, was all right and was well worth the price paid for him; but the defendant failed to state any instance in which the jack succeeded in getting a mare with foal. The jury found a verdict for $800 for the plaintiff. The defendant appeals and assigns for error the exclusion of legal evidence offered by him, and the giving of erroneous instructions.
+It appeared upon plaintiff’s cross-examination that he traded the jack in the fall of 1892, as part of a large lot of stock, for some residence property in Des Moines, Iowa. He stated in that connection that the jack was thrown into the trade, as he considered him of no value. Touching this statement, which the defendant himself called out, the defendant then sought to cross-examine the witness by asking him what value he placed upon the other stock which he traded, and what value he placed upon 'the Des Moines property received in exchange. This inquiry was excluded by the court, and the defendant excepted and still excepts.
+There was no error in this ruling. The plaintiff’s measure of damages consisted of the differepce between the value óf the jack at the date of sale and what his value would have been had he conformed to the warranty. Sutherland on Damages, section 670. That rule holds good even though the vendee subsequently resells the chattel at an increased price, particularly if the resale was with warranty express or implied. Brown v. Bigelow, 10 Allen, 242; Wheeloclc v. Berkeley, 138 Ill. 153. The admission of this testimony could, therefore, only tend to mislead the jury as to the true issues. But, beyond this, the sale of an article at a certain price can have a tendency to show its market value only where the article has a market value. Here the jack is admitted to have no market value, except for the purposes of being a foal getter, and all the testimony conclusively shows that he was no foal getter.
+The instructions asked by the defendant, all of which stated an erroneous measure of damages, were properly refused.
+Complaint is also made of the following instruction given by the court for the plaintiff:
+“The court instructs the jury that, if they find from the evidence in the cause that the defendant sold the plaintiff the jack in controversy, and executed the contract in writing which was read in evidence, and if they further find from the evidence in the cause that the said jack was not a good performer and asure foal getter, then their verdict should be for the plaintiff, and they should assess plaintiff’s damages at such sum as the jury may find from the evidence is equal to the difference in the reasonable market value of the said jack, as it would have been had said jack been a good performer and a sure foal getter, and the reasonable market value of said jack as he actually was, — said value to be determined as at the time of the sale by defendant to plaintiff.”
+The defendant claims that this instruction is erroneous, because it does not submit to the finding of the jury the proper care and handling of the jack, which the defendant claims was under the terms of the warranty a condition precedent to the recovery of damages for its breach. There might be some merit in this contention, had such an issue been made by the pleadings or evidence. The plaintiff’s petition does not state that the jack had proper care and handling while in plaintiff’s possession, nor does the answer aver that he had not. No objection was made to the petition on account of this omission. The plaintiff gave uncontradieted evidence that the jack, while in. his possession, had the very best care and handling by one of the most experienced horsemen in the vicinity, and the defendant gave no evidence on the subject whatever. None of the instructions asked by the defendant request the submission of this question to the jury. Under these circumstances the court was warranted in assuming that the proper care and handling of the jack was a fact conceded by the defendant, even assuming that by the terms of the warranty it wás a condition precedent.
+All the judges concurring, the judgment is affirmed.
