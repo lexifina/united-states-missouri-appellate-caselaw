@@ -1,0 +1,30 @@
+---
+court: "Missouri Court of Appeals"
+decided: "1880-03-02"
+citations: ["8 Mo. App. 408"]
+reporter: "mo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Judge Bakewell concurs ; Judge Lewis is absent."]
+parties: ["Mercantile Mutual Insurance Company, Appellant, v. Hope Insurance Company, Respondent."]
+source_url: "https://static.case.law/mo-app/8/cases/0408-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 553603
+cites_cases: ["1 Allen, 495", "14 N. Y. 85", "17 Barb. 123", "17 Barb. 132", "2 Johns. Ch. 256", "2 Mo. App. 163", "20 Barb. 468", "20 Barb. 470", "43 Mo. 164", "5 Mo. App. 56", "55 Mo. 515", "57 Mo. 390", "59 Mo. 252", "6 La. 407", "61 Mo. 583", "62 Mo. 391", "66 Mo. 468"]
+---
+
+# Mercantile Mutual Insurance v. Hope Insurance
+
+## Majority (Hayden, J.,)
+
+Hayden, J.,
+delivered the opinion of the court.
+This is an action upon an alleged policy of reinsurance, by which it is claimed that the defendant insured the plaintiff in the sum of $5,000, on certain cargo-risks which the plaintiff had upon goods on board the steamboat Belle of St. Louis, when at St. Louis and bound for New Orleans. This reinsurance, of date December 8, 1876, was made at St. Louis by Woods & Kennett, insurance agents, and in making it Woods acted for both parties, the plaintiff and the defendant. This firm had for some years been agents of the defendant at St. Louis, and were also agents for the plaintiff and for other companies.
+It appears that on December 7, 1876, the plaintiff had over $16,000 insurance on cargo-risks on the boat, which left St. Louis on her voyage on that day, the weather being pleasant; that on the morning of the 8th the weather turned intensely cold ; and that after the boat’s departure, and on the 8th, this reinsurance was placed by Woods for the plaintiff with defendant company, he having in his possession blank policies of the defendant, signed by its president and secretary, one of which he filled up with this risk.
+On the 9th of December the defendant telegraphed to Woods to take no more risks.
+The defendant had not known that Woods had taken this particular risk for the company. On receiving the report of this risk, on' the 14th of December, the defendant tele-, graphed disapproving Woods’ conduct, and saying that his reports would not be accepted. Woods replied on the 15th, saying the certificates were out of his possession, and that he could not cancel the risks. On January 31, 1877, and while on the voyage, the steamboat was cut down by heavy floating ice. Proofs of loss were made, and the defendant denied its liability. The court below ruled that upon the evidence the plaintiff was uot entitled to recover.
+The antagonism which exists between the opposite parties to a bargain is generally recognized by law. Each acts, and has a right to act, with a view to his own interest, and they deal at arm’s length. Accordingly, if one acts by an agent, that agent should be not nominally, but really in the place of his principal, with his self-interest undisturbed by calculations as to the interest of the opposing party. This, as well as the exercise of the best skill and judgment of his agent as to the contingencies of the bargain, the principal has a right to demand.
+Accordingly a contrivance which reduces the two parties to one, and admits an agent, representing'antagonistic interests, to make a bargain by himself, is so far against the policy of the law that the contract is held to be void, unless the principal chooses afterwards, aud with a knowledge of all the circumstances that affect his possession, to ratify the act of his agent. This principle has a direct application to contracts of reinsurance, in which one acts as agent for both parties. Utica Ins. Co. v. Toledo Ins. Co., 17 Barb. 123; New York, etc., Ins. Co. v. National, etc., Ins. Co., 14 N. Y. 85. See Michode v. Girard, 4 How. (U. S.) 552 ; Davone v. Fanning, 2 Johns. Ch. 256; Mc-Donald v. Wagner, 5 Mo. App. 56.
+It is claimed that the defendant is estopped from setting up the defence that the contract is void as made by an agent representing both parties, as it consented that one man should arrange and settle the terms of this reinsurance. If the defendant had given an express power to the agent to do this particular act, under the circumstances and in all respects as it was done by the agent, and the agent had acted on the power so given, we are not prepared to say that the present defence would be a good one; but certainly nothing short of this, or such a subsequent ratification as implies a complete waiver of the objection, can stand in the way of the defendant’s position. The rule that evidence of former transactions similar to the one in question, and recognition of such by the principal, may be given in evidence to prove the agent’s authority, has no application here. Proof that in reference to other risks the same agent had acted in a similar double capacity for the defendant, and of acquiescence in such acts, would have amounted to nothing. There cannot be a course of dealing in reference to illegal acts ; and prior consent or subsequent ratification, to waive the illegality, necessarily implies anticipation or knowledge of the facts of the particular transaction. The contract is presumptively void, and the burden is on the party seeking to establish it to overthrow the presumption which the law creates. The offers which the plaintiff made to prove that other risks had been reinsured in the same way by the agent for both companies, and that the defendant had assented to such re-insurances ; that, further, the defendant did not decline the present risk on the ground that the agent had acted for both companies, were properly rejected. This and similar evidence had no tendency to prove consent to- the present reinsurance, or to otherwise advance the plaintiff’s case.
+Judgment affirmed.
+Judge Bakewell concurs ; Judge Lewis is absent.
