@@ -1,0 +1,32 @@
+---
+court: "St. Louis Court of Appeals"
+decided: "1888-03-13"
+citations: ["30 Mo. App. 10"]
+reporter: "mo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Judge Thompson concurs."]
+parties: ["Eliza A. Nelson, Appellant, Charles F. Betts et al., Respondents."]
+source_url: "https://static.case.law/mo-app/30/cases/0010-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 502871
+cites_cases: ["21 Mo. App. 219", "21 Mo. App. 221", "22 Mo. App.. 388", "3 Mo. App. 561", "4 Mo. App. 223", "5 Mo. App. 577", "54 Mo. 352", "56 Mo. 310", "64 Mo. 66", "77 Mo. 166", "88 Mo. 301"]
+---
+
+# Nelson v. Betts
+
+## Majority (Rombauer, P. J.,)
+
+Rombauer, P. J.,
+delivered the opinion of the court.
+On the first appeal taken by plaintiff, we decided that the trial court erred in dismissing her petition on, the ground that her cause of action was one at law and not in equity, and remanded the case for further proceedings. 21 Mo. App. 221. The cause was retried by the lower court, the trial resulting in a decree for plain-tiff, declaring her mortgage satisfied, and rendering-judgment in her favor against Charles F. Betts, one off the defendants, in the snm of $11.45 and costs, but making no disposition of the defendants, Robert H. Betts and William Brandon.
+Prom this decree the plaintiff appeals, and assigns for error that the court erred in granting to defendants a new trial,'in not rendering judgment against all the ■defendants, and in awarding her wholly inadequate damages.
+The substance of plaintiff’s complaint and her testimony as to the facts of the case appear in the opinion of this court upon' the former appeal, and it is unnecessary to set them out in detail again. Her testimony was the •same in substance upon the last trial, the defendants •offering some additional testimony. Upon the whole testimony thus adduced, the court made a finding, ■embodied in the record in a written opinion, that the market value of plaintiff’s furniture was what she ■obtained'for it from Brandon : that the testimony failed to show that there was any conspiracy between Brandon ■■ and Betts, or that Betts derived any benefit from the sale of the plaintiff’s furniture to Brandon, but that the • mortgage was fraudulent to the extent of $12.50, and that plaintiff was entitled to recover that amount from •thedefendant Betts less some, slight amount due him ..for interest.
+The additional testimony adduced upon the last ‘trial shows that the plaintiff was a woman of culture and intelligence, and had been engaged for over twenty years in business on her own account, and that she had ample opportunity to dispose of her furniture to other dealers, provided she could realize upon it a higher sum than the amount paid for it by Brandon. Her testimony, moreover, is contradicted in some important particulars, and as the trial court had the advantage which we do not possess of seeing and hearing all the witnesses, we are not justified to disturb the decree on the grounds that the testimony shows the value of plaintiff’s furniture to.have been greater than the value found by the court, or that the testimony shows that Brandon and Betts are jointly responsible.
+The plaintiff’s complaint that the court erred in granting to defendants a new trial is wholly unfounded.
+It appears that when the cause was called for trial the defendants and their counsel were absent. The court thereupon heard plaintiff’s evidence and took the case as submitted. On the day next succeeding the defendants appeared and moved to set aside the submission and for leave to adduce proof, filing affidavits in support of the motion explaining their absence on the preceding day. The plaintiff by counsel was present in court when the motion was heard. The court asked him. whether his witnesses were still in the city, to which inquiry he failed to reply. The court thereupon set aside the submission and proceeded with the trial of the cause in the presence of plaintiff’s counsel, who stated he would rest his case on the evidence already adduced.
+There was no error in this. Defendant’s motion was not a motion for new trial, as such motion, presupposed a previous verdict or finding. The statute (sec. 3558), which provides that motions shall be filed at least one - day before they may be argued or determined, does not purport to lay down an unyielding rule. Curtis v. Curtis, 54 Mo. 352. The plaintiff’s counsel was present in court, examined the affidavits, filed objections to their sufficiency, and did not desire additional time to file counter-affidavits. In fact, there is nothing in the record to show that he would have been in any better position to resist the defendants’ application at any future time.
+The plaintiff’s complaint that the decree is not complete in not making disposition of the other defendants is just. A judgment or decree must make disposition of all substantial defendants. McCord v. McCord, 77 Mo. 166. If the court found, as it did, that the mortgage-was fraudulent to any extent, then, under the testimony, both Charles and Bobert H. Betts are answerable for-such fraud, and the plaintiff was entitled to a decree against both. If the court found, as it did, that Brantlon was not connected with the conspiracy, it should have rendered judgment in his favor. These considerations call for a modification of the decree in this court.
+There is, however, a further consideration which necessitates a reversal. The trial court, as above seen, found that the mortgage was fraudulent to the extent of $12.50. It held that the plaintiff could not recover the usurious interest paid by her voluntarily on the valid debt of twenty-five dollars. This was correct, but could have no application to the interest extorted from her on the fraudulent debt of $12.50. The testimony is uncontradicted that the plaintiff did pay such interest for at least three successive months, which entitles her, even on the theory of the court’s finding, to an additional recovery of $3.75.
+Judgment reversed, and judgment for plaintiff in this court against defendants, Charles F. and Robert H. Betts, for fifteen and twenty-hundredths dollars, and costs, and judgment in favor of defendant Brandon ; also that the mortgage described in the decree of the trial court be, and is hereby, declared satisfied.
+Judge Thompson concurs.
